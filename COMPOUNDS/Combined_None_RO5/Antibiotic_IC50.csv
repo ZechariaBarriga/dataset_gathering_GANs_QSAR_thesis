@@ -1,0 +1,168 @@
+molecule_chembl_id,canonical_smiles,standard_value,standard_units,standard_type,pchembl_value,target_pref_name,bao_label
+CHEMBL719,C/C(=C\C(=O)OCCCCCCCCC(=O)O)C[C@@H]1OC[C@H](C[C@@H]2O[C@H]2[C@@H](C)[C@H](C)O)[C@@H](O)[C@H]1O,0.8,nM,IC50,9.1,Isoleucyl-tRNA synthetase,single protein format
+CHEMBL1201752,C/C(=C\c1csc(C)n1)[C@@H]1C[C@@H]2O[C@]2(C)CCC[C@H](C)[C@H](O)[C@@H](C)C(=O)C(C)(C)[C@@H](O)CC(=O)N1,2.6,nM,IC50,8.59,HCT-116,cell-based format
+CHEMBL1237124,C=C1c2c(Cl)ccc(O)c2C(=O)C2=C(O)[C@]3(O)C(=O)C(C(N)=O)=C(O)[C@@H](N(C)C)[C@@H]3[C@@H](O)[C@H]12,62000.0,nM,IC50,4.21,microRNA 21,nucleic acid format
+CHEMBL261772,C=C1c2c(Cl)ccc(O)c2C(=O)C2=C(O)[C@]3(O)C(=O)C(C(N)=O)=C(O)[C@@H](N(C)C)[C@@H]3[C@@H](O)[C@H]12.O=C(O)c1cc(S(=O)(=O)O)ccc1O,250.0,nM,IC50,6.6,Unchecked,assay format
+CHEMBL249837,C=C1c2cccc(O)c2C(=O)C2=C(O)[C@]3(O)C(=O)C(C(N)=O)=C(O)[C@@H](N(C)C)[C@@H]3[C@@H](O)[C@H]12,2500.0,nM,IC50,5.6,Multidrug translocase mdfA,assay format
+CHEMBL2146123,C=C1c2cccc(O)c2C(=O)C2=C(O)[C@]3(O)C(=O)C(C(N)=O)=C(O)[C@@H](N(C)C)[C@@H]3[C@@H](O)[C@H]12.Cl,376.0,nM,IC50,6.42,Unchecked,assay format
+CHEMBL109480,C=CCNC1=C2C[C@@H](C)C[C@H](OC)[C@H](O)[C@@H](C)/C=C(\C)[C@H](OC(N)=O)[C@@H](OC)/C=C\C=C(/C)C(=O)NC(=CC1=O)C2=O,0.1,nM,IC50,10.0,HT-29,cell-based format
+CHEMBL377559,C=CCNc1c(O)cc2c(O)c1C[C@@H](C)C[C@H](OC)[C@H](O)[C@@H](C)/C=C(\C)[C@H](OC(N)=O)[C@@H](OC)/C=C\C=C(/C)C(=O)N2.Cl,62.0,nM,IC50,7.21,Platelet-derived growth factor receptor alpha,cell-based format
+CHEMBL99,CC(/C=C/C(=O)NO)=C\[C@@H](C)C(=O)c1ccc(N(C)C)cc1,0.15,nM,IC50,9.82,Histone deacetylase 1,single protein format
+CHEMBL606111,CC(=O)NC1C(OP(=O)(O)OP(=O)(O)OC[C@H]2OC(n3cc(I)c(=O)[nH]c3=O)[C@H](O)[C@@H]2O)OC(CO)C(O)C1O[C@H](C)C(=O)N[C@@H](C)P(=O)(O)CC(CCC(=O)O)C(=O)O,4.0,nM,IC50,8.4,Unchecked,assay format
+CHEMBL374975,CC(=O)O[C@H]1C[C@@]2(C)[C@@H](C[C@@H](O)[C@H]3[C@@]4(C)CC[C@@H](O)[C@@H](C)[C@@H]4CC[C@@]32C)/C1=C(\CCC=C(C)C)C(=O)O,10100.0,nM,IC50,5.0,Bile salt export pump,assay format
+CHEMBL1186894,CC(=O)[C@]1(N)Cc2c(O)c3c(c(O)c2[C@@H](O[C@H]2C[C@H](O)[C@H](O)CO2)C1)C(=O)c1ccccc1C3=O,330.0,nM,IC50,6.48,SARS-CoV-2,organism-based format
+CHEMBL481958,CC(=O)[C@]1(N)Cc2c(O)c3c(c(O)c2[C@@H](O[C@H]2C[C@H](O)[C@H](O)CO2)C1)C(=O)c1ccccc1C3=O.Cl,820.0,nM,IC50,6.09,A549,cell-based format
+CHEMBL1117,CC(=O)[C@]1(O)Cc2c(O)c3c(c(O)c2[C@@H](O[C@H]2C[C@H](N)[C@H](O)[C@H](C)O2)C1)C(=O)c1ccccc1C3=O,0.71,nM,IC50,9.15,Plasmodium falciparum,organism-based format
+CHEMBL1200976,CC(=O)[C@]1(O)Cc2c(O)c3c(c(O)c2[C@@H](O[C@H]2C[C@H](N)[C@H](O)[C@H](C)O2)C1)C(=O)c1ccccc1C3=O.Cl,11.1,nM,IC50,7.96,Unchecked,cell-based format
+CHEMBL1282,CC(C)Cn1cnc2c(N)nc3ccccc3c21,646.0,nM,IC50,6.19,"7,8-dihydro-8-oxoguanine triphosphatase",single protein format
+CHEMBL29,CC1(C)S[C@@H]2[C@H](NC(=O)Cc3ccccc3)C(=O)N2[C@H]1C(=O)O,80.0,nM,IC50,7.1,Unchecked,assay format
+CHEMBL174,CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)c3ccccc3)C(=O)N2[C@H]1C(=O)O,20.0,nM,IC50,7.7,Staphylococcus aureus,organism-based format
+CHEMBL1908343,CC1OC2OC(=O)OC2C2=C1C(=O)c1c(O)cccc1C2=O,70.0,nM,IC50,7.16,NON-PROTEIN TARGET,cell-based format
+CHEMBL2218877,CCC(=O)O[C@H]1[C@H](O[C@@H]2[C@@H](C)[C@H](O[C@H]3C[C@@](C)(OC)[C@@H](O)[C@H](C)O3)[C@@H](C)C(=O)O[C@H](CC)[C@@](C)(O)[C@H](O)[C@@H](C)C(=O)[C@H](C)C[C@@]2(C)O)O[C@H](C)C[C@@H]1N(C)C.CCCCCCCCCCCCOS(=O)(=O)O,65.8,nM,IC50,7.18,Liver,mitochondrion format
+CHEMBL499808,CCC(C)CC(C)CCCCCCCCC(=O)N[C@H]1C[C@@H](O)[C@@H](NCCN)NC(=O)[C@@H]2[C@@H](O)CCN2C(=O)[C@H]([C@H](O)CCN)NC(=O)[C@H]([C@H](O)[C@@H](O)c2ccc(O)cc2)NC(=O)[C@@H]2C[C@@H](O)CN2C(=O)[C@H]([C@@H](C)O)NC1=O,0.24,nM,IC50,9.62,"Beta-1,3-glucan synthase",single protein format
+CHEMBL1096885,CCCCC(=O)OCC(=O)[C@]1(O)Cc2c(O)c3c(c(O)c2[C@@H](O[C@H]2C[C@H](NC(=O)C(F)(F)F)[C@H](O)[C@H](C)O2)C1)C(=O)c1c(OC)cccc1C3=O,24100.0,nM,IC50,4.62,Bile salt export pump,cell-based format
+CHEMBL436699,CCCCCCCCCCCCCCCCCCNCc1c(O)cc2c(c1O)-c1cc(ccc1O)C1NC(=O)C3NC(=O)C4NC(=O)C(Cc5ccc(c(Cl)c5)Oc5cc3cc(c5O)Oc3ccc(cc3Cl)C(O)C(NC1=O)C(=O)N[C@H]2C(=O)NC)NC(=O)C(N)c1ccc(O)c(c1)Oc1cc(O)cc4c1,60000.0,nM,IC50,4.22,CCRF-CEM,cell-based format
+CHEMBL440635,CCCCCCCCCCCCCCCCCCNCc1c(O)cc2c(c1O)-c1cc(ccc1O)C1NC(=O)C3NC(=O)C4NC(=O)C(Cc5ccc(c(Cl)c5)Oc5cc3cc(c5O)Oc3ccc(cc3Cl)C(O)C(NC1=O)C(=O)N[C@H]2C(=O)O)NC(=O)C(N)c1ccc(O)c(c1)Oc1cc(O)cc4c1,22000.0,nM,IC50,4.66,CCRF-CEM,cell-based format
+CHEMBL411363,CCCCCCCCCCNC(=O)[C@@H]1NC(=O)C2NC(=O)C(NC(=O)C3NC(=O)C4NC(=O)C(Cc5ccc(c(Cl)c5)Oc5cc3cc(c5O)Oc3ccc(cc3Cl)C2O)NC(=O)C(N)c2ccc(O)c(c2)Oc2cc(O)cc4c2)c2ccc(O)c(c2)-c2c(O)cc(O)cc21,21000.0,nM,IC50,4.68,CCRF-CEM,cell-based format
+CHEMBL411975,CCCCCCCCCCNC(=O)[C@H]1NC(=O)[C@H]2NC(=O)[C@H](NC(=O)[C@@H]3NC(=O)[C@H](CC(N)=O)NC(=O)[C@H](NC(=O)[C@@H](CC(C)C)NC)[C@H](O)c4ccc(c(Cl)c4)Oc4cc3cc(c4O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O[C@H]3C[C@](C)(N)[C@@H](O)[C@H](C)O3)Oc3ccc(cc3)[C@H]2O[C@H]2C[C@](C)(N)[C@@H](O)[C@H](C)O2)c2ccc(O)c(c2)-c2c(O)cc(O)cc21,9400.0,nM,IC50,5.03,CCRF-CEM,cell-based format
+CHEMBL406634,CCCCCCCCCCNCc1c(O)cc2c(c1O)-c1cc(ccc1O)C1NC(=O)C3NC(=O)C4NC(=O)C(Cc5ccc(c(Cl)c5)Oc5cc3cc(c5O)Oc3ccc(cc3Cl)C(O)C(NC1=O)C(=O)N[C@H]2C(=O)NCCCN(C)C)NC(=O)C(N)c1ccc(O)c(c1)Oc1cc(O)cc4c1,48000.0,nM,IC50,4.32,L1210,cell-based format
+CHEMBL439300,CCCCCCCCCC[N+](C)(C)CCCN(N)Cc1c(O)cc2c(c1O)-c1cc(ccc1O)C1NC(=O)C3NC(=O)C4NC(=O)C(Cc5ccc(c(Cl)c5)Oc5cc3cc(c5O)Oc3ccc(cc3Cl)C(O)C(NC1=O)C(=O)N[C@H]2C(=O)NCCCCCCN)NC(=O)C(N)c1ccc(O)c(c1)Oc1cc(O)cc4c1,38000.0,nM,IC50,4.42,L1210,cell-based format
+CHEMBL2103748,CCCCCCCCOc1ccc(C(=O)N[C@H]2C[C@@H](O)[C@@H](O)NC(=O)[C@@H]3[C@@H](O)[C@@H](C)CN3C(=O)[C@H]([C@@H](C)O)NC(=O)[C@H]([C@H](O)[C@@H](O)c3ccc(O)cc3)NC(=O)[C@@H]3C[C@@H](O)CN3C(=O)[C@H]([C@@H](C)O)NC2=O)cc1,1000.0,nM,IC50,6.0,Candida albicans,organism-based format
+CHEMBL457547,CCCCCOc1ccc(-c2cc(-c3ccc(C(=O)N[C@H]4C[C@@H](O)[C@@H](O)NC(=O)[C@@H]5[C@@H](O)[C@@H](C)CN5C(=O)[C@H]([C@H](O)CC(N)=O)NC(=O)[C@H]([C@H](O)[C@@H](O)c5ccc(O)c(OS(=O)(=O)O)c5)NC(=O)[C@@H]5C[C@@H](O)CN5C(=O)[C@H]([C@@H](C)O)NC4=O)cc3)no2)cc1,21000.0,nM,IC50,4.68,ATP-binding cassette sub-family G member 2,cell membrane format
+CHEMBL264241,CCCCCOc1ccc(-c2ccc(-c3ccc(C(=O)N[C@H]4C[C@@H](O)[C@@H](O)NC(=O)[C@@H]5[C@@H](O)[C@@H](C)CN5C(=O)[C@H]([C@@H](C)O)NC(=O)[C@H]([C@H](O)[C@@H](O)c5ccc(O)cc5)NC(=O)[C@@H]5C[C@@H](O)CN5C(=O)[C@H]([C@@H](C)O)NC4=O)cc3)cc2)cc1,4640.0,nM,IC50,5.33,SARS-CoV-2,organism-based format
+CHEMBL412977,CCCCOc1ccc(CNC2C(Oc3c4cc5cc3Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C5NC(=O)C5NC(=O)C(Cc6ccc(cc6)O4)NC(=O)C(N(C)Cc4ccc(OCCCC)cc4)c4ccc(O)c(c4)Oc4cc(O)c(Cl)c5c4)c4ccc(O)c(c4)-c4c(O)cc(O)cc4[C@H](C(=O)NCCCN(C)C)NC3=O)OC(C(=O)NCCCN(C)C)C(O)C2O)cc1,18000.0,nM,IC50,4.75,MOLT-4,cell-based format
+CHEMBL217361,CCCCc1ccc(CN2CCN(Cc3c(O)cc4c(c3O)-c3cc(ccc3O)C3NC(=O)C5NC(=O)C6NC(=O)C(Cc7ccc(c(Cl)c7)Oc7cc5cc(c7O)Oc5ccc(cc5Cl)C(O)C(NC3=O)C(=O)N[C@H]4C(=O)NC)NC(=O)C(N)c3ccc(O)c(c3)Oc3cc(O)cc6c3)CC2)cc1,61000.0,nM,IC50,4.21,L1210,cell-based format
+CHEMBL413713,CCCCc1ccc(CN2CCN(Cc3c(O)cc4c(c3O)-c3cc(ccc3O)C3NC(=O)C5NC(=O)C6NC(=O)C(Cc7ccc(c(Cl)c7)Oc7cc5cc(c7O)Oc5ccc(cc5Cl)C(O)C(NC3=O)C(=O)N[C@H]4C(=O)NCCCN(C)C)NC(=O)C(N)c3ccc(O)c(c3)Oc3cc(O)cc6c3)CC2)cc1,29000.0,nM,IC50,4.54,L1210,cell-based format
+CHEMBL405483,CCCCc1ccc(CN2CCN(Cc3c(O)cc4c(c3O)-c3cc(ccc3O)C3NC(=O)C5NC(=O)C6NC(=O)C(Cc7ccc(cc7)Oc7cc5cc(c7OC5OC(C(=O)O)C(O)C(O)C5N)Oc5ccc(cc5Cl)C(O)C(NC3=O)C(=O)N[C@H]4C(=O)O)NC(=O)C(NC)c3ccc(O)c(c3)Oc3cc(O)c(Cl)c6c3)CC2)cc1,20000.0,nM,IC50,4.7,L1210,cell-based format
+CHEMBL415231,CCCCc1ccc(CNC2C(Oc3c4cc5cc3Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C5NC(=O)C5NC(=O)C(Cc6ccc(cc6)O4)NC(=O)C(NC)c4ccc(O)c(c4)Oc4cc(O)c(Cl)c5c4)c4ccc(O)c(c4)-c4c(O)cc(O)cc4[C@H](C(=O)NCCCN(C)C)NC3=O)OC(C(=O)NCCCN(C)C)C(O)C2O)cc1,36000.0,nM,IC50,4.44,L1210,cell-based format
+CHEMBL415132,CCCCc1ccc(CNC2C(Oc3c4cc5cc3Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C5NC(=O)C5NC(=O)C(Cc6ccc(cc6)O4)NC(=O)C(NC)c4ccc(O)c(c4)Oc4cc(O)c(Cl)c5c4)c4ccc(O)c(c4)-c4c(cc(O)c(CN5CCN(Cc6ccc(-c7ccccc7)cc6)CC5)c4O)[C@H](C(=O)NCCCN(C)C)NC3=O)OC(C(=O)NCCCN(C)C)C(O)C2O)cc1,25000.0,nM,IC50,4.6,L1210,cell-based format
+CHEMBL414553,CCCCc1ccc(CNC2C(Oc3c4cc5cc3Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C5NC(=O)C5NC(=O)C(Cc6ccc(cc6)O4)NC(=O)C(NC)c4ccc(O)c(c4)Oc4cc(O)c(Cl)c5c4)c4ccc(O)c(c4)-c4c(cc(O)c(CN5CCN(Cc6ccc(-c7ccccc7)cc6)CC5)c4O)[C@H](C(=O)O)NC3=O)OC(C(=O)O)C(O)C2O)cc1,81000.0,nM,IC50,4.09,CCRF-CEM,cell-based format
+CHEMBL441397,CCCCc1ccc(CNCc2c(O)cc3c(c2O)-c2cc(ccc2O)C2NC(=O)C4NC(=O)C5NC(=O)C(Cc6ccc(c(Cl)c6)Oc6cc4cc(c6O)Oc4ccc(cc4Cl)C(O)C(NC2=O)C(=O)N[C@H]3C(=O)NC)NC(=O)C(NC(=O)OC(C)(C)C)c2ccc(O)c(c2)Oc2cc(O)cc5c2)cc1,70000.0,nM,IC50,4.16,L1210,cell-based format
+CHEMBL410210,CCCCc1ccc(CNCc2c(O)cc3c(c2O)-c2cc(ccc2O)C2NC(=O)C4NC(=O)C5NC(=O)C(Cc6ccc(c(Cl)c6)Oc6cc4cc(c6O)Oc4ccc(cc4Cl)C(O)C(NC2=O)C(=O)N[C@H]3C(=O)O)NC(=O)C(NC(=O)OC(C)(C)C)c2ccc(O)c(c2)Oc2cc(O)cc5c2)cc1,60000.0,nM,IC50,4.22,CCRF-CEM,cell-based format
+CHEMBL1753,CCC[C@@H]1C[C@@H](C(=O)N[C@@H]([C@H]2O[C@H](SC)[C@H](O)[C@@H](O)[C@H]2O)[C@H](C)Cl)N(C)C1,1.3,nM,IC50,8.89,Plasmodium falciparum,organism-based format
+CHEMBL1572,CCN[C@@H]1C[C@H](N)[C@@H](O[C@H]2OC(CN)=CC[C@H]2N)[C@H](O)[C@H]1O[C@H]1OC[C@](C)(O)[C@H](NC)[C@H]1O,20.0,nM,IC50,7.7,Bacterial 70S ribosome,subcellular format
+CHEMBL1200688,CCOC(=O)CCC(=O)O[C@H]1[C@H](O[C@@H]2[C@@H](C)[C@H](O[C@H]3C[C@@](C)(OC)[C@@H](O)[C@H](C)O3)[C@@H](C)C(=O)O[C@H](CC)[C@@](C)(O)[C@H](O)[C@@H](C)C(=O)[C@H](C)C[C@@]2(C)O)O[C@H](C)C[C@@H]1N(C)C,54233.0,nM,IC50,4.27,Unchecked,cell-based format
+CHEMBL1908336,CCOC(=O)[C@@H]1CC(=O)O[C@H](C)C/C=C/C=C/[C@H](O)[C@H](C)C[C@H](CC=O)[C@H](O[C@@H]2O[C@H](C)[C@@H](O[C@H]3C[C@@](C)(O)[C@@H](OC(=O)CC)[C@H](C)O3)[C@H](N(C)C)[C@H]2O)[C@H]1OC,14300.0,nM,IC50,4.84,Bile salt export pump,cell-based format
+CHEMBL1208572,CC[C@@H](C(=O)[C@@H](C)[C@@H](O)[C@H](C)[C@@H]1O[C@@H]([C@@H](CC)C(=O)O)CC[C@@H]1C)[C@H]1O[C@]2(C=C[C@@H](O)[C@]3(CC[C@@](C)([C@H]4CC[C@](O)(CC)[C@H](C)O4)O3)O2)[C@H](C)C[C@@H]1C,100.0,nM,IC50,7.0,Unchecked,cell-based format
+CHEMBL502620,CC[C@@]1(O)C[C@H](O[C@H]2C[C@H](N(C)C)[C@H](O[C@H]3C[C@H](O)[C@H](O[C@H]4CCC(=O)[C@H](C)O4)[C@H](C)O3)[C@H](C)O2)c2c(cc3c(c2O)C(=O)c2c(O)cccc2C3=O)[C@H]1C(=O)OC,40.0,nM,IC50,7.4,HCT-116,cell-based format
+CHEMBL1136,CC[C@H]1OC(=O)[C@H](C)C(=O)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@](C)(OC)C[C@@H](C)C(=O)[C@H](C)[C@H]2N(CCCCn3cnc(-c4cccnc4)c3)C(=O)O[C@]12C,230.0,nM,IC50,6.64,Unchecked,assay format
+CHEMBL3989904,CC[C@H]1OC(=O)[C@H](C)C(=O)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@](C)(OCC=Cc2cnc3ccccc3c2)C[C@@H](C)C(=O)[C@H](C)[C@H]2NC(=O)O[C@@]21C,40.0,nM,IC50,7.4,Streptococcus pneumoniae,organism-based format
+CHEMBL1214185,CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@](C)(O)C[C@@H](C)/C(=N\OCOCCOC)[C@H](C)[C@@H](O)[C@]1(C)O,989.0,nM,IC50,6.0,Alpha-1b adrenergic receptor,cell membrane format
+CHEMBL532,CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@](C)(O)C[C@@H](C)C(=O)[C@H](C)[C@@H](O)[C@]1(C)O,37.0,nM,IC50,7.43,Streptococcus pneumoniae,organism-based format
+CHEMBL529,CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@](C)(O)C[C@@H](C)CN(C)[C@H](C)[C@@H](O)[C@]1(C)O,2.6,nM,IC50,8.59,Naegleria fowleri,organism-based format
+CHEMBL1237072,CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@](C)(O)C[C@@H](C)[C@@H]2N[C@@H](COCCOC)O[C@H]([C@H]2C)[C@]1(C)O,5520.0,nM,IC50,5.26,Unchecked,assay format
+CHEMBL1741,CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@](C)(OC)C[C@@H](C)C(=O)[C@H](C)[C@@H](O)[C@]1(C)O,90.0,nM,IC50,7.05,Streptococcus pneumoniae,organism-based format
+CHEMBL318153,CCc1cn([C@H]2C[C@H](O)[C@@H](CO)O2)c(=O)[nH]c1=O,150.0,nM,IC50,6.82,Thymidine kinase,single protein format
+CHEMBL1237046,CN(C)[C@@H]1C(O)=C(C(=O)NCN2CCCC2)C(=O)[C@@]2(O)C(O)=C3C(=O)c4c(O)cccc4[C@@](C)(O)[C@H]3C[C@@H]12,1870.0,nM,IC50,5.73,Unchecked,assay format
+CHEMBL1951095,CN(C)[C@@H]1C(O)=C(C(N)=O)C(=O)[C@@]2(O)C(O)=C3C(=O)c4c(O)c(NC(=O)CN5CCCC5)cc(F)c4C[C@H]3C[C@@H]12,620.0,nM,IC50,6.21,Bacterial 70S ribosome,subcellular format
+CHEMBL1591,CN(C)[C@@H]1C(O)=C(C(N)=O)C(=O)[C@@]2(O)C(O)=C3C(=O)c4c(O)ccc(Cl)c4[C@@H](O)[C@H]3C[C@@H]12,1880.0,nM,IC50,5.73,Mycobacterium smegmatis,organism-based format
+CHEMBL1200474,CN(C)[C@@H]1C(O)=C(C(N)=O)C(=O)[C@@]2(O)C(O)=C3C(=O)c4c(O)ccc(Cl)c4[C@@H](O)[C@H]3C[C@@H]12.Cl,61.42,nM,IC50,7.21,Estrogen receptor beta,single protein format
+CHEMBL404520,CN(C)[C@@H]1C(O)=C(C(N)=O)C(=O)[C@@]2(O)C(O)=C3C(=O)c4c(O)ccc(Cl)c4[C@@](C)(O)[C@H]3C[C@@H]12,100000.0,nM,IC50,4.0,Protein-arginine deiminase type-4,single protein format
+CHEMBL1440,CN(C)[C@@H]1C(O)=C(C(N)=O)C(=O)[C@@]2(O)C(O)=C3C(=O)c4c(O)cccc4[C@@](C)(O)[C@H]3C[C@@H]12,323.9,nM,IC50,6.49,Plasmodium falciparum,organism-based format
+CHEMBL1517,CN(C)[C@@H]1C(O)=C(C(N)=O)C(=O)[C@@]2(O)C(O)=C3C(=O)c4c(O)cccc4[C@@](C)(O)[C@H]3[C@H](O)[C@@H]12,34000.0,nM,IC50,4.47,Plasmodium falciparum,organism-based format
+CHEMBL376140,CN(C)c1cc(NC(=O)CNC(C)(C)C)c(O)c2c1C[C@H]1C[C@H]3[C@H](N(C)C)C(O)=C(C(N)=O)C(=O)[C@@]3(O)C(O)=C1C2=O,699.11,nM,IC50,6.16,Plasmodium falciparum,organism-based format
+CHEMBL1434,CN(C)c1ccc(O)c2c1C[C@H]1C[C@H]3[C@H](N(C)C)C(O)=C(C(N)=O)C(=O)[C@@]3(O)C(O)=C1C2=O,2600.0,nM,IC50,5.58,Multidrug translocase mdfA,assay format
+CHEMBL3989407,CN1CCC[C@H]1CCNC(=O)c1cn2c3c(c(N4CCC(c5cnccn5)C4)c(F)cc3c1=O)Oc1cc3ccccc3cc1-2,4440.0,nM,IC50,5.35,HeLa,cell-based format
+CHEMBL439257,CNC(=O)C[C@@H]1NC(=O)c2csc(n2)-c2ccc(-c3nc(C4=N[C@H](C(=O)N5CCC[C@H]5C(N)=O)CO4)cs3)nc2-c2csc(n2)-c2csc(n2)C(C(O)c2ccccc2)NC(=O)CNC(=O)c2nc(sc2COC)[C@H](C(C)C)NC(=O)c2nc1sc2C,5.0,nM,IC50,8.3,Unchecked,assay format
+CHEMBL1766417,CNC(=O)C[C@@H]1NC(=O)c2csc(n2)-c2ccc(-c3nc(C4=N[C@H](C(=O)N5CCC[C@H]5C(N)=O)CO4)cs3)nc2-c2csc(n2)-c2csc(n2)[C@H]([C@@H](O)c2ccccc2)NC(=O)CNC(=O)c2nc(sc2COC)[C@H](C(C)C)NC(=O)c2nc1sc2C,2000.0,nM,IC50,5.7,Escherichia coli,organism-based format
+CHEMBL415792,CNC(=O)[C@@H]1NC(=O)C2NC(=O)C(NC(=O)C3NC(=O)C(CC(N)=O)NC(=O)C(NC(=O)C(CC(C)C)N(C)C(=O)OC(C)(C)C)C(O)c4ccc(c(Cl)c4)Oc4cc3cc(c4O)Oc3ccc(cc3)C2O)c2ccc(O)c(c2)-c2c1cc(O)c(CN1CCN(Cc3ccc(-c4ccccc4)cc3)CC1)c2O,84000.0,nM,IC50,4.08,L1210,cell-based format
+CHEMBL429343,CNC(=O)[C@@H]1NC(=O)C2NC(=O)C(NC(=O)C3NC(=O)C4NC(=O)C(Cc5ccc(c(Cl)c5)Oc5cc3cc(c5O)Oc3ccc(cc3Cl)C2O)NC(=O)C(NC(=O)OC23CC5CC(CC(C5)C2)C3)c2ccc(O)c(c2)Oc2cc(O)cc4c2)c2ccc(O)c(c2)-c2c(O)cc(O)cc21,88000.0,nM,IC50,4.06,CCRF-CEM,cell-based format
+CHEMBL3039597,CNC(C)[C@@H]1CC[C@@H](N)[C@@H](O[C@H]2[C@H](O)[C@@H](O[C@H]3OC[C@](C)(O)[C@H](NC)[C@H]3O)[C@H](N)C[C@@H]2N)O1.CN[C@@H]1[C@@H](O)[C@@H](O[C@@H]2[C@@H](O)[C@H](O[C@H]3O[C@H](C(C)N)CC[C@H]3N)[C@@H](N)C[C@H]2N)OC[C@]1(C)O.CN[C@@H]1[C@@H](O)[C@@H](O[C@@H]2[C@@H](O)[C@H](O[C@H]3O[C@H](CN)CC[C@H]3N)[C@@H](N)C[C@H]2N)OC[C@]1(C)O,10.0,nM,IC50,8.0,Staphylococcus aureus,organism-based format
+CHEMBL3039594,CNC(C)[C@@H]1CC[C@@H](N)[C@@H](O[C@H]2[C@H](O)[C@@H](O[C@H]3OC[C@](C)(O)[C@H](NC)[C@H]3O)[C@H](N)C[C@@H]2N)O1.CN[C@@H]1[C@@H](O)[C@@H](O[C@@H]2[C@@H](O)[C@H](O[C@H]3O[C@H](C(C)N)CC[C@H]3N)[C@@H](N)C[C@H]2N)OC[C@]1(C)O.CN[C@@H]1[C@@H](O)[C@@H](O[C@@H]2[C@@H](O)[C@H](O[C@H]3O[C@H](CN)CC[C@H]3N)[C@@H](N)C[C@H]2N)OC[C@]1(C)O.O=S(=O)(O)O,28.0,nM,IC50,7.55,Ribosome,assay format
+CHEMBL221886,CN[C@@H]1[C@@H](O)[C@@H](O[C@@H]2[C@@H](O)[C@H](O[C@H]3OC(CN)=CC[C@H]3N)[C@@H](N)C[C@H]2N)OC[C@]1(C)O,7.0,nM,IC50,8.15,Staphylococcus aureus,organism-based format
+CHEMBL1167,CN[C@@H]1[C@H](O)[C@H](NC)[C@H]2O[C@@]3(O)C(=O)C[C@@H](C)O[C@H]3O[C@@H]2[C@H]1O,990.0,nM,IC50,6.0,Escherichia coli,organism-based format
+CHEMBL372795,CN[C@@H]1[C@H](O[C@H]2[C@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](N=C(N)N)[C@@H](O)[C@@H]3N=C(N)N)O[C@@H](C)[C@]2(O)C=O)O[C@@H](CO)[C@H](O)[C@H]1O,480.0,nM,IC50,6.32,Mycobacterium smegmatis,organism-based format
+CHEMBL267424,CN[C@H](CC(C)C)C(=O)N[C@H]1C(=O)N[C@@H](CC(N)=O)C(=O)N[C@H]2C(=O)N[C@H]3C(=O)N[C@H](C(=O)N[C@H](C(=O)NCc4ccc(-c5ccc(Cl)cc5)cc4)c4cc(O)cc(O)c4-c4cc3ccc4O)[C@H](O[C@H]3C[C@](C)(N)[C@@H](O)[C@H](C)O3)c3ccc(cc3)Oc3cc2cc(c3O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O[C@H]2C[C@](C)(N)[C@@H](O)[C@H](C)O2)Oc2ccc(cc2Cl)[C@H]1O,7700.0,nM,IC50,5.11,MOLT-4,cell-based format
+CHEMBL262777,CN[C@H](CC(C)C)C(=O)N[C@H]1C(=O)N[C@@H](CC(N)=O)C(=O)N[C@H]2C(=O)N[C@H]3C(=O)N[C@H](C(=O)N[C@H](C(=O)O)c4cc(O)cc(O)c4-c4cc3ccc4O)[C@H](O)c3ccc(c(Cl)c3)Oc3cc2cc(c3O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O[C@H]2C[C@](C)(N)[C@H](O)[C@H](C)O2)Oc2ccc(cc2Cl)[C@H]1O,0.4,nM,IC50,9.4,Staphylococcus aureus,organism-based format
+CHEMBL1256686,CNc1ccc2oc(C[C@H]3O[C@@]4(CC[C@H]3C)O[C@H]([C@H](C)C(=O)c3ccc[nH]3)[C@H](C)C[C@H]4C)nc2c1C(=O)O,1.0,nM,IC50,9.0,Plasmodium falciparum,organism-based format
+CHEMBL267216,COC(=O)[C@@H]1NC(=O)C2NC(=O)C(NC(=O)C(NC(=O)OC(C)(C)C)c3cc(Oc4ccc(CC(NC(=O)OCc5ccccc5)C(=O)O)cc4Cl)c(O)c(c3)Oc3ccc(cc3Cl)C2O)c2ccc(O)c(c2)-c2c1cc(O)c(CNC1C3CC4CC(C3)CC1C4)c2O,95000.0,nM,IC50,4.02,L1210,cell-based format
+CHEMBL504459,COC(=O)[C@@H]1c2cc3c(c(O)c2[C@@H](O[C@@H]2O[C@@H](C)[C@H](OC)[C@@](C)(OC)[C@H]2OC)C[C@]1(C)O)C(=O)c1c(O)cc2c(c1C3=O)O[C@@H]1O[C@@]2(C)[C@H](O)[C@@H](N(C)C)[C@@H]1O,100.0,nM,IC50,7.0,NS3,single protein format
+CHEMBL1505471,COC(=O)c1ccc(O)c2nc3c(C=O)c(O)cc(O)c3nc12,2060.0,nM,IC50,5.69,Dual specificity protein phosphatase 3,single protein format
+CHEMBL298359,COC1=C(C)C(=O)C2=C(C1=O)[C@@H](COC(N)=O)[C@@]1(OC)[C@H]3N[C@H]3CN21,0.052,nM,IC50,10.28,Nucleic Acid,cell-based format
+CHEMBL278315,COC1=C2C[C@@H](C)C[C@H](OC)[C@H](O)[C@@H](C)/C=C(\C)[C@H](OC(N)=O)[C@@H](OC)/C=C\C=C(/C)C(=O)NC(=CC1=O)C2=O,3.4,nM,IC50,8.47,A2780,cell-based format
+CHEMBL562,COC1=CC(=O)C[C@@H](C)[C@]12Oc1c(Cl)c(OC)cc(OC)c1C2=O,58.0,nM,IC50,7.24,Trichophyton mentagrophytes,organism-based format
+CHEMBL3989700,CO[C@@H]1[C@@H](OC(=O)c2ccc(C)[nH]2)[C@@H](O)[C@@H](Oc2ccc3c(O)c(NC(=O)c4c[nH]c(C(=O)Nc5c(O)c6ccc(O[C@H]7OC(C)(C)[C@H](OC)[C@@H](OC(=O)c8ccc(C)[nH]8)[C@H]7O)c(C)c6oc5=O)c4C)c(=O)oc3c2C)OC1(C)C,40.0,nM,IC50,7.4,Unchecked,assay format
+CHEMBL1909065,CO[C@@H]1[C@@H](OC)[C@H](C)[C@@](O)(CC(=O)O)O[C@H]1[C@H](C)[C@H]1O[C@@]2(CC[C@@](C)([C@H]3CC[C@@](C)([C@@H]4O[C@@H]([C@H]5O[C@](C)(O)[C@H](C)C[C@@H]5C)C[C@@H]4O[C@@H]4C[C@H](OC)[C@@H](OC)[C@H](C)O4)O3)O2)C[C@H](O)[C@H]1C,1.699,nM,IC50,8.77,Serotonin 6 (5-HT6) receptor,cell membrane format
+CHEMBL453514,CO[C@@H]1[C@@H](O[C@@H]2O[C@H](C)[C@@H](O[C@H]3C[C@@](C)(O)[C@@H](O)[C@H](C)O3)[C@H](N(C)C)[C@H]2O)[C@@H](CC=O)C[C@@H](C)[C@@H](O[C@H]2CC[C@H](N(C)C)[C@@H](C)O2)/C=C/C=C/C[C@@H](C)OC(=O)C[C@H]1O,30510.0,nM,IC50,4.52,HepG2,cell-based format
+CHEMBL2106399,CO[C@@H]1[C@@H](O[C@@H]2O[C@H](C)[C@@H](O[C@H]3C[C@@](C)(O)[C@@H](OC(=O)CC(C)C)[C@H](C)O3)[C@H](N(C)C)[C@H]2O)[C@@H](CC=O)C[C@@H](C)[C@@H](O)/C=C/C=C/C[C@@H](C)OC(=O)C[C@H]1O,1000.0,nM,IC50,6.0,Bacterial 70S ribosome,assay format
+CHEMBL224436,CO[C@@H]1[C@@H](O[C@@H]2O[C@H](C)[C@@H](O[C@H]3C[C@@](C)(O)[C@@H](OC(=O)CC(C)C)[C@H](C)O3)[C@H](N(C)C)[C@H]2O)[C@@H](CC=O)C[C@@H](C)[C@@H](O)/C=C/C=C/C[C@@H](C)OC(=O)C[C@H]1OC(C)=O,1200.0,nM,IC50,5.92,Bacterial 70S ribosome,assay format
+CHEMBL2303619,CO[C@@H]1[C@H](O)C[C@@H](O[C@@H]2C[C@H](Oc3cc4cc5c(c(O)c4c(O)c3C)C(=O)[C@@H](O[C@H]3C[C@@H](O[C@H]4C[C@@H](O[C@H]6C[C@](C)(O)[C@@H](OC(C)=O)[C@H](C)O6)[C@H](O)[C@@H](C)O4)[C@H](O)[C@@H](C)O3)[C@H]([C@H](OC)C(=O)[C@@H](O)[C@@H](C)O)C5)O[C@H](C)[C@@H]2OC(C)=O)O[C@@H]1C,1.0,nM,IC50,9.0,NON-PROTEIN TARGET,cell-based format
+CHEMBL32838,CO[C@@H]1[C@H](OC(=O)/C=C/C=C/C=C/C=C/C(=O)O)CC[C@]2(CO2)[C@H]1[C@@]1(C)O[C@@H]1CC=C(C)C,0.63,nM,IC50,9.2,Methionine aminopeptidase 2,single protein format
+CHEMBL105,CO[C@@]12[C@H](COC(N)=O)C3=C(C(=O)C(C)=C(N)C3=O)N1C[C@@H]1N[C@@H]12,0.02213,nM,IC50,10.66,NTERA-2-cl-D1,cell-based format
+CHEMBL521078,CO[C@@]12[C@H](COC(N)=O)C3=C(C(=O)C(C)=C(N)C3=O)N1C[C@H]1[C@@H]2N1C,3120.0,nM,IC50,5.51,Unchecked,assay format
+CHEMBL1237054,CO[C@H](C(=O)[C@@H](O)[C@@H](C)O)[C@@H]1Cc2cc3cc(O[C@H]4C[C@@H](O[C@@H]5C[C@@H](O)[C@H](O)[C@@H](C)O5)[C@H](O)[C@@H](C)O4)c(C)c(O)c3c(O)c2C(=O)[C@H]1O[C@H]1C[C@@H](O[C@@H]2C[C@@H](O)[C@@H](O[C@@H]3C[C@](C)(O)[C@H](O)[C@@H](C)O3)[C@@H](C)O2)[C@H](O)[C@@H](C)O1,12.5,nM,IC50,7.9,Plasmodium falciparum,organism-based format
+CHEMBL236297,CO[C@H]1/C=C/O[C@@]2(C)Oc3c(C)c(O)c4c(=O)c(c5oc6cc(N7CCN(CC(C)C)CC7)cc(O)c6nc-5c4c3C2=O)NC(=O)/C(C)=C\C=C\[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C,63000.0,nM,IC50,4.2,DNA-directed RNA polymerase subunit beta,assay format
+CHEMBL374478,CO[C@H]1/C=C/O[C@@]2(C)Oc3c(C)c(O)c4c(O)c(c(/C=N/N5CCN(C)CC5)c(O)c4c3C2=O)NC(=O)/C(C)=C\C=C\[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C,0.72,nM,IC50,9.14,Mycobacterium tuberculosis,organism-based format
+CHEMBL1660,CO[C@H]1/C=C/O[C@@]2(C)Oc3c(C)c(O)c4c(O)c(c(/C=N/N5CCN(C6CCCC6)CC5)c(O)c4c3C2=O)NC(=O)/C(C)=C\C=C\[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C,9910.0,nM,IC50,5.0,Bile salt export pump,cell-based format
+CHEMBL1617,CO[C@H]1/C=C/O[C@@]2(C)Oc3c(C)c(O)c4c(O)c(c5c(nc6cc(C)ccn65)c4c3C2=O)NC(=O)/C(C)=C\C=C\[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C,15400.0,nM,IC50,4.81,Canalicular multispecific organic anion transporter 1,cell-based format
+CHEMBL437765,CO[C@H]1/C=C/O[C@@]2(C)Oc3c(C)c(O)c4c(O)c(cc(O)c4c3C2=O)NC(=O)/C(C)=C\C=C\[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C,8.6,nM,IC50,8.07,Unchecked,assay format
+CHEMBL444633,CO[C@H]1/C=C/O[C@@]2(C)Oc3c(C)c(O)c4c(c3C2=O)C2=NC3(CCN(CC(C)C)CC3)NC2=C(NC(=O)/C(C)=C\C=C\[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C)C4=O,15900.0,nM,IC50,4.8,Multidrug resistance-associated protein 4,cell-based format
+CHEMBL383824,CO[C@H]1/C=C\C=C(/C)C(=O)NC2=CC(=O)C(NCCN(C)C)=C(C[C@@H](C)C[C@H](OC)[C@H](O)[C@@H](C)/C=C(\C)[C@@H]1OC(N)=O)C2=O,2.1,nM,IC50,8.68,A2058,cell-based format
+CHEMBL564085,CO[C@H]1C[C@H](O[C@H]2[C@H](C)[C@@H](O[C@@H]3O[C@H](C)C[C@H](N(C)C)[C@H]3OC(C)=O)[C@@H](C)C[C@@]3(CO3)C(=O)[C@H](C)[C@@H](OC(C)=O)[C@@H](C)[C@@H](C)OC(=O)[C@@H]2C)O[C@@H](C)[C@@H]1OC(C)=O,16000.0,nM,IC50,4.8,Cytochrome P450 3A4,single protein format
+CHEMBL1278118,COc1cc(OC)cc(N2CCN(C(=O)Nc3nc4cc(F)ccc4nc3OC)CC2)c1,11.0,nM,IC50,7.96,CAKI-1,cell-based format
+CHEMBL61,COc1cc([C@@H]2c3cc4c(cc3[C@H](O)[C@H]3COC(=O)[C@H]23)OCO4)cc(OC)c1OC,0.1,nM,IC50,10.0,MCF7,cell-based format
+CHEMBL469912,COc1ccc(C[C@H](N)C(=O)N[C@H]2[C@@H](O)[C@H](n3cnc4c(N(C)C)ncnc43)O[C@@H]2CO)cc1,0.35,nM,IC50,9.46,HEK293,cell-based format
+CHEMBL2107818,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)C[C@@](O)(/C(CO)=N/NC(=O)CCCCCN1C(=O)C=CC1=O)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1,580.0,nM,IC50,6.24,Replicase polyprotein 1ab,assay format
+CHEMBL417,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)C[C@@](O)(C(=O)CO)C[C@@H]3O[C@H]1C[C@H](N)[C@@H](O)[C@H](C)O1,20.0,nM,IC50,7.7,NCI-H460,cell-based format
+CHEMBL1200981,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)C[C@@](O)(C(=O)CO)C[C@@H]3O[C@H]1C[C@H](N)[C@@H](O)[C@H](C)O1.Cl,2640.0,nM,IC50,5.58,Unchecked,assay format
+CHEMBL53463,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)C[C@@](O)(C(=O)CO)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1,0.04,nM,IC50,10.4,Chorioallantoic membrane,tissue-based format
+CHEMBL359744,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)C[C@@](O)(C(=O)CO)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1.Cl,0.201,nM,IC50,9.7,ECa-109 cell line,cell-based format
+CHEMBL2354444,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)C[C@@](O)(C(=O)CO)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O[C@@H]2CCCCO2)[C@H](C)O1,6.3,nM,IC50,8.2,Unchecked,assay format
+CHEMBL1232279,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)C[C@@](O)(C(=O)CO)C[C@@H]3O[C@H]1C[C@H](N2CCO[C@H](OC)C2)[C@H](O)[C@H](C)O1,80.0,nM,IC50,7.1,HeLa,cell-based format
+CHEMBL3989596,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)C[C@@](O)(C(=O)CO)C[C@@H]3O[C@H]1C[C@H](NC(=O)[C@@H](N)CC(C)C)[C@H](O)[C@H](C)O1,600.0,nM,IC50,6.22,U-87 MG,cell-based format
+CHEMBL178,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)C[C@@](O)(C(C)=O)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1,3.0,nM,IC50,8.52,P388,cell-based format
+CHEMBL1563,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)C[C@@](O)(C(C)=O)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1.Cl,1.0,nM,IC50,9.0,MOLT-4,cell-based format
+CHEMBL376488,COc1nc2ccc(Br)cc2cc1[C@@H](c1ccccc1)[C@@](O)(CCN(C)C)c1cccc2ccccc12,1.0,nM,IC50,9.0,Mycobacterium smegmatis,organism-based format
+CHEMBL1241590,CS(=O)(=O)c1ccc([C@@H](O)[C@@H](CF)NC(=O)C(Cl)Cl)cc1,700.0,nM,IC50,6.16,Unchecked,assay format
+CHEMBL2303630,CSC[S@@+]([O-])CC(CO)NC(=O)/C=C/c1c(C)[nH]c(=O)[nH]c1=O,7000.0,nM,IC50,5.16,Unchecked,assay format
+CHEMBL148,C[C@@H](O)[C@H]1C(=O)N2C(C(=O)O)=C(SCCNC=N)C[C@H]12,10.0,nM,IC50,8.0,Escherichia coli,organism-based format
+CHEMBL127,C[C@@H](O)[C@H]1C(=O)N2C(C(=O)O)=C(S[C@@H]3CN[C@H](C(=O)N(C)C)C3)[C@H](C)[C@H]12,10.0,nM,IC50,8.0,Staphylococcus aureus,organism-based format
+CHEMBL491571,C[C@@H](O)[C@H]1C(=O)N2C(C(=O)O)=C(S[C@@H]3CN[C@H](CNS(N)(=O)=O)C3)[C@H](C)[C@H]12,2300.0,nM,IC50,5.64,Unchecked,assay format
+CHEMBL1232,C[C@@H](O)[C@H]1C(=O)N2C(C(=O)[O-])=C(S[C@@H]3CN[C@H](C(=O)Nc4cccc(C(=O)O)c4)C3)[C@H](C)[C@H]12.[Na+],56200.0,nM,IC50,4.25,Canalicular multispecific organic anion transporter 1,cell-based format
+CHEMBL35306,C[C@@H]([C@H](N)C(=O)N[C@H](C(=O)O)[C@H]1O[C@@H](n2ccc(=O)[nH]c2=O)[C@H](O)[C@@H]1O)[C@H](O)c1ccc(O)cn1,0.2,nM,IC50,9.7,Chitin synthase 1,single protein format
+CHEMBL3544978,C[C@@H]1CN2c3c(cc4c(N5C(=O)OC[C@@H]5C)noc4c3F)CC3(C(=O)NC(=O)NC3=O)[C@H]2[C@H](C)O1,169.0,nM,IC50,6.77,DNA gyrase subunit A,single protein format
+CHEMBL1757,C[C@@H]1O[C@@H]1P(=O)(O)O,100.0,nM,IC50,7.0,Unchecked,assay format
+CHEMBL267345,C[C@@H]1[C@H](O)[C@@H](C)/C=C/C=C/C=C/C=C/C=C/C=C/C=C/[C@H](O[C@@H]2O[C@H](C)[C@@H](O)[C@H](N)[C@@H]2O)C[C@@H]2O[C@](O)(C[C@@H](O)C[C@@H](O)[C@H](O)CC[C@@H](O)C[C@@H](O)CC(=O)O[C@H]1C)C[C@H](O)[C@H]2C(=O)O,0.035,nM,IC50,10.46,Leishmania major,organism-based format
+CHEMBL450895,C[C@@H]1[C@H](O)[C@@H](C)/C=C/C=C/CC/C=C/C=C/C=C/C=C/[C@H](O[C@@H]2O[C@H](C)[C@@H](O)[C@H](N)[C@@H]2O)C[C@@H]2O[C@](O)(C[C@@H](O)[C@H](O)CC[C@@H](O)C[C@@H](O)C[C@@H](O)CC(=O)O[C@H]1C)C[C@H](O)[C@H]2C(=O)O,1300.0,nM,IC50,5.89,Candida albicans,organism-based format
+CHEMBL254219,C[C@H]1O[C@@H](O[C@H]2[C@@H](O)C[C@H](O[C@H]3[C@@H](O)C[C@H](O[C@H]4CC[C@@]5(C)[C@H](CC[C@@H]6[C@@H]5CC[C@]5(C)[C@@H](C7=CC(=O)OC7)CC[C@]65O)C4)O[C@@H]3C)O[C@@H]2C)C[C@H](O)[C@@H]1O,3.2,nM,IC50,8.49,TK-10,cell-based format
+CHEMBL1751,C[C@H]1O[C@@H](O[C@H]2[C@@H](O)C[C@H](O[C@H]3[C@@H](O)C[C@H](O[C@H]4CC[C@@]5(C)[C@H](CC[C@@H]6[C@@H]5C[C@@H](O)[C@]5(C)[C@@H](C7=CC(=O)OC7)CC[C@]65O)C4)O[C@@H]3C)O[C@@H]2C)C[C@H](O)[C@@H]1O,5.5,nM,IC50,8.26,N+/K+ ATPase alpha-4/beta-1,assay format
+CHEMBL1433,C[C@H]1c2cccc(O)c2C(=O)C2=C(O)[C@]3(O)C(=O)C(C(N)=O)=C(O)[C@@H](N(C)C)[C@@H]3[C@@H](O)[C@@H]21,30.0,nM,IC50,7.52,Staphylococcus aureus,organism-based format
+CHEMBL2068971,C[C@]12CC[C@H](O)C[C@H]1CC[C@@H]1[C@@H]2CC[C@]2(C)[C@@](O)(c3ccoc3)CC[C@]12O,1500.0,nM,IC50,5.82,Sodium/potassium-transporting ATPase,protein complex format
+CHEMBL403664,Cc1c(N)nc([C@H](CC(N)=O)NC[C@H](N)C(N)=O)nc1C(=O)N[C@H](C(=O)N[C@H](C)[C@@H](O)[C@H](C)C(=O)N[C@H](C(=O)NCCc1nc(-c2nc(C(=O)NCCC[S+](C)C)cs2)cs1)[C@@H](C)O)[C@@H](O[C@@H]1O[C@@H](CO)[C@@H](O)[C@H](O)[C@@H]1O[C@H]1O[C@H](CO)[C@@H](O)[C@H](OC(N)=O)[C@@H]1O)c1c[nH]cn1,0.02177,nM,IC50,10.66,COLO-668,cell-based format
+CHEMBL1320139,Cc1cc(O)c2c3c4c(cc(O)c13)C(C)(C)C(=O)c1c(O)cc(O)c(c1-4)C2=O,57.35,nM,IC50,7.24,Unchecked,assay format
+CHEMBL438,Cc1ccnc(NS(=O)(=O)c2ccc(N)cc2)n1,6.0,nM,IC50,8.22,Plasmodium falciparum,organism-based format
+CHEMBL137,Cc1ncc([N+](=O)[O-])n1CCO,68.0,nM,IC50,7.17,Trichomonas vaginalis,organism-based format
+CHEMBL1191,Cc1nnc(NS(=O)(=O)c2ccc(N)cc2)s1,57455.0,nM,IC50,4.24,No relevant target,cell-based format
+CHEMBL11252,Cn1cc(NC(=O)c2cc(NC(=O)c3cc(NC=O)cn3C)cn2C)cc1C(=O)NCCC(=N)N,0.42,nM,IC50,9.38,L1210,cell-based format
+CHEMBL507974,NC1=N[C@H](O)[C@H]2[C@H]3O[C@]4(O)O[C@@H]([C@@H](O)[C@@]2(N1)[C@@H]4O)[C@]3(O)CO,1.69,nM,IC50,8.77,Unchecked,cell-based format
+CHEMBL437840,NC1C(=O)NC2Cc3ccc(c(Cl)c3)Oc3cc4cc(c3O)Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C4NC(=O)C(NC2=O)c2cc(O)cc(c2)Oc2cc1ccc2O)c1ccc(O)c(c1)-c1c(O)cc(O)cc1[C@H](C(=O)NC1C2CC4CC(C2)CC1C4)NC3=O,26000.0,nM,IC50,4.58,MOLT-4,cell-based format
+CHEMBL262586,NC1Cc2ccc(c(Cl)c2)Oc2cc3cc(c2O)Oc2ccc(cc2Cl)C(O)C2NC(=O)C(NC(=O)C3NC(=O)C(c3cc(O)cc(Oc4cc(C5NC(=S)N(c6ccccc6)C5=O)ccc4O)c3)NC1=O)c1ccc(O)c(c1)-c1c(cc(O)c(CNC3C4CC5CC(C4)CC3C5)c1O)[C@H](C(=O)O)NC2=O,73000.0,nM,IC50,4.14,L1210,cell-based format
+CHEMBL167731,NCCNc1ccc(NCCN)c2c1C(=O)c1ccncc1C2=O,42.06,nM,IC50,7.38,Unchecked,cell-based format
+CHEMBL177,NCC[C@H](O)C(=O)N[C@@H]1C[C@H](N)[C@@H](O[C@H]2O[C@H](CN)[C@@H](O)[C@H](O)[C@H]2O)[C@H](O)[C@H]1O[C@H]1O[C@H](CO)[C@@H](O)[C@H](N)[C@H]1O,70.0,nM,IC50,7.16,Mycobacterium tuberculosis H37Rv,organism-based format
+CHEMBL223520,NC[C@@H]1O[C@@H](O[C@H]2[C@H](O)[C@@H](O[C@H]3O[C@H](CO)[C@@H](O)[C@H](N)[C@H]3O)[C@H](N)C[C@@H]2N)[C@@H](O)[C@H](O)[C@H]1O,24.0,nM,IC50,7.62,Unchecked,assay format
+CHEMBL184618,NC[C@@H]1O[C@H](O[C@H]2[C@@H](O)[C@H](O[C@@H]3[C@@H](O)[C@H](N)C[C@H](N)[C@H]3O[C@H]3O[C@H](CN)[C@@H](O)[C@H](O)[C@H]3N)O[C@@H]2CO)[C@H](N)[C@@H](O)[C@@H]1O,7.9,nM,IC50,8.1,Unchecked,assay format
+CHEMBL370143,NC[C@@H]1O[C@H](O[C@H]2[C@@H](O)[C@H](O[C@@H]3[C@@H](O)[C@H](N)C[C@H](N)[C@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3N)O[C@@H]2CO)[C@H](N)[C@@H](O)[C@@H]1O,33.0,nM,IC50,7.48,Bacterial 70S ribosome,subcellular format
+CHEMBL2206196,NC[C@@H]1O[C@H](O[C@H]2[C@@H](O)[C@H](O[C@@H]3[C@@H](O)[C@H](N)C[C@H](N)[C@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3N)O[C@@H]2CO)[C@H](N)[C@@H](O)[C@@H]1O.O=S(=O)(O)O,50.0,nM,IC50,7.3,Unchecked,assay format
+CHEMBL1747,NC[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O[C@H]3O[C@H](CO)[C@@H](O)[C@H](N)[C@H]3O)[C@H](N)C[C@@H]2N)[C@H](N)C[C@@H]1O,6.2,nM,IC50,8.21,Unchecked,assay format
+CHEMBL176,NC[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O[C@H]3O[C@H](CO)[C@@H](O)[C@H](N)[C@H]3O)[C@H](N)C[C@@H]2N)[C@H](N)[C@@H](O)[C@@H]1O,40.0,nM,IC50,7.4,Ribosomal RNA A-site,nucleic acid format
+CHEMBL1384,NC[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O[C@H]3O[C@H](CO)[C@@H](O)[C@H](N)[C@H]3O)[C@H](N)C[C@@H]2N)[C@H](O)[C@@H](O)[C@@H]1O,30.0,nM,IC50,7.52,Escherichia coli,assay format
+CHEMBL221572,NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)[C@H](N)[C@@H](O)[C@@H]1O,90.0,nM,IC50,7.05,Ribosomal RNA A-site,nucleic acid format
+CHEMBL419,NCc1ccc(S(N)(=O)=O)cc1,4000.0,nM,IC50,5.4,Carbonic anhydrase II,single protein format
+CHEMBL771,N[C@@H]1CONC1=O,2300.0,nM,IC50,5.64,Glutamate NMDA receptor,protein complex format
+CHEMBL439,Nc1ccc(S(=O)(=O)Nc2ncccn2)cc1,1440.0,nM,IC50,5.84,Plasmodium falciparum,organism-based format
+CHEMBL437,Nc1ccc(S(=O)(=O)Nc2nccs2)cc1,7550.0,nM,IC50,5.12,Unchecked,assay format
+CHEMBL21,Nc1ccc(S(N)(=O)=O)cc1,80.0,nM,IC50,7.1,HepG2,cell-based format
+CHEMBL1540,Nc1nc(O)c2ncn(CCC(CO)CO)c2n1,3900.0,nM,IC50,5.41,Human herpesvirus 1,organism-based format
+CHEMBL184,Nc1nc2c(ncn2COCCO)c(=O)[nH]1,100.0,nM,IC50,7.0,Vero,cell-based format
+CHEMBL1214186,Nc1ncnc2c1ncn2[C@@H]1O[C@H](C[C@@H](N)CC[C@H](N)C(=O)O)[C@@H](O)[C@H]1O,0.55,nM,IC50,9.26,mRNA cap guanine-N7 methyltransferase,assay format
+CHEMBL571546,O=C(Cc1ccc(-c2ccc(OCCN3CCOCC3)cc2)cn1)NCc1ccccc1,5.0,nM,IC50,8.3,HT-29,cell-based format
+CHEMBL217364,O=C(NC1C(=O)NC2Cc3ccc(c(Cl)c3)Oc3cc4cc(c3O)Oc3ccc(cc3Cl)C(O)C3NC(=O)C(NC(=O)C4NC(=O)C(NC2=O)c2cc(O)cc(c2)Oc2cc1ccc2O)c1ccc(O)c(c1)-c1c(O)cc(O)cc1[C@H](C(=O)O)NC3=O)OC12CC3CC(CC(C3)C1)C2,22000.0,nM,IC50,4.66,L1210,cell-based format
+CHEMBL130,O=C(N[C@H](CO)[C@H](O)c1ccc([N+](=O)[O-])cc1)C(Cl)Cl,430.0,nM,IC50,6.37,Bacterial 70S ribosome,assay format
+CHEMBL2205638,O=C(N[C@H](CO)[C@H](O)c1ccc([N+](=O)[O-])cc1)C(Cl)Cl.O=S(=O)(O)O,7400.0,nM,IC50,5.13,80S Ribosome,subcellular format
+CHEMBL777,O=C(O)[C@H]1/C(=C/CO)O[C@@H]2CC(=O)N21,4.0,nM,IC50,8.4,Unchecked,assay format
+CHEMBL407356,O=C1NC2C(=O)NC3C(=O)NC4C(=O)NC(C(=O)N[C@@H](C(=O)O)c5cc(O)cc(O)c5-c5cc4ccc5O)C(O)c4ccc(c(Cl)c4)Oc4cc3cc(c4O)Oc3ccc(cc3Cl)CC1NC(=O)C(NC(=O)C13CC4CC(CC(C4)C1)C3)c1ccc(O)c(c1)Oc1cc(O)cc2c1,33000.0,nM,IC50,4.48,L1210,cell-based format
+CHEMBL58,O=C1c2c(O)ccc(O)c2C(=O)c2c(NCCNCCO)ccc(NCCNCCO)c21,0.024,nM,IC50,10.62,HL-60,cell-based format
+CHEMBL203125,O=CN(O)CCCP(=O)(O)O,30.0,nM,IC50,7.52,1-deoxyxylulose-5-phosphate reductoisomerase,single protein format
+CHEMBL788,O=c1[nH]c(=O)n([C@H]2C[C@H](O)[C@@H](CO)O2)cc1I,680.6,nM,IC50,6.17,Unchecked,assay format
+CHEMBL1556,O=c1[nH]cnc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O,0.23,nM,IC50,9.64,Vero,cell-based format
+CHEMBL3317856,O=c1ccc2ncc(=O)n3c2n1C[C@H]3CN1CCC(NCc2cc3c(cn2)OCCC3)CC1,35.0,nM,IC50,7.46,Unchecked,assay format

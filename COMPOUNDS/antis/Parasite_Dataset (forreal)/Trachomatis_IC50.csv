@@ -1,0 +1,23 @@
+molecule_chembl_id,canonical_smiles,standard_value,standard_units,standard_type,pchembl_value,target_pref_name,bao_label,passes_lipinski
+CHEMBL4,CC1COc2c(N3CCN(C)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23,666.0,nM,IC50,6.18,Chlamydia trachomatis,organism-based format,True
+CHEMBL4162933,COc1cccc(C2Oc3cc(OC)ccc3C2c2ccc(F)c(F)c2)c1,581.0,nM,IC50,6.24,Chlamydia trachomatis,organism-based format,True
+CHEMBL4174305,COc1ccc(-c2oc3ccc(F)cc3c2-c2ccnc(F)c2)cc1,4730.0,nM,IC50,5.33,Chlamydia trachomatis,organism-based format,True
+CHEMBL4164717,COc1ccc(-c2oc3cc(OC)ccc3c2-c2ccnc(F)c2)cc1,1810.0,nM,IC50,5.74,Chlamydia trachomatis,organism-based format,True
+CHEMBL4163605,COc1ccc(-c2oc3ccccc3c2-c2ccnc(F)c2)cc1,965.0,nM,IC50,6.01,Chlamydia trachomatis,organism-based format,True
+CHEMBL4167052,COc1ccc(-c2oc3ccccc3c2-c2cccnc2)cc1,1000.0,nM,IC50,6.00,Chlamydia trachomatis,organism-based format,True
+CHEMBL4171247,Fc1ccc(C2c3ccccc3OC2c2ccccc2)cc1F,27200.0,nM,IC50,4.57,Chlamydia trachomatis,organism-based format,True
+CHEMBL4160641,c1ccc(C2Oc3ccccc3C2c2ccccc2)cc1,25400.0,nM,IC50,4.59,Chlamydia trachomatis,organism-based format,True
+CHEMBL4170870,COc1ccc(C2c3ccc(OC)cc3OC2c2cccc(OC)c2)cc1,10600.0,nM,IC50,4.97,Chlamydia trachomatis,organism-based format,True
+CHEMBL4159571,COc1ccc2c(c1)OC(c1ccccc1)C2c1ccc(F)c(F)c1,23400.0,nM,IC50,4.63,Chlamydia trachomatis,organism-based format,True
+CHEMBL4167483,Fc1cccc(C2c3cc(F)ccc3OC2c2ccccc2)c1,24900.0,nM,IC50,4.60,Chlamydia trachomatis,organism-based format,True
+CHEMBL4169810,COc1cccc(C2Oc3ccc(F)cc3C2c2ccc(F)c(F)c2)c1,19800.0,nM,IC50,4.70,Chlamydia trachomatis,organism-based format,True
+CHEMBL4159162,COc1cccc(C2Oc3ccc(F)cc3C2c2ccc3c(c2)OCO3)c1,25800.0,nM,IC50,4.59,Chlamydia trachomatis,organism-based format,True
+CHEMBL4166387,N#Cc1cccc(C2c3ccccc3OC2c2ccccc2)c1,25000.0,nM,IC50,4.60,Chlamydia trachomatis,organism-based format,True
+CHEMBL4161302,COc1ccc(-c2oc3ccc(F)cc3c2-c2ccc(OC)cc2)cc1,15200.0,nM,IC50,4.82,Chlamydia trachomatis,organism-based format,True
+CHEMBL4171899,COc1ccc(-c2oc3cc(OC)ccc3c2-c2ccc(F)c(F)c2)cc1,27000.0,nM,IC50,4.57,Chlamydia trachomatis,organism-based format,True
+CHEMBL4171079,COc1ccc(-c2oc3cc(OC)ccc3c2-c2ccc(OC)cc2)cc1,12800.0,nM,IC50,4.89,Chlamydia trachomatis,organism-based format,True
+CHEMBL4168158,COc1ccc(-c2oc3ccccc3c2-c2cccc(F)c2)cc1,22100.0,nM,IC50,4.66,Chlamydia trachomatis,organism-based format,True
+CHEMBL4160245,COc1ccc(-c2oc3ccccc3c2-c2ccc(OC)cc2)cc1,11600.0,nM,IC50,4.94,Chlamydia trachomatis,organism-based format,True
+CHEMBL4171500,c1ccc(COc2ccc(-c3oc4ccccc4c3-c3cccnc3)cc2)cc1,15000.0,nM,IC50,4.82,Chlamydia trachomatis,organism-based format,True
+CHEMBL4174933,COc1ccc(-c2oc3ccccc3c2-c2ccc(F)c(F)c2)cc1,8700.0,nM,IC50,5.06,Chlamydia trachomatis,organism-based format,True
+CHEMBL4446343,CC(C)(C(=O)N1CCN(Cc2ccc(Cl)cc2)CC1)S(=O)(=O)c1ccc(C(F)(F)F)cn1,5.2,ug.mL-1,IC50,,Chlamydia trachomatis,organism-based format,True

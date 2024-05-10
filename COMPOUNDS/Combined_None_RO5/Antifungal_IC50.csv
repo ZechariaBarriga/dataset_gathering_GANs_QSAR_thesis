@@ -1,0 +1,71 @@
+molecule_chembl_id,canonical_smiles,standard_value,standard_units,standard_type,pchembl_value,target_pref_name,bao_label
+CHEMBL2046550,C/C(=C(/OCCOc1ccc(Cl)cc1)c1ccc(Cl)cc1Cl)n1ccnc1,2345.7,nM,IC50,5.63,Unchecked,cell-based format
+CHEMBL27289,C=C(c1ccccc1OCc1cccc(Cl)c1)n1ccnc1,18920.0,nM,IC50,4.72,SARS-CoV-2,organism-based format
+CHEMBL1276010,C=CCCCCCCCCC(=O)O,2700.0,nM,IC50,5.57,Filobasidiella neoformans,organism-based format
+CHEMBL356918,C=CCOC(Cn1ccnc1)c1ccc(Cl)cc1Cl,23000.0,nM,IC50,4.64,"Indoleamine 2,3-dioxygenase",single protein format
+CHEMBL157101,CC(=O)N1CCN(c2ccc(OCC3COC(Cn4ccnc4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1,0.71,nM,IC50,9.15,Unchecked,cell membrane format
+CHEMBL295698,CC(=O)N1CCN(c2ccc(OC[C@@H]3CO[C@@](Cn4ccnc4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1,26.9,nM,IC50,7.57,Cytochrome P450 3A4,microsome format
+CHEMBL1306,CC(C)N1CCN(c2ccc(OC[C@H]3CO[C@](Cn4cncn4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1,317.0,nM,IC50,6.5,Unchecked,cell membrane format
+CHEMBL1908343,CC1OC2OC(=O)OC2C2=C1C(=O)c1c(O)cccc1C2=O,70.0,nM,IC50,7.16,NON-PROTEIN TARGET,cell-based format
+CHEMBL499808,CCC(C)CC(C)CCCCCCCCC(=O)N[C@H]1C[C@@H](O)[C@@H](NCCN)NC(=O)[C@@H]2[C@@H](O)CCN2C(=O)[C@H]([C@H](O)CCN)NC(=O)[C@H]([C@H](O)[C@@H](O)c2ccc(O)cc2)NC(=O)[C@@H]2C[C@@H](O)CN2C(=O)[C@H]([C@@H](C)O)NC1=O,0.24,nM,IC50,9.62,"Beta-1,3-glucan synthase",single protein format
+CHEMBL64391,CCC(C)n1ncn(-c2ccc(N3CCN(c4ccc(OCC5COC(Cn6cncn6)(c6ccc(Cl)cc6Cl)O5)cc4)CC3)cc2)c1=O,4.0,nM,IC50,8.4,Trypanosoma cruzi,organism-based format
+CHEMBL270271,CCC1COC(Cn2cncn2)(c2ccc(Cl)cc2Cl)O1,210.0,nM,IC50,6.68,Cytochrome P450 3A4,assay format
+CHEMBL2103748,CCCCCCCCOc1ccc(C(=O)N[C@H]2C[C@@H](O)[C@@H](O)NC(=O)[C@@H]3[C@@H](O)[C@@H](C)CN3C(=O)[C@H]([C@@H](C)O)NC(=O)[C@H]([C@H](O)[C@@H](O)c3ccc(O)cc3)NC(=O)[C@@H]3C[C@@H](O)CN3C(=O)[C@H]([C@@H](C)O)NC2=O)cc1,1000.0,nM,IC50,6.0,Candida albicans,organism-based format
+CHEMBL457547,CCCCCOc1ccc(-c2cc(-c3ccc(C(=O)N[C@H]4C[C@@H](O)[C@@H](O)NC(=O)[C@@H]5[C@@H](O)[C@@H](C)CN5C(=O)[C@H]([C@H](O)CC(N)=O)NC(=O)[C@H]([C@H](O)[C@@H](O)c5ccc(O)c(OS(=O)(=O)O)c5)NC(=O)[C@@H]5C[C@@H](O)CN5C(=O)[C@H]([C@@H](C)O)NC4=O)cc3)no2)cc1,21000.0,nM,IC50,4.68,ATP-binding cassette sub-family G member 2,cell membrane format
+CHEMBL264241,CCCCCOc1ccc(-c2ccc(-c3ccc(C(=O)N[C@H]4C[C@@H](O)[C@@H](O)NC(=O)[C@@H]5[C@@H](O)[C@@H](C)CN5C(=O)[C@H]([C@@H](C)O)NC(=O)[C@H]([C@H](O)[C@@H](O)c5ccc(O)cc5)NC(=O)[C@@H]5C[C@@H](O)CN5C(=O)[C@H]([C@@H](C)O)NC4=O)cc3)cc2)cc1,4640.0,nM,IC50,5.33,SARS-CoV-2,organism-based format
+CHEMBL459008,CCCCOC(=O)c1ccc(O)cc1,1420.0,nM,IC50,5.85,Estrogen receptor alpha,single protein format
+CHEMBL1397,CC[C@@H]([C@H](C)O)n1ncn(-c2ccc(N3CCN(c4ccc(OC[C@@H]5CO[C@@](Cn6cncn6)(c6ccc(F)cc6F)C5)cc4)CC3)cc2)c1=O,0.25,nM,IC50,9.6,Trypanosoma cruzi,organism-based format
+CHEMBL256105,CC[C@@]1([C@@H]2O[C@@H]([C@H]3O[C@@](O)(CO)[C@H](C)C[C@@H]3C)C[C@@H]2C)CC[C@H]([C@]2(C)CC[C@]3(C[C@H](O)[C@@H](C)[C@@H]([C@@H](C)[C@@H](OC)[C@H](C)C(=O)O)O3)O2)O1,90.0,nM,IC50,7.05,MV4-11,cell-based format
+CHEMBL120563,CN(C)C(=S)SSC(=S)N(C)C,20.0,nM,IC50,7.7,Aldehyde dehydrogenase 1A1,single protein format
+CHEMBL592105,CN(C)c1ccc(C(O)(c2ccc(N(C)C)cc2)c2ccc(N(C)C)cc2)cc1,35.0,nM,IC50,7.46,Hexose transporter 1,assay format
+CHEMBL822,CN(C/C=C/C#CC(C)(C)C)Cc1cccc2ccccc12,10.0,nM,IC50,8.0,Trichophyton quinckeanum,organism-based format
+CHEMBL626,CN(C/C=C/c1ccccc1)Cc1cccc2ccccc12,284.0,nM,IC50,6.55,Unchecked,assay format
+CHEMBL1200493,CN(C/C=C/c1ccccc1)Cc1cccc2ccccc12.Cl,296.0,nM,IC50,6.53,Staphylococcus aureus,organism-based format
+CHEMBL990,CN(Cc1ccc(C(C)(C)C)cc1)Cc1cccc2ccccc12,254.7,nM,IC50,6.59,Unchecked,cell membrane format
+CHEMBL1505471,COC(=O)c1ccc(O)c2nc3c(C=O)c(O)cc(O)c3nc12,2060.0,nM,IC50,5.69,Dual specificity protein phosphatase 3,single protein format
+CHEMBL325372,COC(=O)c1ccc(O)cc1,23000.0,nM,IC50,4.64,Amaranthus hypochondriacus,organism-based format
+CHEMBL562,COC1=CC(=O)C[C@@H](C)[C@]12Oc1c(Cl)c(OC)cc(OC)c1C2=O,58.0,nM,IC50,7.24,Trichophyton mentagrophytes,organism-based format
+CHEMBL409153,C[C@@H](c1nc(-c2ccc(C#N)cc2)cs1)[C@](O)(Cn1cncn1)c1cc(F)ccc1F,11000.0,nM,IC50,4.96,ATP-binding cassette sub-family G member 2,cell membrane format
+CHEMBL294029,C[C@@H](c1nc(-c2ccc(C#N)cc2)cs1)[C@](O)(Cn1cncn1)c1ccc(F)cc1F,1010.0,nM,IC50,6.0,Cytochrome P450 3A4,microsome format
+CHEMBL638,C[C@@H](c1ncncc1F)[C@](O)(Cn1cncn1)c1ccc(F)cc1F,22.0,nM,IC50,7.66,Cholesterol 24-hydroxylase,single protein format
+CHEMBL298817,C[C@@H](n1cnc2cc(Cl)ccc2c1=O)[C@](O)(Cn1cncn1)c1ccc(F)cc1F,1.0,nM,IC50,9.0,Sterol 14-alpha demethylase,single protein format
+CHEMBL267345,C[C@@H]1[C@H](O)[C@@H](C)/C=C/C=C/C=C/C=C/C=C/C=C/C=C/[C@H](O[C@@H]2O[C@H](C)[C@@H](O)[C@H](N)[C@@H]2O)C[C@@H]2O[C@](O)(C[C@@H](O)C[C@@H](O)[C@H](O)CC[C@@H](O)C[C@@H](O)CC(=O)O[C@H]1C)C[C@H](O)[C@H]2C(=O)O,0.035,nM,IC50,10.46,Leishmania major,organism-based format
+CHEMBL450895,C[C@@H]1[C@H](O)[C@@H](C)/C=C/C=C/CC/C=C/C=C/C=C/C=C/[C@H](O[C@@H]2O[C@H](C)[C@@H](O)[C@H](N)[C@@H]2O)C[C@@H]2O[C@](O)(C[C@@H](O)[C@H](O)CC[C@@H](O)C[C@@H](O)C[C@@H](O)CC(=O)O[C@H]1C)C[C@H](O)[C@H]2C(=O)O,1300.0,nM,IC50,5.89,Candida albicans,organism-based format
+CHEMBL417799,C[n+]1cc2c3c(ccc2c2ccc4cc5c(cc4c21)OCO5)OCO3,264.6,nM,IC50,6.58,Unchecked,assay format
+CHEMBL1413,Cc1cc(C2CCCCC2)n(O)c(=O)c1,200.0,nM,IC50,6.7,Unchecked,cell-based format
+CHEMBL242580,Cc1cc(C2CCCCC2)n(O)c(=O)c1.NCCO,208.35,nM,IC50,6.68,Unchecked,assay format
+CHEMBL83668,Cc1cccc(N(C)C(=S)Oc2ccc3ccccc3c2)c1,2007.0,nM,IC50,5.7,Serotonin 2b (5-HT2b) receptor,cell membrane format
+CHEMBL298312,Cc1cccc(O)c1,4900.0,nM,IC50,5.31,Acetylcholinesterase,single protein format
+CHEMBL152649,Cc1nc2ccccc2n1Cc1ccc(Cl)cc1,31.83,nM,IC50,7.5,Unchecked,cell-based format
+CHEMBL1289,Clc1cc(Cl)c(OCC#CI)cc1Cl,223.0,nM,IC50,6.65,Adenosine A3 receptor,cell membrane format
+CHEMBL1571863,Clc1ccc(C(Cn2ccnc2)OCc2c(Cl)cccc2Cl)c(Cl)c1,886.1,nM,IC50,6.05,Unchecked,cell-based format
+CHEMBL1651990,Clc1ccc(C(Cn2ccnc2)OCc2ccc(Sc3ccccc3)cc2)c(Cl)c1,6141.0,nM,IC50,5.21,Unchecked,assay format
+CHEMBL1200438,Clc1ccc(C(Cn2ccnc2)OCc2ccsc2Cl)c(Cl)c1,64.0,nM,IC50,7.19,Trypanosoma cruzi,organism-based format
+CHEMBL1201196,Clc1ccc(C(Cn2ccnc2)OCc2csc3c(Cl)cccc23)c(Cl)c1,3800.0,nM,IC50,5.42,"Indoleamine 2,3-dioxygenase",cell-based format
+CHEMBL1200725,Clc1ccc(C(Cn2ccnc2)OCc2csc3c(Cl)cccc23)c(Cl)c1.O=[N+]([O-])O,15810.0,nM,IC50,4.8,Unchecked,assay format
+CHEMBL1200398,Clc1ccc(CCC(Cn2ccnc2)Sc2c(Cl)cccc2Cl)cc1.O=[N+]([O-])O,221.1,nM,IC50,6.66,Unchecked,assay format
+CHEMBL1262,Clc1ccc(CO/N=C(\Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1,40.0,nM,IC50,7.4,Cytochrome P450 2C19,cell-based format
+CHEMBL1200836,Clc1ccc(CO/N=C(\Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1.O=[N+]([O-])O,388.0,nM,IC50,6.41,Trypanosoma cruzi,organism-based format
+CHEMBL91,Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1,0.02,nM,IC50,10.7,Cytochrome P450 2C19,microsome format
+CHEMBL1559,Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1.O=[N+]([O-])O,826.0,nM,IC50,6.08,Trypanosoma cruzi,organism-based format
+CHEMBL808,Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)cc1,29.0,nM,IC50,7.54,Thromboxane-A synthase,tissue-based format
+CHEMBL1201049,Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)cc1.O=[N+]([O-])O,3744.0,nM,IC50,5.43,Unchecked,assay format
+CHEMBL1221,Clc1ccc(CSC(Cn2ccnc2)c2ccc(Cl)cc2Cl)cc1,16.0,nM,IC50,7.8,Cytochrome P450 2C19,cell-based format
+CHEMBL1200348,Clc1ccc(CSC(Cn2ccnc2)c2ccc(Cl)cc2Cl)cc1.O=[N+]([O-])O,2128.2,nM,IC50,5.67,Unchecked,assay format
+CHEMBL104,Clc1ccccc1C(c1ccccc1)(c1ccccc1)n1ccnc1,1.8,nM,IC50,8.74,Cytochrome P450 19A1,assay format
+CHEMBL2107430,Fc1ccc(C(c2ccccc2)(c2ccccc2F)n2ccnc2)cc1,13800.0,nM,IC50,4.86,Bile acid receptor FXR,single protein format
+CHEMBL1555126,N#C/C(=C1/SCC(c2ccccc2Cl)S1)n1ccnc1,67.1,nM,IC50,7.17,Trypanosoma cruzi,organism-based format
+CHEMBL184618,NC[C@@H]1O[C@H](O[C@H]2[C@@H](O)[C@H](O[C@@H]3[C@@H](O)[C@H](N)C[C@H](N)[C@H]3O[C@H]3O[C@H](CN)[C@@H](O)[C@H](O)[C@H]3N)O[C@@H]2CO)[C@H](N)[C@@H](O)[C@@H]1O,7.9,nM,IC50,8.1,Unchecked,assay format
+CHEMBL1463,Nc1nc(=O)[nH]cc1F,410.0,nM,IC50,6.39,Candida albicans,organism-based format
+CHEMBL1214186,Nc1ncnc2c1ncn2[C@@H]1O[C@H](C[C@@H](N)CC[C@H](N)C(=O)O)[C@@H](O)[C@H]1O,0.55,nM,IC50,9.26,mRNA cap guanine-N7 methyltransferase,assay format
+CHEMBL1076544,O=C(Nc1ccccc1-c1ccc(Cl)cc1)c1cccnc1Cl,245.0,nM,IC50,6.61,Unchecked,assay format
+CHEMBL541,O=C(O)c1ccccc1,200.0,nM,IC50,6.7,Mus musculus,organism-based format
+CHEMBL424,O=C(O)c1ccccc1O,200.0,nM,IC50,6.7,Mus musculus,organism-based format
+CHEMBL2103914,O=c1[nH]sc2cc(Cl)ccc12,9427.02,nM,IC50,5.03,Unchecked,assay format
+CHEMBL443052,OB1OCc2cc(F)ccc21,2100.0,nM,IC50,5.68,"Leucyl-tRNA synthetase, cytoplasmic",single protein format
+CHEMBL106,OC(Cn1cncn1)(Cn1cncn1)c1ccc(F)cc1F,1.0,nM,IC50,9.0,Candida albicans,organism-based format
+CHEMBL3311228,O[C@@](Cn1cnnn1)(c1ccc(F)cc1F)C(F)(F)c1ccc(-c2ccc(OCC(F)(F)F)cc2)cn1,65000.0,nM,IC50,4.19,Cytochrome P450 3A4,cell-based format
+CHEMBL151803,S=C1SCN(Cc2ccccc2)CN1Cc1ccccc1,27900.0,nM,IC50,4.55,Mu opioid receptor,cell membrane format
+CHEMBL549473,[O-][n+]1ccccc1SSc1cccc[n+]1[O-],130.6,nM,IC50,6.88,Unchecked,cell-based format
+CHEMBL277535,c1ccc(-c2ccc(C(c3ccccc3)n3ccnc3)cc2)cc1,3.0,nM,IC50,8.52,Trypanosoma cruzi,organism-based format
+CHEMBL625,c1ccc2[nH]c(-c3cscn3)nc2c1,472.0,nM,IC50,6.33,Methionine aminopeptidase,assay format

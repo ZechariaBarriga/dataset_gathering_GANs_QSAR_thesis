@@ -1,0 +1,747 @@
+molecule_chembl_id,canonical_smiles,standard_value,standard_units,standard_type,pchembl_value,target_pref_name,bao_label,passes_lipinski
+CHEMBL55641,FC(F)(F)c1nc2ccccc2[nH]1,69.0,nM,IC50,7.16,Entamoeba histolytica,organism-based format,True
+CHEMBL53788,FC(F)(F)c1nc2cc(Cl)ccc2[nH]1,22.0,nM,IC50,7.66,Entamoeba histolytica,organism-based format,True
+CHEMBL137,Cc1ncc([N+](=O)[O-])n1CCO,350.0,nM,IC50,6.46,Entamoeba histolytica,organism-based format,True
+CHEMBL56473,Cn1c(C(F)(F)F)nc2cc(Cl)ccc21,46.0,nM,IC50,7.34,Entamoeba histolytica,organism-based format,True
+CHEMBL293520,Cn1c(C(F)(F)F)nc2ccccc21,40.0,nM,IC50,7.40,Entamoeba histolytica,organism-based format,True
+CHEMBL56234,FC(F)(F)c1nc2cc(Cl)c(Cl)cc2[nH]1,11.0,nM,IC50,7.96,Entamoeba histolytica,organism-based format,True
+CHEMBL56179,Cn1c(C(F)(F)F)nc2ccc(Cl)cc21,8.0,nM,IC50,8.10,Entamoeba histolytica,organism-based format,True
+CHEMBL54544,Cn1c(C(F)(F)F)nc2cc(Cl)c(Cl)cc21,33.0,nM,IC50,7.48,Entamoeba histolytica,organism-based format,True
+CHEMBL1483,CCCSc1ccc2[nH]c(NC(=O)OC)nc2c1,56330.0,nM,IC50,4.25,Entamoeba histolytica,organism-based format,True
+CHEMBL116674,CCC/N=C(\S)N/N=C/c1ccc([N+](=O)[O-])s1,15380.0,nM,IC50,4.81,Entamoeba histolytica,organism-based format,True
+CHEMBL116244,O=[N+]([O-])c1ccc(/C=N/N=C(\S)NC2CCCCC2)s1,2410.0,nM,IC50,5.62,Entamoeba histolytica,organism-based format,True
+CHEMBL326359,CC(C)/N=C(\S)N/N=C/c1ccc([N+](=O)[O-])s1,9600.0,nM,IC50,5.02,Entamoeba histolytica,organism-based format,True
+CHEMBL116138,CCCC/N=C(\S)N/N=C/c1ccc([N+](=O)[O-])s1,12170.0,nM,IC50,4.92,Entamoeba histolytica,organism-based format,True
+CHEMBL117124,CCCN(CCC)/C(S)=N/N=C/c1ccc([N+](=O)[O-])s1,6400.0,nM,IC50,5.19,Entamoeba histolytica,organism-based format,True
+CHEMBL116141,CCC(C)N(/C(S)=N/N=C/c1ccc([N+](=O)[O-])s1)C(C)CC,11630.0,nM,IC50,4.93,Entamoeba histolytica,organism-based format,True
+CHEMBL323864,CN(/C(S)=N/N=C/c1ccc([N+](=O)[O-])s1)C1CCCCC1,8300.0,nM,IC50,5.08,Entamoeba histolytica,organism-based format,True
+CHEMBL116243,O=[N+]([O-])c1ccc(/C=N/N=C(\S)N2CCCCCC2)s1,1710.0,nM,IC50,5.77,Entamoeba histolytica,organism-based format,True
+CHEMBL325000,CCC(C)/N=C(\S)N/N=C/c1ccc([N+](=O)[O-])s1,13500.0,nM,IC50,4.87,Entamoeba histolytica,organism-based format,True
+CHEMBL324374,CCN(CC)/C(S)=N/N=C/c1ccc([N+](=O)[O-])s1,10100.0,nM,IC50,5.00,Entamoeba histolytica,organism-based format,True
+CHEMBL332475,O=[N+]([O-])c1ccc(/C=N/N=C(\S)NC2CCCC2)s1,2860.0,nM,IC50,5.54,Entamoeba histolytica,organism-based format,True
+CHEMBL298547,CCCCCCCC(O)(P(=O)(O)O)P(=O)(O)O,22300.0,nM,IC50,4.65,Entamoeba histolytica,organism-based format,True
+CHEMBL52251,CCCCCCCCNC(P(=O)(O)O)P(=O)(O)O,31100.0,nM,IC50,4.51,Entamoeba histolytica,organism-based format,True
+CHEMBL924,O=P(O)(O)C(O)(Cn1ccnc1)P(=O)(O)O,12000.0,nM,IC50,4.92,Entamoeba histolytica,organism-based format,True
+CHEMBL54537,CN(CCCc1ccccc1)CCC(O)(P(=O)(O)O)P(=O)(O)O,45100.0,nM,IC50,4.35,Entamoeba histolytica,organism-based format,True
+CHEMBL55371,O=P(O)(O)C(Nc1cccc(-c2ccccc2)c1)P(=O)(O)O,6600.0,nM,IC50,5.18,Entamoeba histolytica,organism-based format,True
+CHEMBL56078,O=P(O)(O)C(Nc1ccc(Cl)nc1)P(=O)(O)O,21700.0,nM,IC50,4.66,Entamoeba histolytica,organism-based format,True
+CHEMBL55027,O=P(O)(O)C(Nc1cc(Br)cc(Br)n1)P(=O)(O)O,28500.0,nM,IC50,4.54,Entamoeba histolytica,organism-based format,True
+CHEMBL55988,CN(CCC(O)(P(=O)(O)O)P(=O)(O)O)C1CCCCC1,53600.0,nM,IC50,4.27,Entamoeba histolytica,organism-based format,True
+CHEMBL301065,O=P(O)(O)C(Nc1cccnc1)P(=O)(O)O,60000.0,nM,IC50,4.22,Entamoeba histolytica,organism-based format,True
+CHEMBL58830,O=P(O)(O)C(NC1CCCC1)P(=O)(O)O,35900.0,nM,IC50,4.45,Entamoeba histolytica,organism-based format,True
+CHEMBL56253,O=P(O)(O)C(NC1CCCCC1)P(=O)(O)O,16000.0,nM,IC50,4.80,Entamoeba histolytica,organism-based format,True
+CHEMBL293479,O=P(O)(O)C(Nc1ccc(-c2ccccc2)cc1)P(=O)(O)O,8760.0,nM,IC50,5.06,Entamoeba histolytica,organism-based format,True
+CHEMBL300755,CC(C)(C)c1cc(NC(P(=O)(O)O)P(=O)(O)O)cc(C(C)(C)C)c1,19200.0,nM,IC50,4.72,Entamoeba histolytica,organism-based format,True
+CHEMBL56073,CN(CCCCc1ccccc1)CCC(O)(P(=O)(O)O)P(=O)(O)O,23400.0,nM,IC50,4.63,Entamoeba histolytica,organism-based format,True
+CHEMBL431735,O=P(O)(O)C(NCCCc1ccccc1)P(=O)(O)O,15600.0,nM,IC50,4.81,Entamoeba histolytica,organism-based format,True
+CHEMBL54714,O=P(O)(O)C(Nc1ccc(Cl)cn1)P(=O)(O)O,87000.0,nM,IC50,4.06,Entamoeba histolytica,organism-based format,True
+CHEMBL54344,CCN(CC)C(P(=O)(O)O)P(=O)(O)O,62600.0,nM,IC50,4.20,Entamoeba histolytica,organism-based format,True
+CHEMBL434978,CCCCOc1ccc(NC(P(=O)(O)O)P(=O)(O)O)cc1,3980.0,nM,IC50,5.40,Entamoeba histolytica,organism-based format,True
+CHEMBL433833,CCCCCCCc1ccc(NC(P(=O)(O)O)P(=O)(O)O)cc1,36200.0,nM,IC50,4.44,Entamoeba histolytica,organism-based format,True
+CHEMBL55264,CCCCCCC(O)(P(=O)(O)O)P(=O)(O)O,29500.0,nM,IC50,4.53,Entamoeba histolytica,organism-based format,True
+CHEMBL53982,CN(CCOc1ccccc1)CCC(O)(P(=O)(O)O)P(=O)(O)O,6490.0,nM,IC50,5.19,Entamoeba histolytica,organism-based format,True
+CHEMBL55353,CCCCN(CC)C(P(=O)(O)O)P(=O)(O)O,47300.0,nM,IC50,4.33,Entamoeba histolytica,organism-based format,True
+CHEMBL55856,CC(C)CCNC(P(=O)(O)O)P(=O)(O)O,36900.0,nM,IC50,4.43,Entamoeba histolytica,organism-based format,True
+CHEMBL55959,Cc1cccc(NC(P(=O)(O)O)P(=O)(O)O)n1,64000.0,nM,IC50,4.19,Entamoeba histolytica,organism-based format,True
+CHEMBL300532,O=P(O)(O)C(Nc1ccc(Br)nc1)P(=O)(O)O,44200.0,nM,IC50,4.36,Entamoeba histolytica,organism-based format,True
+CHEMBL923,O=P(O)(O)C(O)(Cc1cccnc1)P(=O)(O)O,73500.0,nM,IC50,4.13,Entamoeba histolytica,organism-based format,True
+CHEMBL54480,CCCCCC(C)NC(P(=O)(O)O)P(=O)(O)O,65300.0,nM,IC50,4.18,Entamoeba histolytica,organism-based format,True
+CHEMBL54004,CCCCCCCCCC(O)(P(=O)(O)O)P(=O)(O)O,13300.0,nM,IC50,4.88,Entamoeba histolytica,organism-based format,True
+CHEMBL56047,O=P(O)(O)C(N1CCc2ccccc2C1)P(=O)(O)O,71000.0,nM,IC50,4.15,Entamoeba histolytica,organism-based format,True
+CHEMBL430963,O=P(O)(O)C(Nc1ccc(I)cn1)P(=O)(O)O,39500.0,nM,IC50,4.40,Entamoeba histolytica,organism-based format,True
+CHEMBL412889,O=P(O)(O)C(NC1CCCCCCC1)P(=O)(O)O,15500.0,nM,IC50,4.81,Entamoeba histolytica,organism-based format,True
+CHEMBL350750,S=C(N/N=C/c1cccs1)N1CCCc2ccccc21,2780.0,nM,IC50,5.56,Entamoeba histolytica,organism-based format,True
+CHEMBL352090,S=C(N/N=C/c1cccs1)N1CCCC1,3200.0,nM,IC50,5.50,Entamoeba histolytica,organism-based format,True
+CHEMBL162590,S=C(NCc1ccccc1Cl)N/N=C/c1cccs1,5740.0,nM,IC50,5.24,Entamoeba histolytica,organism-based format,True
+CHEMBL158863,Fc1cccc(F)c1/N=C(\S)N/N=C/c1cccs1,5730.0,nM,IC50,5.24,Entamoeba histolytica,organism-based format,True
+CHEMBL345838,Fc1ccc(/N=C(\S)N/N=C/c2cccs2)c(F)c1,6180.0,nM,IC50,5.21,Entamoeba histolytica,organism-based format,True
+CHEMBL269158,Nc1nc2ccc(Cl)cc2[nH]1,125.0,nM,IC50,6.90,Entamoeba histolytica,organism-based format,True
+CHEMBL71855,Cc1nc2cc(Cl)c(Cl)cc2[nH]1,25.0,nM,IC50,7.60,Entamoeba histolytica,organism-based format,True
+CHEMBL71807,COC(=O)Nc1nc2cc(Cl)c(Cl)cc2[nH]1,46.0,nM,IC50,7.34,Entamoeba histolytica,organism-based format,True
+CHEMBL306226,c1ccc2[nH]cnc2c1,42.0,nM,IC50,7.38,Entamoeba histolytica,organism-based format,True
+CHEMBL303252,Clc1cc2nc[nH]c2cc1Cl,96.0,nM,IC50,7.02,Entamoeba histolytica,organism-based format,True
+CHEMBL69098,Clc1ccc2[nH]cnc2c1,39.0,nM,IC50,7.41,Entamoeba histolytica,organism-based format,True
+CHEMBL72244,Cc1nc2cc(Cl)ccc2[nH]1,84.0,nM,IC50,7.08,Entamoeba histolytica,organism-based format,True
+CHEMBL72355,CSc1nc2ccccc2[nH]1,393.0,nM,IC50,6.41,Entamoeba histolytica,organism-based format,True
+CHEMBL69086,Sc1nc2cc(Cl)ccc2[nH]1,5.0,nM,IC50,8.30,Entamoeba histolytica,organism-based format,True
+CHEMBL71880,COC(=O)Nc1nc2cc(Cl)ccc2[nH]1,350.0,nM,IC50,6.46,Entamoeba histolytica,organism-based format,True
+CHEMBL71905,Nc1nc2cc(Cl)c(Cl)cc2[nH]1,59.0,nM,IC50,7.23,Entamoeba histolytica,organism-based format,True
+CHEMBL309135,Cc1nc2ccccc2[nH]1,7.0,nM,IC50,8.15,Entamoeba histolytica,organism-based format,True
+CHEMBL71706,Sc1nc2cc(Cl)c(Cl)cc2[nH]1,55.0,nM,IC50,7.26,Entamoeba histolytica,organism-based format,True
+CHEMBL70141,Sc1nc2ccccc2[nH]1,133.0,nM,IC50,6.88,Entamoeba histolytica,organism-based format,True
+CHEMBL71936,CSc1nc2cc(Cl)ccc2[nH]1,192.0,nM,IC50,6.72,Entamoeba histolytica,organism-based format,True
+CHEMBL305513,Nc1nc2ccccc2[nH]1,114.0,nM,IC50,6.94,Entamoeba histolytica,organism-based format,True
+CHEMBL67822,CSc1nc2cc(Cl)c(Cl)cc2[nH]1,356.0,nM,IC50,6.45,Entamoeba histolytica,organism-based format,True
+CHEMBL70971,COC(=O)Nc1nc2ccccc2[nH]1,204.0,nM,IC50,6.69,Entamoeba histolytica,organism-based format,True
+CHEMBL207803,NC(=S)N1CCC(c2ccccc2)=N1,17200.0,nM,IC50,4.76,Entamoeba histolytica,organism-based format,True
+CHEMBL207781,CC1CN(c2nc3nc4ccccc4nc3s2)N=C1c1cccc(Cl)c1,720.0,nM,IC50,6.14,Entamoeba histolytica,organism-based format,True
+CHEMBL204462,CC1CN(c2nc3nc4ccccc4nc3s2)N=C1c1cccc(Br)c1,1450.0,nM,IC50,5.84,Entamoeba histolytica,organism-based format,True
+CHEMBL207604,CC1CN(c2nc3nc4ccccc4nc3s2)N=C1c1ccccc1,2340.0,nM,IC50,5.63,Entamoeba histolytica,organism-based format,True
+CHEMBL207588,Clc1cccc(C2=NN(c3nc4nc5ccccc5nc4s3)CC2)c1,1090.0,nM,IC50,5.96,Entamoeba histolytica,organism-based format,True
+CHEMBL207965,Brc1cccc(C2=NN(c3nc4nc5ccccc5nc4s3)CC2)c1,4980.0,nM,IC50,5.30,Entamoeba histolytica,organism-based format,True
+CHEMBL207923,c1ccc(C2=NN(c3nc4nc5ccccc5nc4s3)CC2)cc1,6760.0,nM,IC50,5.17,Entamoeba histolytica,organism-based format,True
+CHEMBL207241,Cc1cc(Cl)cc(C2=NN(C(=N)S)CC2)c1,4400.0,nM,IC50,5.36,Entamoeba histolytica,organism-based format,True
+CHEMBL382432,Cc1cc(Br)cc(C2=NN(C(=N)S)CC2)c1,5900.0,nM,IC50,5.23,Entamoeba histolytica,organism-based format,True
+CHEMBL379723,CC1CN(C(N)=S)N=C1c1ccccc1,10200.0,nM,IC50,4.99,Entamoeba histolytica,organism-based format,True
+CHEMBL90197,NC(=S)N1CCC(c2cccc(Cl)c2)=N1,8700.0,nM,IC50,5.06,Entamoeba histolytica,organism-based format,True
+CHEMBL314026,NC(=S)N1CCC(c2cccc(Br)c2)=N1,13200.0,nM,IC50,4.88,Entamoeba histolytica,organism-based format,True
+CHEMBL394342,S=C(N/N=C\c1c[nH]c2ccccc12)NC1CCCC1,13900.0,nM,IC50,4.86,Entamoeba histolytica,organism-based format,True
+CHEMBL437948,S=C(N/N=C\c1c[nH]c2ccccc12)N1CCCc2ccccc21,1680.0,nM,IC50,5.78,Entamoeba histolytica,organism-based format,True
+CHEMBL390460,S=C(N/N=C\c1c[nH]c2ccccc12)N1CCN(c2ccccc2)CC1,3090.0,nM,IC50,5.51,Entamoeba histolytica,organism-based format,True
+CHEMBL243675,S=C(N/N=C\c1c[nH]c2ccccc12)NC1C2CC3CC(C2)CC1C3,1080.0,nM,IC50,5.97,Entamoeba histolytica,organism-based format,True
+CHEMBL390231,S=C(N/N=C\c1c[nH]c2ccccc12)N1CCCC1,14640.0,nM,IC50,4.83,Entamoeba histolytica,organism-based format,True
+CHEMBL243486,CC1CCN(C(=S)N/N=C\c2c[nH]c3ccccc23)CC1,8370.0,nM,IC50,5.08,Entamoeba histolytica,organism-based format,True
+CHEMBL243485,S=C(N/N=C\c1c[nH]c2ccccc12)NC1CCCCCCC1,6080.0,nM,IC50,5.22,Entamoeba histolytica,organism-based format,True
+CHEMBL403651,c1ccc2[nH]c(-c3ccc(OCCCCCOc4ccc(-c5nc6ccccc6[nH]5)cc4)cc3)nc2c1,436.0,nM,IC50,6.36,Entamoeba histolytica,organism-based format,True
+CHEMBL55,N=C(N)c1ccc(OCCCCCOc2ccc(C(=N)N)cc2)cc1,11801.0,nM,IC50,4.93,Entamoeba histolytica,organism-based format,True
+CHEMBL458370,CC1CN(C(=S)NCc2ccccc2Cl)N=C1c1ccccc1,4620.0,nM,IC50,5.33,Entamoeba histolytica,organism-based format,True
+CHEMBL445260,Cc1ccccc1NC(=S)N1CC(C)C(c2ccccc2)=N1,4570.0,nM,IC50,5.34,Entamoeba histolytica,organism-based format,True
+CHEMBL458733,CC1CN(C(=S)N2CCN(c3ccccc3)CC2)N=C1c1ccccc1,8690.0,nM,IC50,5.06,Entamoeba histolytica,organism-based format,True
+CHEMBL513266,CC1CN(C(=S)NC2CCCCCCC2)N=C1c1ccccc1,2320.0,nM,IC50,5.63,Entamoeba histolytica,organism-based format,True
+CHEMBL504149,CC1CN(C(=S)NC2CCCCC2)N=C1c1ccccc1,6630.0,nM,IC50,5.18,Entamoeba histolytica,organism-based format,True
+CHEMBL463674,CC1CN(C(=S)NC2CCCC2)N=C1c1ccccc1,8570.0,nM,IC50,5.07,Entamoeba histolytica,organism-based format,True
+CHEMBL463673,CC(C)CNC(=S)N1CC(C)C(c2ccccc2)=N1,9130.0,nM,IC50,5.04,Entamoeba histolytica,organism-based format,True
+CHEMBL465898,CCCCNC(=S)N1CC(C)C(c2ccccc2)=N1,4320.0,nM,IC50,5.37,Entamoeba histolytica,organism-based format,True
+CHEMBL465897,CC(C)NC(=S)N1CC(C)C(c2ccccc2)=N1,15250.0,nM,IC50,4.82,Entamoeba histolytica,organism-based format,True
+CHEMBL490441,Clc1ccc(C2ON=C(c3ccccc3Cl)O2)cc1Cl,810.0,nM,IC50,6.09,Entamoeba histolytica,organism-based format,True
+CHEMBL489219,Clc1ccc(C2ON=C(c3ccccc3Cl)O2)cc1,510.0,nM,IC50,6.29,Entamoeba histolytica,organism-based format,True
+CHEMBL444233,CC1(c2ccccn2)ON=C(c2ccccc2Cl)O1,1620.0,nM,IC50,5.79,Entamoeba histolytica,organism-based format,True
+CHEMBL489837,Clc1ccccc1C1=NOC(c2ccccc2Cl)O1,410.0,nM,IC50,6.39,Entamoeba histolytica,organism-based format,True
+CHEMBL523447,Clc1cccc(C2ON=C(c3ccccc3Cl)O2)c1,720.0,nM,IC50,6.14,Entamoeba histolytica,organism-based format,True
+CHEMBL489838,Clc1cccc(C2=NOC(c3ccc(Cl)c(Cl)c3)O2)c1,1210.0,nM,IC50,5.92,Entamoeba histolytica,organism-based format,True
+CHEMBL490443,Clc1ccc(C2ON=C(c3cccc(Cl)c3)O2)cc1,710.0,nM,IC50,6.15,Entamoeba histolytica,organism-based format,True
+CHEMBL506849,CC1(c2ccccn2)ON=C(c2cccc(Cl)c2)O1,1730.0,nM,IC50,5.76,Entamoeba histolytica,organism-based format,True
+CHEMBL489441,Clc1cccc(C2=NOC(c3ccccc3Cl)O2)c1,620.0,nM,IC50,6.21,Entamoeba histolytica,organism-based format,True
+CHEMBL489849,Clc1cccc(C2=NOC(c3cccc(Cl)c3)O2)c1,910.0,nM,IC50,6.04,Entamoeba histolytica,organism-based format,True
+CHEMBL485386,Clc1ccc(C2=NOC(c3ccc(Cl)c(Cl)c3)O2)cc1,1130.0,nM,IC50,5.95,Entamoeba histolytica,organism-based format,True
+CHEMBL485504,Clc1ccc(C2=NOC(c3ccc(Cl)cc3)O2)cc1,530.0,nM,IC50,6.28,Entamoeba histolytica,organism-based format,True
+CHEMBL517805,CC1(c2ccccn2)ON=C(c2ccc(Cl)cc2)O1,1580.0,nM,IC50,5.80,Entamoeba histolytica,organism-based format,True
+CHEMBL476063,Clc1ccc(C2=NOC(c3ccccc3Cl)O2)cc1,480.0,nM,IC50,6.32,Entamoeba histolytica,organism-based format,True
+CHEMBL476064,Clc1ccc(C2=NOC(c3cccc(Cl)c3)O2)cc1,860.0,nM,IC50,6.07,Entamoeba histolytica,organism-based format,True
+CHEMBL202752,NC(=S)N/N=C\c1c[nH]c2ccccc12,11520.0,nM,IC50,4.94,Entamoeba histolytica,organism-based format,True
+CHEMBL461745,CCCNC(=S)N/N=C\c1c[nH]c2ccccc12,6840.0,nM,IC50,5.17,Entamoeba histolytica,organism-based format,True
+CHEMBL461746,CC(C)NC(=S)N/N=C\c1c[nH]c2ccccc12,7640.0,nM,IC50,5.12,Entamoeba histolytica,organism-based format,True
+CHEMBL511873,CCCCNC(=S)N/N=C\c1c[nH]c2ccccc12,4090.0,nM,IC50,5.39,Entamoeba histolytica,organism-based format,True
+CHEMBL462440,CC(C)CNC(=S)N/N=C\c1c[nH]c2ccccc12,5760.0,nM,IC50,5.24,Entamoeba histolytica,organism-based format,True
+CHEMBL511360,CCN(CC)C(=S)N/N=C\c1c[nH]c2ccccc12,2580.0,nM,IC50,5.59,Entamoeba histolytica,organism-based format,True
+CHEMBL505120,CCCCN(C)C(=S)N/N=C\c1c[nH]c2ccccc12,5500.0,nM,IC50,5.26,Entamoeba histolytica,organism-based format,True
+CHEMBL460707,Cc1ccc(NC(=S)N/N=C\c2c[nH]c3ccccc23)cc1,3250.0,nM,IC50,5.49,Entamoeba histolytica,organism-based format,True
+CHEMBL460708,Cc1ccccc1NC(=S)N/N=C\c1c[nH]c2ccccc12,2050.0,nM,IC50,5.69,Entamoeba histolytica,organism-based format,True
+CHEMBL512927,Cc1cccc(NC(=S)N/N=C\c2c[nH]c3ccccc23)c1,1290.0,nM,IC50,5.89,Entamoeba histolytica,organism-based format,True
+CHEMBL460709,CN(Cc1ccccc1)C(=S)N/N=C\c1c[nH]c2ccccc12,2460.0,nM,IC50,5.61,Entamoeba histolytica,organism-based format,True
+CHEMBL512041,S=C(NCc1ccccc1Cl)N/N=C\c1c[nH]c2ccccc12,3280.0,nM,IC50,5.48,Entamoeba histolytica,organism-based format,True
+CHEMBL460509,Fc1cccc(F)c1NC(=S)N/N=C\c1c[nH]c2ccccc12,6050.0,nM,IC50,5.22,Entamoeba histolytica,organism-based format,True
+CHEMBL460510,O=[N+]([O-])c1cnc(/C=C/c2ccc(/C=N/NC(=S)NC3CCCCC3)cc2)n1CCO,1500.0,nM,IC50,5.82,Entamoeba histolytica,organism-based format,True
+CHEMBL462443,O=[N+]([O-])c1cnc(/C=C/c2ccc(/C=N/NC(=S)NC3CCCCCCC3)cc2)n1CCO,800.0,nM,IC50,6.10,Entamoeba histolytica,organism-based format,True
+CHEMBL516792,Cc1ccccc1NC(=S)N/N=C/c1ccc(/C=C/c2ncc([N+](=O)[O-])n2CCO)cc1,1570.0,nM,IC50,5.80,Entamoeba histolytica,organism-based format,True
+CHEMBL460511,Cc1ccc(NC(=S)N/N=C/c2ccc(/C=C/c3ncc([N+](=O)[O-])n3CCO)cc2)cc1,560.0,nM,IC50,6.25,Entamoeba histolytica,organism-based format,True
+CHEMBL473528,O=[N+]([O-])c1cnc(/C=C/c2ccc(/C=N/NC(=S)NCc3ccccc3Cl)cc2)n1CCO,3670.0,nM,IC50,5.43,Entamoeba histolytica,organism-based format,True
+CHEMBL514468,O=[N+]([O-])c1cnc(/C=C/c2ccc(/C=N/NC(=S)N3CCCC3)cc2)n1CCO,1920.0,nM,IC50,5.72,Entamoeba histolytica,organism-based format,True
+CHEMBL473124,O=[N+]([O-])c1cnc(/C=C/c2ccc(/C=N/NC(=S)N3CCCCCC3)cc2)n1CCO,1620.0,nM,IC50,5.79,Entamoeba histolytica,organism-based format,True
+CHEMBL473125,CC1CCN(C(=S)N/N=C/c2ccc(/C=C/c3ncc([N+](=O)[O-])n3CCO)cc2)CC1,1130.0,nM,IC50,5.95,Entamoeba histolytica,organism-based format,True
+CHEMBL516031,CN(Cc1ccccc1)C(=S)N/N=C/c1ccc(/C=C/c2ncc([N+](=O)[O-])n2CCO)cc1,2340.0,nM,IC50,5.63,Entamoeba histolytica,organism-based format,True
+CHEMBL473317,O=[N+]([O-])c1cnc(/C=C/c2ccc(/C=N/NC(=S)N3CCCc4ccccc43)cc2)n1CCO,1180.0,nM,IC50,5.93,Entamoeba histolytica,organism-based format,True
+CHEMBL464697,O=C(/C=C/c1ccccc1)c1ccc(Br)cc1,1390.0,nM,IC50,5.86,Entamoeba histolytica,organism-based format,True
+CHEMBL474929,O=C(/C=C/c1cc2ccccc2[nH]1)c1ccc(Br)cc1,1050.0,nM,IC50,5.98,Entamoeba histolytica,organism-based format,True
+CHEMBL474930,Cc1ccc(/C=C/C(=O)c2ccc(Br)cc2)cc1,2490.0,nM,IC50,5.60,Entamoeba histolytica,organism-based format,True
+CHEMBL474866,Cc1cc(C)c(/C=C/C(=O)c2ccc(Br)cc2)c(C)c1,1800.0,nM,IC50,5.75,Entamoeba histolytica,organism-based format,True
+CHEMBL453526,CCc1ccccc1/C=C/C(=O)c1ccc(Br)cc1,3630.0,nM,IC50,5.44,Entamoeba histolytica,organism-based format,True
+CHEMBL489675,CC(C)c1ccccc1/C=C/C(=O)c1ccc(Br)cc1,1920.0,nM,IC50,5.72,Entamoeba histolytica,organism-based format,True
+CHEMBL475891,O=C(/C=C/c1ccccc1Cl)c1ccc(Br)cc1,2230.0,nM,IC50,5.65,Entamoeba histolytica,organism-based format,True
+CHEMBL489676,O=C(/C=C/c1cccc(Cl)c1Cl)c1ccc(Br)cc1,1110.0,nM,IC50,5.96,Entamoeba histolytica,organism-based format,True
+CHEMBL489677,NC(=S)N1N=C(c2cccc(Br)c2)CC1c1ccccc1,190.0,nM,IC50,6.72,Entamoeba histolytica,organism-based format,True
+CHEMBL522937,NC(=S)N1N=C(c2cccc(Br)c2)CC1c1c[nH]c2ccccc12,2280.0,nM,IC50,5.64,Entamoeba histolytica,organism-based format,True
+CHEMBL489678,Cc1ccc(C2CC(c3cccc(Br)c3)=NN2C(N)=S)cc1,4380.0,nM,IC50,5.36,Entamoeba histolytica,organism-based format,True
+CHEMBL489681,Cc1cc(C)c(C2CC(c3cccc(Br)c3)=NN2C(N)=S)c(C)c1,1710.0,nM,IC50,5.77,Entamoeba histolytica,organism-based format,True
+CHEMBL443453,CCc1ccccc1C1CC(c2cccc(Br)c2)=NN1C(N)=S,2610.0,nM,IC50,5.58,Entamoeba histolytica,organism-based format,True
+CHEMBL523105,CC(C)c1ccccc1C1CC(c2cccc(Br)c2)=NN1C(N)=S,2340.0,nM,IC50,5.63,Entamoeba histolytica,organism-based format,True
+CHEMBL521758,NC(=S)N1N=C(c2cccc(Br)c2)CC1c1ccccc1Cl,1900.0,nM,IC50,5.72,Entamoeba histolytica,organism-based format,True
+CHEMBL445289,NC(=S)N1N=C(c2cccc(Br)c2)CC1c1cccc(Cl)c1Cl,560.0,nM,IC50,6.25,Entamoeba histolytica,organism-based format,True
+CHEMBL489482,Brc1cccc(C2=NN(c3nc4nc5ccccc5nc4s3)C(c3ccccc3)C2)c1,140.0,nM,IC50,6.85,Entamoeba histolytica,organism-based format,True
+CHEMBL7976,O=C(/C=C/c1ccccc1)c1ccccc1,1700.0,nM,IC50,5.77,Entamoeba histolytica,organism-based format,True
+CHEMBL508817,NC(=S)N1N=C(c2ccccc2)CC1c1ccccc1,1610.0,nM,IC50,5.79,Entamoeba histolytica,organism-based format,True
+CHEMBL522479,c1ccc(C2=NN(c3nc4nc5ccccc5nc4s3)C(c3ccccc3)C2)cc1,1490.0,nM,IC50,5.83,Entamoeba histolytica,organism-based format,True
+CHEMBL492091,O=C(/C=C/c1c[nH]c2ccccc12)c1ccccc1,1800.0,nM,IC50,5.75,Entamoeba histolytica,organism-based format,True
+CHEMBL492092,NC(=S)N1N=C(c2ccccc2)CC1c1c[nH]c2ccccc12,1770.0,nM,IC50,5.75,Entamoeba histolytica,organism-based format,True
+CHEMBL491931,c1ccc(C2=NN(c3nc4nc5ccccc5nc4s3)C(c3c[nH]c4ccccc34)C2)cc1,1290.0,nM,IC50,5.89,Entamoeba histolytica,organism-based format,True
+CHEMBL375905,Cc1ccc(/C=C/C(=O)c2ccccc2)cc1,2120.0,nM,IC50,5.67,Entamoeba histolytica,organism-based format,True
+CHEMBL489743,Cc1ccc(C2CC(c3ccccc3)=NN2C(N)=S)cc1,1580.0,nM,IC50,5.80,Entamoeba histolytica,organism-based format,True
+CHEMBL489744,Cc1ccc(C2CC(c3ccccc3)=NN2c2nc3nc4ccccc4nc3s2)cc1,300.0,nM,IC50,6.52,Entamoeba histolytica,organism-based format,True
+CHEMBL504473,Cc1cc(C)c(/C=C/C(=O)c2ccccc2)c(C)c1,1410.0,nM,IC50,5.85,Entamoeba histolytica,organism-based format,True
+CHEMBL521584,Cc1cc(C)c(C2CC(c3ccccc3)=NN2C(N)=S)c(C)c1,4370.0,nM,IC50,5.36,Entamoeba histolytica,organism-based format,True
+CHEMBL490105,Cc1cc(C)c(C2CC(c3ccccc3)=NN2c2nc3nc4ccccc4nc3s2)c(C)c1,3200.0,nM,IC50,5.50,Entamoeba histolytica,organism-based format,True
+CHEMBL488094,CCc1ccccc1/C=C/C(=O)c1ccccc1,1790.0,nM,IC50,5.75,Entamoeba histolytica,organism-based format,True
+CHEMBL491128,CCc1ccccc1C1CC(c2ccccc2)=NN1C(N)=S,1610.0,nM,IC50,5.79,Entamoeba histolytica,organism-based format,True
+CHEMBL523638,CCc1ccccc1C1CC(c2ccccc2)=NN1c1nc2nc3ccccc3nc2s1,1490.0,nM,IC50,5.83,Entamoeba histolytica,organism-based format,True
+CHEMBL454264,CC(C)c1ccccc1/C=C/C(=O)c1ccccc1,3480.0,nM,IC50,5.46,Entamoeba histolytica,organism-based format,True
+CHEMBL491300,CC(C)c1ccccc1C1CC(c2ccccc2)=NN1C(N)=S,230.0,nM,IC50,6.64,Entamoeba histolytica,organism-based format,True
+CHEMBL491969,CC(C)c1ccccc1C1CC(c2ccccc2)=NN1c1nc2nc3ccccc3nc2s1,170.0,nM,IC50,6.77,Entamoeba histolytica,organism-based format,True
+CHEMBL474682,O=C(/C=C/c1ccccc1Cl)c1ccccc1,2600.0,nM,IC50,5.58,Entamoeba histolytica,organism-based format,True
+CHEMBL503204,NC(=S)N1N=C(c2ccccc2)CC1c1ccccc1Cl,2230.0,nM,IC50,5.65,Entamoeba histolytica,organism-based format,True
+CHEMBL491925,Clc1ccccc1C1CC(c2ccccc2)=NN1c1nc2nc3ccccc3nc2s1,1900.0,nM,IC50,5.72,Entamoeba histolytica,organism-based format,True
+CHEMBL442671,O=C(/C=C/c1ccc(Cl)c(Cl)c1)c1ccccc1,2010.0,nM,IC50,5.70,Entamoeba histolytica,organism-based format,True
+CHEMBL510606,NC(=S)N1N=C(c2ccccc2)CC1c1cccc(Cl)c1Cl,1090.0,nM,IC50,5.96,Entamoeba histolytica,organism-based format,True
+CHEMBL491720,Clc1cccc(C2CC(c3ccccc3)=NN2c2nc3nc4ccccc4nc3s2)c1Cl,890.0,nM,IC50,6.05,Entamoeba histolytica,organism-based format,True
+CHEMBL486179,CN1CCc2cc3c(cc2C(=O)Cc2cc4c(cc2C1)OCO4)OCO3,70700.0,nM,IC50,4.15,Entamoeba histolytica,organism-based format,True
+CHEMBL274346,COc1cc2c(cc1O)CC[n+]1cc3c(OC)c(OC)ccc3cc1-2.[Cl-],82700.0,nM,IC50,4.08,Entamoeba histolytica,organism-based format,True
+CHEMBL490509,COc1cc2c(cc1O)CC[n+]1cc3cc(OC)c(OC)cc3cc1-2.[Cl-],66900.0,nM,IC50,4.17,Entamoeba histolytica,organism-based format,True
+CHEMBL248095,COC1=C[C@@H]2[C@@H]3Cc4ccc(OC)c(O)c4[C@]2(CCN3C)CC1=O,56200.0,nM,IC50,4.25,Entamoeba histolytica,organism-based format,True
+CHEMBL404097,COC1=C[C@]23CCN(C)[C@H](Cc4ccc(OC)c(O)c42)C3=CC1=O,76400.0,nM,IC50,4.12,Entamoeba histolytica,organism-based format,True
+CHEMBL490139,COC1=C[C@]23CCN(C)[C@H](Cc4cc(OC)c(OC)cc42)C3=CC1=O,73400.0,nM,IC50,4.13,Entamoeba histolytica,organism-based format,True
+CHEMBL492163,Br.COc1ccc2c(c1OC)[C@]13CCC(=O)[C@]4(O)O[C@H]2C[C@]14N(C)CC3,58600.0,nM,IC50,4.23,Entamoeba histolytica,organism-based format,True
+CHEMBL443099,COc1cc2c(cc1OC)-c1c3c(c(OC)c4c1[C@H](C2)N(C)CC4)OCO3,51200.0,nM,IC50,4.29,Entamoeba histolytica,organism-based format,True
+CHEMBL494053,COc1cc2c3c(c1O)-c1c(ccc(OC)c1OC)C[C@@H]3NCC2,76400.0,nM,IC50,4.12,Entamoeba histolytica,organism-based format,True
+CHEMBL489524,COc1cc2c3c(c1O)-c1c(ccc(OC)c1OC)C[C@@H]3N(C)CC2,90600.0,nM,IC50,4.04,Entamoeba histolytica,organism-based format,True
+CHEMBL450614,COc1cc2c(cc1OC)-c1c3c(c(OC)c4ccnc(c14)C2=O)OCO3,75100.0,nM,IC50,4.12,Entamoeba histolytica,organism-based format,True
+CHEMBL464219,NC(=S)N1N=C(c2ccccc2)CC1c1ccc(C2CC(c3ccccc3)=NN2C(N)=S)cc1,1570.0,nM,IC50,5.80,Entamoeba histolytica,organism-based format,True
+CHEMBL517810,Cc1ccc(NC(=S)N2CCC(c3ccccc3)=N2)cc1,9560.0,nM,IC50,5.02,Entamoeba histolytica,organism-based format,True
+CHEMBL476597,Cc1cccc(NC(=S)N2CCC(c3cccc(Cl)c3)=N2)c1,2810.0,nM,IC50,5.55,Entamoeba histolytica,organism-based format,True
+CHEMBL476596,Cc1cccc(NC(=S)N2CCC(c3cccc(Br)c3)=N2)c1,3350.0,nM,IC50,5.47,Entamoeba histolytica,organism-based format,True
+CHEMBL476595,Cc1cccc(NC(=S)N2CCC(c3ccccc3)=N2)c1,5010.0,nM,IC50,5.30,Entamoeba histolytica,organism-based format,True
+CHEMBL458868,Cc1ccccc1NC(=S)N1CCC(c2cccc(Cl)c2)=N1,1680.0,nM,IC50,5.78,Entamoeba histolytica,organism-based format,True
+CHEMBL458456,Cc1ccccc1NC(=S)N1CCC(c2cccc(Br)c2)=N1,3820.0,nM,IC50,5.42,Entamoeba histolytica,organism-based format,True
+CHEMBL458455,Cc1ccccc1NC(=S)N1CCC(c2ccccc2)=N1,4780.0,nM,IC50,5.32,Entamoeba histolytica,organism-based format,True
+CHEMBL458454,S=C(N1CCC(c2cccc(Cl)c2)=N1)N1CCCc2ccccc21,1770.0,nM,IC50,5.75,Entamoeba histolytica,organism-based format,True
+CHEMBL516326,S=C(N1CCC(c2cccc(Br)c2)=N1)N1CCCc2ccccc21,2780.0,nM,IC50,5.56,Entamoeba histolytica,organism-based format,True
+CHEMBL458453,S=C(N1CCC(c2ccccc2)=N1)N1CCCc2ccccc21,6190.0,nM,IC50,5.21,Entamoeba histolytica,organism-based format,True
+CHEMBL442595,CN(Cc1ccccc1)C(=S)N1CCC(c2cccc(Cl)c2)=N1,2910.0,nM,IC50,5.54,Entamoeba histolytica,organism-based format,True
+CHEMBL450909,CN(Cc1ccccc1)C(=S)N1CCC(c2cccc(Br)c2)=N1,4440.0,nM,IC50,5.35,Entamoeba histolytica,organism-based format,True
+CHEMBL512915,CN(Cc1ccccc1)C(=S)N1CCC(c2ccccc2)=N1,7310.0,nM,IC50,5.14,Entamoeba histolytica,organism-based format,True
+CHEMBL458018,CN(C(=S)N1CCC(c2cccc(Cl)c2)=N1)C1CCCCC1,3710.0,nM,IC50,5.43,Entamoeba histolytica,organism-based format,True
+CHEMBL457801,CN(C(=S)N1CCC(c2cccc(Br)c2)=N1)C1CCCCC1,5250.0,nM,IC50,5.28,Entamoeba histolytica,organism-based format,True
+CHEMBL512027,CN(C(=S)N1CCC(c2ccccc2)=N1)C1CCCCC1,5940.0,nM,IC50,5.23,Entamoeba histolytica,organism-based format,True
+CHEMBL457135,S=C(N1CCCCCC1)N1CCC(c2cccc(Cl)c2)=N1,890.0,nM,IC50,6.05,Entamoeba histolytica,organism-based format,True
+CHEMBL457134,S=C(N1CCCCCC1)N1CCC(c2cccc(Br)c2)=N1,1090.0,nM,IC50,5.96,Entamoeba histolytica,organism-based format,True
+CHEMBL457097,S=C(N1CCCCCC1)N1CCC(c2ccccc2)=N1,4390.0,nM,IC50,5.36,Entamoeba histolytica,organism-based format,True
+CHEMBL447520,S=C(N1CCCC1)N1CCC(c2cccc(Cl)c2)=N1,2310.0,nM,IC50,5.64,Entamoeba histolytica,organism-based format,True
+CHEMBL513091,S=C(N1CCCC1)N1CCC(c2cccc(Br)c2)=N1,2820.0,nM,IC50,5.55,Entamoeba histolytica,organism-based format,True
+CHEMBL458662,S=C(N1CCCC1)N1CCC(c2ccccc2)=N1,3730.0,nM,IC50,5.43,Entamoeba histolytica,organism-based format,True
+CHEMBL476807,Cc1ccc(NC(=S)N2CCC(c3cccc(Br)c3)=N2)cc1,5330.0,nM,IC50,5.27,Entamoeba histolytica,organism-based format,True
+CHEMBL477010,Cc1ccc(NC(=S)N2CCC(c3cccc(Cl)c3)=N2)cc1,2400.0,nM,IC50,5.62,Entamoeba histolytica,organism-based format,True
+CHEMBL477216,Fc1ccc(NC(=S)N2CCC(c3ccccc3)=N2)c(F)c1,1760.0,nM,IC50,5.75,Entamoeba histolytica,organism-based format,True
+CHEMBL516727,Fc1ccc(NC(=S)N2CCC(c3cccc(Br)c3)=N2)c(F)c1,670.0,nM,IC50,6.17,Entamoeba histolytica,organism-based format,True
+CHEMBL477217,Fc1ccc(NC(=S)N2CCC(c3cccc(Cl)c3)=N2)c(F)c1,510.0,nM,IC50,6.29,Entamoeba histolytica,organism-based format,True
+CHEMBL477218,S=C(NC1C2CC3CC(C2)CC1C3)N1CCC(c2ccccc2)=N1,1790.0,nM,IC50,5.75,Entamoeba histolytica,organism-based format,True
+CHEMBL477418,S=C(NC1C2CC3CC(C2)CC1C3)N1CCC(c2cccc(Br)c2)=N1,580.0,nM,IC50,6.24,Entamoeba histolytica,organism-based format,True
+CHEMBL515792,S=C(NC1C2CC3CC(C2)CC1C3)N1CCC(c2cccc(Cl)c2)=N1,470.0,nM,IC50,6.33,Entamoeba histolytica,organism-based format,True
+CHEMBL541487,Cc1nc([N+](=O)[O-])cn1CC(=O)NCc1ccccc1,3960.0,nM,IC50,5.40,Entamoeba histolytica,organism-based format,True
+CHEMBL540170,Cc1nc([N+](=O)[O-])cn1CC(=O)Nc1ccccc1,26600.0,nM,IC50,4.58,Entamoeba histolytica,organism-based format,True
+CHEMBL550241,Cc1nc([N+](=O)[O-])cn1CC(=O)Nc1ccc(F)cc1,11190.0,nM,IC50,4.95,Entamoeba histolytica,organism-based format,True
+CHEMBL550156,Cc1nc([N+](=O)[O-])cn1CC(=O)Nc1ccc(Cl)cc1,18110.0,nM,IC50,4.74,Entamoeba histolytica,organism-based format,True
+CHEMBL564658,Cc1nc([N+](=O)[O-])cn1CC(=O)Nc1ccc(C#N)cc1,41230.0,nM,IC50,4.38,Entamoeba histolytica,organism-based format,True
+CHEMBL562514,Cc1nc([N+](=O)[O-])cn1CC(=O)Nc1ccc([N+](=O)[O-])cc1,15340.0,nM,IC50,4.81,Entamoeba histolytica,organism-based format,True
+CHEMBL540171,Cc1nc([N+](=O)[O-])cn1CC(=O)Nc1c(Cl)cccc1Cl,25280.0,nM,IC50,4.60,Entamoeba histolytica,organism-based format,True
+CHEMBL570535,Cc1nc([N+](=O)[O-])cn1CC(=O)Nc1cccc(C(F)(F)F)c1,29080.0,nM,IC50,4.54,Entamoeba histolytica,organism-based format,True
+CHEMBL550447,CC(=O)Nc1ccc(S(=O)(=O)n2cc([N+](=O)[O-])nc2C)cc1,3890.0,nM,IC50,5.41,Entamoeba histolytica,organism-based format,True
+CHEMBL540243,Cc1nc([N+](=O)[O-])cn1S(=O)(=O)c1ccccc1,6740.0,nM,IC50,5.17,Entamoeba histolytica,organism-based format,True
+CHEMBL551800,Cc1ccc(S(=O)(=O)n2cc([N+](=O)[O-])nc2C)cc1,3550.0,nM,IC50,5.45,Entamoeba histolytica,organism-based format,True
+CHEMBL558503,Cc1nc([N+](=O)[O-])cn1S(=O)(=O)c1ccc(Cl)cc1,4030.0,nM,IC50,5.39,Entamoeba histolytica,organism-based format,True
+CHEMBL541490,Cc1nc([N+](=O)[O-])cn1S(=O)(=O)c1ccc(F)cc1,4440.0,nM,IC50,5.35,Entamoeba histolytica,organism-based format,True
+CHEMBL550508,Cc1nc([N+](=O)[O-])cn1S(=O)(=O)c1ccc([N+](=O)[O-])cc1,7280.0,nM,IC50,5.14,Entamoeba histolytica,organism-based format,True
+CHEMBL555070,COc1ccc(S(=O)(=O)n2cc([N+](=O)[O-])nc2C)cc1,8560.0,nM,IC50,5.07,Entamoeba histolytica,organism-based format,True
+CHEMBL110,O=C(Cn1ccnc1[N+](=O)[O-])NCc1ccccc1,4270.0,nM,IC50,5.37,Entamoeba histolytica,organism-based format,True
+CHEMBL1078520,O/N=C/c1ccc(/C=N/O)cc1,5730.0,nM,IC50,5.24,Entamoeba histolytica,organism-based format,True
+CHEMBL1080967,c1ccc(C2ON=C(c3ccc(C4=NOC(c5ccccc5)O4)cc3)O2)cc1,3960.0,nM,IC50,5.40,Entamoeba histolytica,organism-based format,True
+CHEMBL1079145,Clc1ccccc1C1ON=C(c2ccc(C3=NOC(c4ccccc4Cl)O3)cc2)O1,1220.0,nM,IC50,5.91,Entamoeba histolytica,organism-based format,True
+CHEMBL1079506,Clc1cccc(C2ON=C(c3ccc(C4=NOC(c5cccc(Cl)c5)O4)cc3)O2)c1,1410.0,nM,IC50,5.85,Entamoeba histolytica,organism-based format,True
+CHEMBL1079507,Clc1ccc(C2ON=C(c3ccc(C4=NOC(c5ccc(Cl)cc5)O4)cc3)O2)cc1,4210.0,nM,IC50,5.38,Entamoeba histolytica,organism-based format,True
+CHEMBL1078734,Cc1ccc(C2ON=C(c3ccc(C4=NOC(c5ccc(C)cc5)O4)cc3)O2)cc1,1050.0,nM,IC50,5.98,Entamoeba histolytica,organism-based format,True
+CHEMBL1078149,CCc1ccc(C2ON=C(c3ccc(C4=NOC(c5ccc(CC)cc5)O4)cc3)O2)cc1,2780.0,nM,IC50,5.56,Entamoeba histolytica,organism-based format,True
+CHEMBL1078241,CC(C)c1ccc(C2ON=C(c3ccc(C4=NOC(c5ccc(C(C)C)cc5)O4)cc3)O2)cc1,4650.0,nM,IC50,5.33,Entamoeba histolytica,organism-based format,True
+CHEMBL1078242,COc1ccc(C2ON=C(c3ccc(C4=NOC(c5ccc(OC)cc5)O4)cc3)O2)cc1,1010.0,nM,IC50,6.00,Entamoeba histolytica,organism-based format,True
+CHEMBL1077855,COc1ccc(C2ON=C(c3ccc(C4=NOC(c5ccc(OC)c(OC)c5)O4)cc3)O2)cc1OC,4380.0,nM,IC50,5.36,Entamoeba histolytica,organism-based format,True
+CHEMBL1095573,O=[N+]([O-])c1ccc(C2=NOC(c3ccccc3)O2)s1,9970.0,nM,IC50,5.00,Entamoeba histolytica,organism-based format,True
+CHEMBL1095898,O=[N+]([O-])c1ccc(C2=NOC(c3ccccc3O)O2)s1,2640.0,nM,IC50,5.58,Entamoeba histolytica,organism-based format,True
+CHEMBL1098588,COc1ccc(C2ON=C(c3ccc([N+](=O)[O-])s3)O2)cc1,1600.0,nM,IC50,5.80,Entamoeba histolytica,organism-based format,True
+CHEMBL1098911,CC1(c2ccccc2)ON=C(c2ccc([N+](=O)[O-])s2)O1,3770.0,nM,IC50,5.42,Entamoeba histolytica,organism-based format,True
+CHEMBL1098912,CC1(c2ccc(Cl)cc2)ON=C(c2ccc([N+](=O)[O-])s2)O1,6100.0,nM,IC50,5.21,Entamoeba histolytica,organism-based format,True
+CHEMBL1098913,Cc1ccc(C2=NOC(c3ccccc3)O2)cc1,7820.0,nM,IC50,5.11,Entamoeba histolytica,organism-based format,True
+CHEMBL1098914,Cc1ccc(C2=NOC(c3ccccc3O)O2)cc1,8610.0,nM,IC50,5.07,Entamoeba histolytica,organism-based format,True
+CHEMBL1095592,COc1ccc(C2ON=C(c3ccc(C)cc3)O2)cc1,1800.0,nM,IC50,5.75,Entamoeba histolytica,organism-based format,True
+CHEMBL1096588,Cc1ccc(C2=NOC(C)(c3ccccc3)O2)cc1,1800.0,nM,IC50,5.75,Entamoeba histolytica,organism-based format,True
+CHEMBL1095915,Cc1ccc(C2=NOC(C)(c3ccc(Cl)cc3)O2)cc1,7300.0,nM,IC50,5.14,Entamoeba histolytica,organism-based format,True
+CHEMBL1084849,C=CS(=O)(=O)C1=C[C@@H](OC)O[C@@H]1COC(c1ccccc1)(c1ccccc1)c1ccccc1,37860.0,nM,IC50,4.42,Entamoeba histolytica,organism-based format,True
+CHEMBL1086482,C=CS(=O)(=O)C1=C[C@@H](OC)O[C@@H]1COCc1ccccc1,24350.0,nM,IC50,4.61,Entamoeba histolytica,organism-based format,True
+CHEMBL1086483,C=CS(=O)(=O)C1=C[C@H](OC)O[C@@H]1COC(c1ccccc1)(c1ccccc1)c1ccccc1,32930.0,nM,IC50,4.48,Entamoeba histolytica,organism-based format,True
+CHEMBL1085554,C=CS(=O)(=O)C1=C[C@H](OC)O[C@@H]1COCc1ccccc1,19500.0,nM,IC50,4.71,Entamoeba histolytica,organism-based format,True
+CHEMBL1170159,Cn1c(C(F)(F)F)nc2cc(Cl)c(Oc3cccc4ccccc34)cc21,17.0,nM,IC50,7.77,Entamoeba histolytica,organism-based format,True
+CHEMBL1170158,Cn1c(C(F)(F)F)nc2cc(Oc3cccc4ccccc34)c(Cl)cc21,38.0,nM,IC50,7.42,Entamoeba histolytica,organism-based format,True
+CHEMBL1170157,FC(F)(F)c1nc2cc(Oc3cccc4ccccc34)c(Cl)cc2[nH]1,19.0,nM,IC50,7.72,Entamoeba histolytica,organism-based format,True
+CHEMBL1169965,FC(F)(F)c1nc2cc(Oc3cccc(Cl)c3Cl)c(Cl)cc2[nH]1,20.0,nM,IC50,7.70,Entamoeba histolytica,organism-based format,True
+CHEMBL1170757,Cn1c(C(F)(F)F)nc2ccc(Oc3cccc(Cl)c3Cl)cc21,19.0,nM,IC50,7.72,Entamoeba histolytica,organism-based format,True
+CHEMBL1170756,Cn1c(C(F)(F)F)nc2cc(Oc3cccc(Cl)c3Cl)ccc21,9.0,nM,IC50,8.05,Entamoeba histolytica,organism-based format,True
+CHEMBL1172446,FC(F)(F)c1nc2cc(Oc3cccc(Cl)c3Cl)ccc2[nH]1,18.0,nM,IC50,7.75,Entamoeba histolytica,organism-based format,True
+CHEMBL220698,O=P(O)(O)C(Nc1ncc(Br)cc1Br)P(=O)(O)O,29000.0,nM,IC50,4.54,Entamoeba histolytica,organism-based format,True
+CHEMBL100483,O=P(O)(O)C(Nc1ccc(Br)cn1)P(=O)(O)O,44000.0,nM,IC50,4.36,Entamoeba histolytica,organism-based format,True
+CHEMBL1213627,CCCCCC(C)CNC(P(=O)(O)O)P(=O)(O)O,65000.0,nM,IC50,4.19,Entamoeba histolytica,organism-based format,True
+CHEMBL1213551,CN(CCCc1ccccc1)CCCC(O)(P(=O)(O)O)P(=O)(O)O,45000.0,nM,IC50,4.35,Entamoeba histolytica,organism-based format,True
+CHEMBL997,CCCCCN(C)CCC(O)(P(=O)(O)O)P(=O)(O)O,54000.0,nM,IC50,4.27,Entamoeba histolytica,organism-based format,True
+CHEMBL1779947,CC(=O)Oc1ccccc1C(=O)Nc1nc2ccc([N+](=O)[O-])cc2s1,3515.0,nM,IC50,5.45,Entamoeba histolytica,organism-based format,True
+CHEMBL1779948,O=C(Nc1nc2ccc([N+](=O)[O-])cc2s1)c1ccccc1O,8021.0,nM,IC50,5.10,Entamoeba histolytica,organism-based format,True
+CHEMBL1401,CC(=O)Oc1ccccc1C(=O)Nc1ncc([N+](=O)[O-])s1,504.0,nM,IC50,6.30,Entamoeba histolytica,organism-based format,True
+CHEMBL1545,O=C(Nc1ncc([N+](=O)[O-])s1)c1ccccc1O,1229.0,nM,IC50,5.91,Entamoeba histolytica,organism-based format,True
+CHEMBL1503,COc1ccc2[nH]c([S+]([O-])Cc3ncc(C)c(OC)c3C)nc2c1,492.2,nM,IC50,6.31,Entamoeba histolytica,organism-based format,True
+CHEMBL480,Cc1c(OCC(F)(F)F)ccnc1C[S+]([O-])c1nc2ccccc2[nH]1,346.6,nM,IC50,6.46,Entamoeba histolytica,organism-based format,True
+CHEMBL1219,COCCCOc1ccnc(C[S+]([O-])c2nc3ccccc3[nH]2)c1C,23.7,nM,IC50,7.62,Entamoeba histolytica,organism-based format,True
+CHEMBL1502,COc1ccnc(C[S+]([O-])c2nc3cc(OC(F)F)ccc3[nH]2)c1OC,2.6,nM,IC50,8.59,Entamoeba histolytica,organism-based format,True
+CHEMBL428612,c1ccc2[nH]c(-c3ccc(OCCCOc4ccc(-c5nc6ccccc6[nH]5)cc4)cc3)nc2c1,3370.0,nM,IC50,5.47,Entamoeba histolytica,organism-based format,True
+CHEMBL442471,c1ccc2[nH]c(-c3ccc(OCCCCOc4ccc(-c5nc6ccccc6[nH]5)cc4)cc3)nc2c1,8130.0,nM,IC50,5.09,Entamoeba histolytica,organism-based format,True
+CHEMBL1928414,c1cc(OCCOc2cccc(-c3nc4ccccc4[nH]3)c2)cc(-c2nc3ccccc3[nH]2)c1,83990.0,nM,IC50,4.08,Entamoeba histolytica,organism-based format,True
+CHEMBL1928415,c1cc(OCCCOc2cccc(-c3nc4ccccc4[nH]3)c2)cc(-c2nc3ccccc3[nH]2)c1,78260.0,nM,IC50,4.11,Entamoeba histolytica,organism-based format,True
+CHEMBL428119,c1cc(OCCCCCOc2cccc(-c3nc4ccccc4[nH]3)c2)cc(-c2nc3ccccc3[nH]2)c1,27840.0,nM,IC50,4.55,Entamoeba histolytica,organism-based format,True
+CHEMBL2261597,Cc1ncc([N+](=O)[O-])n1CC(=O)N[C@@H](Cc1cnc[nH]1)C(=O)O,16170.0,nM,IC50,4.79,Entamoeba histolytica,organism-based format,True
+CHEMBL2261596,Cc1ncc([N+](=O)[O-])n1CC(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O,17250.0,nM,IC50,4.76,Entamoeba histolytica,organism-based format,True
+CHEMBL2261595,Cc1ncc([N+](=O)[O-])n1CC(=O)N[C@@H](Cc1ccccc1)C(=O)O,23450.0,nM,IC50,4.63,Entamoeba histolytica,organism-based format,True
+CHEMBL2261593,COC(=O)[C@@H]1CCCN1C(=O)Cn1c([N+](=O)[O-])cnc1C,2540.0,nM,IC50,5.59,Entamoeba histolytica,organism-based format,True
+CHEMBL2261592,COC(=O)[C@H](CCCCN)NC(=O)Cn1c([N+](=O)[O-])cnc1C,8910.0,nM,IC50,5.05,Entamoeba histolytica,organism-based format,True
+CHEMBL2261591,COC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)Cn1c([N+](=O)[O-])cnc1C,8290.0,nM,IC50,5.08,Entamoeba histolytica,organism-based format,True
+CHEMBL2261590,COC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)Cn1c([N+](=O)[O-])cnc1C,18290.0,nM,IC50,4.74,Entamoeba histolytica,organism-based format,True
+CHEMBL2261589,COC(=O)[C@H](CC(=O)O)NC(=O)Cn1c([N+](=O)[O-])cnc1C,2210.0,nM,IC50,5.66,Entamoeba histolytica,organism-based format,True
+CHEMBL2261861,COC(=O)[C@H](Cc1ccccc1)NC(=O)Cn1c([N+](=O)[O-])cnc1C,22130.0,nM,IC50,4.66,Entamoeba histolytica,organism-based format,True
+CHEMBL2261598,CCOC(=O)[C@H](C)NC(=O)Cn1c([N+](=O)[O-])cnc1C,2100.0,nM,IC50,5.68,Entamoeba histolytica,organism-based format,True
+CHEMBL579443,CCOC(=O)c1c(C)n(-c2ccc(Cl)cc2)c2ccc(OC(=O)C=Cc3ccccc3)cc12,10660.0,nM,IC50,4.97,Entamoeba histolytica,organism-based format,True
+CHEMBL582666,c1ccc2cc3c(Nc4ccc(N5CCOCC5)cc4)ccnc3cc2c1,15580.0,nM,IC50,4.81,Entamoeba histolytica,organism-based format,True
+CHEMBL4090560,CCCS(=O)(=O)N1CCC[C@@H]1C(=O)N1CCN(c2ccnc3cc(Cl)ccc23)CC1,6910.0,nM,IC50,5.16,Entamoeba histolytica,assay format,True
+CHEMBL4093969,O=C([C@H]1CCCN1S(=O)(=O)c1ccccc1)N1CCN(c2ccnc3cc(Cl)ccc23)CC1,1260.0,nM,IC50,5.90,Entamoeba histolytica,assay format,True
+CHEMBL4073299,Cc1ccc(S(=O)(=O)N2CCC[C@@H]2C(=O)N2CCN(c3ccnc4cc(Cl)ccc34)CC2)cc1,340.0,nM,IC50,6.47,Entamoeba histolytica,assay format,True
+CHEMBL4093225,O=C(CN1CCN(c2ccnc3cc(Cl)ccc23)CC1)Nc1ccc(F)cc1,410.0,nM,IC50,6.39,Entamoeba histolytica,assay format,True
+CHEMBL4082973,O=C(CN1CCN(c2ccnc3cc(Cl)ccc23)CC1)NC1CCCCC1,860.0,nM,IC50,6.07,Entamoeba histolytica,assay format,True
+CHEMBL4210015,CSc1nc2cc(C(=O)Nc3ccccn3)c(Cl)cc2n1C,34.5,nM,IC50,7.46,Entamoeba histolytica,organism-based format,True
+CHEMBL4202744,CSc1nc2cc(C(=O)Nc3cccc(C)n3)c(Cl)cc2n1C,41.8,nM,IC50,7.38,Entamoeba histolytica,organism-based format,True
+CHEMBL4214402,CSc1nc2cc(C(=O)Nc3cccc(Cl)n3)c(Cl)cc2n1C,40.8,nM,IC50,7.39,Entamoeba histolytica,organism-based format,True
+CHEMBL4206155,CSc1nc2cc(C(=O)Nc3ccc([N+](=O)[O-])cn3)c(Cl)cc2n1C,9.2,nM,IC50,8.04,Entamoeba histolytica,organism-based format,True
+CHEMBL4212043,CSc1nc2cc(C(=O)NNC(=O)OC(C)(C)C)c(Cl)cc2n1C,48.5,nM,IC50,7.31,Entamoeba histolytica,organism-based format,True
+CHEMBL4217508,CSc1nc2cc(C(=O)N/N=C/c3ccc([N+](=O)[O-])o3)c(Cl)cc2n1C,26.6,nM,IC50,7.58,Entamoeba histolytica,organism-based format,True
+CHEMBL4205808,CSc1nc2cc(C(=O)Nc3ccccn3)c(Cl)cc2[nH]1,44.0,nM,IC50,7.36,Entamoeba histolytica,organism-based format,True
+CHEMBL4203032,CSc1nc2cc(C(=O)Nc3cccc(C)n3)c(Cl)cc2[nH]1,81.3,nM,IC50,7.09,Entamoeba histolytica,organism-based format,True
+CHEMBL4216112,CSc1nc2cc(C(=O)Nc3cccc(Cl)n3)c(Cl)cc2[nH]1,36.9,nM,IC50,7.43,Entamoeba histolytica,organism-based format,True
+CHEMBL4208693,CSc1nc2cc(C(=O)Nc3ccccc3)c(Cl)cc2[nH]1,52.0,nM,IC50,7.28,Entamoeba histolytica,organism-based format,True
+CHEMBL4213631,CSc1nc2cc(C(=O)Nc3cccc(C)c3)c(Cl)cc2[nH]1,120.5,nM,IC50,6.92,Entamoeba histolytica,organism-based format,True
+CHEMBL4213092,CSc1nc2cc(C(=O)Nc3cccc(Cl)c3)c(Cl)cc2[nH]1,51.0,nM,IC50,7.29,Entamoeba histolytica,organism-based format,True
+CHEMBL4243656,Cc1ccc(/C=C/c2ncc([N+](=O)[O-])n2CCn2cc(COc3ccccc3)nn2)cc1,5380.0,nM,IC50,5.27,Entamoeba histolytica,organism-based format,True
+CHEMBL4242529,O=[N+]([O-])c1cnc(/C=C/c2ccc(Br)cc2)n1CCn1cc(COc2ccccc2)nn1,1680.0,nM,IC50,5.78,Entamoeba histolytica,organism-based format,True
+CHEMBL4238360,O=[N+]([O-])c1cnc(/C=C/c2ccc(Cl)cc2)n1CCn1cc(COc2ccccc2)nn1,350.0,nM,IC50,6.46,Entamoeba histolytica,organism-based format,True
+CHEMBL4240382,O=[N+]([O-])c1cnc(/C=C/c2ccc(F)cc2)n1CCn1cc(COc2ccccc2)nn1,280.0,nM,IC50,6.55,Entamoeba histolytica,organism-based format,True
+CHEMBL4250506,O=[N+]([O-])c1cnc(/C=C/c2ccccc2)n1CCn1cc(COc2ccccc2)nn1,3560.0,nM,IC50,5.45,Entamoeba histolytica,organism-based format,True
+CHEMBL4250969,Cc1ccc(/C=C/c2ncc([N+](=O)[O-])n2CCn2cc(-c3ccccn3)nn2)cc1,6010.0,nM,IC50,5.22,Entamoeba histolytica,organism-based format,True
+CHEMBL4246686,O=[N+]([O-])c1cnc(/C=C/c2ccc(Br)cc2)n1CCn1cc(-c2ccccn2)nn1,1100.0,nM,IC50,5.96,Entamoeba histolytica,organism-based format,True
+CHEMBL4247126,O=[N+]([O-])c1cnc(/C=C/c2ccc(Cl)cc2)n1CCn1cc(-c2ccccn2)nn1,290.0,nM,IC50,6.54,Entamoeba histolytica,organism-based format,True
+CHEMBL4242968,O=[N+]([O-])c1cnc(/C=C/c2ccc(F)cc2)n1CCn1cc(-c2ccccn2)nn1,130.0,nM,IC50,6.89,Entamoeba histolytica,organism-based format,True
+CHEMBL4243344,O=[N+]([O-])c1cnc(/C=C/c2ccccc2)n1CCn1cc(-c2ccccn2)nn1,5130.0,nM,IC50,5.29,Entamoeba histolytica,organism-based format,True
+CHEMBL4239118,CCc1ccc(/C=C/c2ncc([N+](=O)[O-])n2CCn2cc(-c3ccccc3)nn2)cc1,4680.0,nM,IC50,5.33,Entamoeba histolytica,organism-based format,True
+CHEMBL4241914,Cc1ccc(/C=C/c2ncc([N+](=O)[O-])n2CCn2cc(-c3ccccc3)nn2)cc1,2510.0,nM,IC50,5.60,Entamoeba histolytica,organism-based format,True
+CHEMBL4246177,O=[N+]([O-])c1cnc(/C=C/c2ccc(Br)cc2)n1CCn1cc(-c2ccccc2)nn1,1770.0,nM,IC50,5.75,Entamoeba histolytica,organism-based format,True
+CHEMBL4244074,O=[N+]([O-])c1cnc(/C=C/c2ccc(Cl)cc2)n1CCn1cc(-c2ccccc2)nn1,1220.0,nM,IC50,5.91,Entamoeba histolytica,organism-based format,True
+CHEMBL4248312,O=[N+]([O-])c1cnc(/C=C/c2ccc(F)cc2)n1CCn1cc(-c2ccccc2)nn1,120.0,nM,IC50,6.92,Entamoeba histolytica,organism-based format,True
+CHEMBL4250262,O=[N+]([O-])c1cnc(/C=C/c2ccccc2)n1CCn1cc(-c2ccccc2)nn1,1350.0,nM,IC50,5.87,Entamoeba histolytica,organism-based format,True
+CHEMBL4240973,CCc1ccc(/C=C/c2ncc([N+](=O)[O-])n2CCn2cc(CO)nn2)cc1,4180.0,nM,IC50,5.38,Entamoeba histolytica,organism-based format,True
+CHEMBL4238178,Cc1ccc(/C=C/c2ncc([N+](=O)[O-])n2CCn2cc(CO)nn2)cc1,2130.0,nM,IC50,5.67,Entamoeba histolytica,organism-based format,True
+CHEMBL4241568,O=[N+]([O-])c1cnc(/C=C/c2ccc(Br)cc2)n1CCn1cc(CO)nn1,1650.0,nM,IC50,5.78,Entamoeba histolytica,organism-based format,True
+CHEMBL4240314,O=[N+]([O-])c1cnc(/C=C/c2ccc(Cl)cc2)n1CCn1cc(CO)nn1,1110.0,nM,IC50,5.96,Entamoeba histolytica,organism-based format,True
+CHEMBL4243392,O=[N+]([O-])c1cnc(/C=C/c2ccc(F)cc2)n1CCn1cc(CO)nn1,180.0,nM,IC50,6.75,Entamoeba histolytica,organism-based format,True
+CHEMBL4247109,O=[N+]([O-])c1cnc(/C=C/c2ccccc2)n1CCn1cc(CO)nn1,1120.0,nM,IC50,5.95,Entamoeba histolytica,organism-based format,True
+CHEMBL1760532,O=C1C(=O)N(CCCCCBr)c2ccccc21,23000.0,nM,IC50,4.64,Entamoeba histolytica,organism-based format,True
+CHEMBL4449934,COc1c(C(C)C)cc2c(c1O)[C@]13CCC[C@](C)([C@H](O)OC1=O)[C@@H]3CC2,43000.0,nM,IC50,4.37,Entamoeba histolytica,organism-based format,True
+CHEMBL4513604,COc1c(C(C)C)cc2c(c1O)[C@]13CCC[C@](C)([C@H](OC(C)=O)OC1=O)[C@@H]3CC2,34900.0,nM,IC50,4.46,Entamoeba histolytica,organism-based format,True
+CHEMBL4447242,CC(C)c1cc2c(c(O)c1O)[C@]13CCC[C@](C)([C@H](O)OC1=O)[C@@H]3CC2,37800.0,nM,IC50,4.42,Entamoeba histolytica,organism-based format,True
+CHEMBL4593114,CC(=O)Oc1c(C(C)C)cc2c(c1OC(C)=O)[C@]13CCC[C@](C)([C@H](OC(C)=O)OC1=O)[C@@H]3CC2,39500.0,nM,IC50,4.40,Entamoeba histolytica,organism-based format,True
+CHEMBL4472179,CC(C)c1cc2c(c(O)c1O)[C@]13CCC[C@](C)(COC1=O)[C@@H]3CC2,31300.0,nM,IC50,4.50,Entamoeba histolytica,organism-based format,True
+CHEMBL4572137,COC(=O)[C@]12CCC[C@](C)(C=O)[C@@H]1CCc1cc(C(C)C)c(OC)c(O)c12,48500.0,nM,IC50,4.31,Entamoeba histolytica,organism-based format,True
+CHEMBL227875,O=[N+]([O-])c1cn2c(n1)OC[C@@H](OCc1ccc(OC(F)(F)F)cc1)C2,9300.0,nM,IC50,5.03,Entamoeba histolytica,organism-based format,True
+CHEMBL512244,O=[N+]([O-])c1cn2c(n1)OC[C@H](OCc1ccc(OC(F)(F)F)cc1)C2,5300.0,nM,IC50,5.28,Entamoeba histolytica,organism-based format,True
+CHEMBL4565179,O=[N+]([O-])c1cn2ccnc(OCCc3ccc(OC(F)(F)F)cc3)c2n1,7800.0,nM,IC50,5.11,Entamoeba histolytica,organism-based format,True
+CHEMBL4453153,CC(=O)OCCn1c(-c2ccccc2)cn2cc([N+](=O)[O-])nc2c1=O,34000.0,nM,IC50,4.47,Entamoeba histolytica,organism-based format,True
+CHEMBL4459697,Cc1cn2cc([N+](=O)[O-])nc2c(OCc2ccc(OC(F)(F)F)cc2)n1,9500.0,nM,IC50,5.02,Entamoeba histolytica,organism-based format,True
+CHEMBL4579641,Cc1ccc(Cn2c(C)cn3cc([N+](=O)[O-])nc3c2=O)cc1,10000.0,nM,IC50,5.00,Entamoeba histolytica,organism-based format,True
+CHEMBL4453184,Cc1ccc(COc2nc(C)cn3cc([N+](=O)[O-])nc23)cc1,30000.0,nM,IC50,4.52,Entamoeba histolytica,organism-based format,True
+CHEMBL4563622,Cc1cn2cc([N+](=O)[O-])nc2c(=O)n1Cc1cccc(OC(F)(F)F)c1,16000.0,nM,IC50,4.80,Entamoeba histolytica,organism-based format,True
+CHEMBL4530876,Cc1cn2cc([N+](=O)[O-])nc2c(=O)n1Cc1ccccc1OC(F)(F)F,9100.0,nM,IC50,5.04,Entamoeba histolytica,organism-based format,True
+CHEMBL4580469,Cc1c(C)n2cc([N+](=O)[O-])nc2c(=O)n1Cc1ccc(OC(F)(F)F)cc1,10000.0,nM,IC50,5.00,Entamoeba histolytica,organism-based format,True
+CHEMBL4447641,Cc1nc(OCc2ccc(OC(F)(F)F)cc2)c2nc([N+](=O)[O-])cn2c1C,17000.0,nM,IC50,4.77,Entamoeba histolytica,organism-based format,True
+CHEMBL4435234,Cc1ccc(Cn2c(C)c(C)n3cc([N+](=O)[O-])nc3c2=O)cc1,33000.0,nM,IC50,4.48,Entamoeba histolytica,organism-based format,True
+CHEMBL4469243,Cc1c(C)n2cc([N+](=O)[O-])nc2c(=O)n1Cc1cccc(OC(F)(F)F)c1,15000.0,nM,IC50,4.82,Entamoeba histolytica,organism-based format,True
+CHEMBL4516883,Cc1nc(OCc2cccc(OC(F)(F)F)c2)c2nc([N+](=O)[O-])cn2c1C,27000.0,nM,IC50,4.57,Entamoeba histolytica,organism-based format,True
+CHEMBL4453745,Cc1c(C)n2cc([N+](=O)[O-])nc2c(=O)n1Cc1ccccc1OC(F)(F)F,18000.0,nM,IC50,4.75,Entamoeba histolytica,organism-based format,True
+CHEMBL3957229,CNC(=O)c1nc([N+](=O)[O-])cn1Cc1ccc(OC(F)(F)F)cc1,10000.0,nM,IC50,5.00,Entamoeba histolytica,organism-based format,True
+CHEMBL3985906,CN(C)C(=O)c1nc([N+](=O)[O-])cn1Cc1ccc(OC(F)(F)F)cc1,10000.0,nM,IC50,5.00,Entamoeba histolytica,organism-based format,True
+CHEMBL3947931,CCOC(=O)c1nc([N+](=O)[O-])cn1Cc1ccc(OC(F)(F)F)cc1,10000.0,nM,IC50,5.00,Entamoeba histolytica,organism-based format,True
+CHEMBL3920140,O=C(NO)c1nc([N+](=O)[O-])cn1Cc1ccc(OC(F)(F)F)cc1,10000.0,nM,IC50,5.00,Entamoeba histolytica,organism-based format,True
+CHEMBL3956589,NNC(=O)c1nc([N+](=O)[O-])cn1Cc1ccc(OC(F)(F)F)cc1,10000.0,nM,IC50,5.00,Entamoeba histolytica,organism-based format,True
+CHEMBL4435915,O=C(NCc1ccccc1)c1nc([N+](=O)[O-])c[nH]1,2200.0,nM,IC50,5.66,Entamoeba histolytica,organism-based format,True
+CHEMBL3940020,O=C(NCc1ccc(OC(F)(F)F)cc1)c1ncc([N+](=O)[O-])[nH]1,2200.0,nM,IC50,5.66,Entamoeba histolytica,organism-based format,True
+CHEMBL4460588,Cc1ccc(CNC(=O)c2nc([N+](=O)[O-])c[nH]2)cc1,2200.0,nM,IC50,5.66,Entamoeba histolytica,organism-based format,True
+CHEMBL3983955,O=C(NCc1ccc(F)cc1)c1ncc([N+](=O)[O-])[nH]1,2200.0,nM,IC50,5.66,Entamoeba histolytica,organism-based format,True
+CHEMBL3956327,O=C(NCc1cccc(OC(F)(F)F)c1)c1ncc([N+](=O)[O-])[nH]1,2200.0,nM,IC50,5.66,Entamoeba histolytica,organism-based format,True
+CHEMBL4168251,C[C@]12C[C@H](c3ccoc3)OC(=O)[C@H]1CC[C@@]13COC(=O)C1=CC=C[C@H]32,27700.0,nM,IC50,4.56,Entamoeba histolytica,organism-based format,True
+CHEMBL4761991,CCCN1C(=O)/C(=C/c2ccc(OCCn3c([N+](=O)[O-])cnc3C)cc2)S/C1=N\c1ccccc1,3620.0,nM,IC50,5.44,Entamoeba histolytica,organism-based format,True
+CHEMBL4777470,Cc1ncc([N+](=O)[O-])n1CCOc1ccc(/C=C2\S/C(=N\c3ccccc3)N(CCO)C2=O)cc1,180.0,nM,IC50,6.75,Entamoeba histolytica,organism-based format,True
+CHEMBL1362047,O=C(O)/C=C/c1ccc([N+](=O)[O-])o1,55700.0,nM,IC50,4.25,Entamoeba histolytica,organism-based format,True
+CHEMBL4786380,Cc1ncc([N+](=O)[O-])n1CCNC(=O)/C=C/c1ccc([N+](=O)[O-])o1,5320.0,nM,IC50,5.27,Entamoeba histolytica,organism-based format,True
+CHEMBL236696,Clc1ccc2c(N3CCNCC3)ccnc2c1,94260.0,nM,IC50,4.03,Entamoeba histolytica,organism-based format,True
+CHEMBL4795316,Cc1ncc([N+](=O)[O-])n1CCN1CCN(c2ccnc3cc(Cl)ccc23)CC1,960.0,nM,IC50,6.02,Entamoeba histolytica,organism-based format,True
+CHEMBL4861432,COc1ccc(-n2c(SCCn3c([N+](=O)[O-])cnc3C)nnc2-c2cccnc2)cc1,480.0,nM,IC50,6.32,Entamoeba histolytica,organism-based format,True
+CHEMBL4878991,Cc1ncc([N+](=O)[O-])n1CCn1c(-c2ccncc2)nn(-c2ccccc2)c1=S,3270.0,nM,IC50,5.49,Entamoeba histolytica,organism-based format,True
+CHEMBL4852202,Cn1c(-c2ccncc2)n[nH]c1=S,1370.0,nM,IC50,5.86,Entamoeba histolytica,organism-based format,True
+CHEMBL4847611,CCOC(=O)[C@H](CC(=O)O)NC(=O)Cn1c([N+](=O)[O-])cnc1C,2210.0,nM,IC50,5.66,Entamoeba histolytica,organism-based format,True
+CHEMBL3960281,Cc1ncc([N+](=O)[O-])n1CCOC(=O)Nc1ccc(OCc2ccc(F)cc2)cc1,80.0,nM,IC50,7.10,Entamoeba histolytica,organism-based format,True
+CHEMBL3932812,Cc1ncc([N+](=O)[O-])n1CCOC(=O)Nc1ccc(OCc2ccc(F)c(F)c2)cc1,260.0,nM,IC50,6.58,Entamoeba histolytica,organism-based format,True
+CHEMBL3923864,Cc1ncc([N+](=O)[O-])n1CCOC(=O)Nc1ccc(OCc2cccc(Cl)c2)cc1,150.0,nM,IC50,6.82,Entamoeba histolytica,organism-based format,True
+CHEMBL1084849,C=CS(=O)(=O)C1=C[C@@H](OC)O[C@@H]1COC(c1ccccc1)(c1ccccc1)c1ccccc1,25000.0,nM,IC50,4.60,Entamoeba invadens,organism-based format,True
+CHEMBL137,Cc1ncc([N+](=O)[O-])n1CCO,3000.0,nM,IC50,5.52,Entamoeba invadens,organism-based format,True
+CHEMBL1086482,C=CS(=O)(=O)C1=C[C@@H](OC)O[C@@H]1COCc1ccccc1,30100.0,nM,IC50,4.52,Entamoeba invadens,organism-based format,True
+CHEMBL1086483,C=CS(=O)(=O)C1=C[C@H](OC)O[C@@H]1COC(c1ccccc1)(c1ccccc1)c1ccccc1,17000.0,nM,IC50,4.77,Entamoeba invadens,organism-based format,True
+CHEMBL1085554,C=CS(=O)(=O)C1=C[C@H](OC)O[C@@H]1COCc1ccccc1,9300.0,nM,IC50,5.03,Entamoeba invadens,organism-based format,True
+CHEMBL243740,Cc1ccccc1NC(=S)N1N=C(c2ccccc2)CC1c1ccccc1,4790.0,nM,IC50,5.32,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL396208,S=C(N1CCCc2ccccc21)N1N=C(c2ccccc2)CC1c1ccccc1,450.0,nM,IC50,6.35,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL243952,S=C(N1CCC(Cc2ccccc2)CC1)N1N=C(c2ccccc2)CC1c1ccccc1,1600.0,nM,IC50,5.80,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL243951,S=C(N1CCN(c2ccccc2)CC1)N1N=C(c2ccccc2)CC1c1ccccc1,1800.0,nM,IC50,5.75,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL396207,CN(Cc1ccccc1)C(=S)N1N=C(c2ccccc2)CC1c1ccccc1,2800.0,nM,IC50,5.55,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL243950,S=C(NCc1ccccc1Cl)N1N=C(c2ccccc2)CC1c1ccccc1,11000.0,nM,IC50,4.96,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL429820,Cc1ccc(NC(=S)N2N=C(c3ccccc3)CC2c2ccccc2)cc1,380.0,nM,IC50,6.42,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL394521,Cc1cccc(NC(=S)N2N=C(c3ccccc3)CC2c2ccccc2)c1,10700.0,nM,IC50,4.97,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL137,Cc1ncc([N+](=O)[O-])n1CCO,1820.0,nM,IC50,5.74,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1224668,S=C(N/N=C/c1ccco1)NC1CCCCC1,10120.0,nM,IC50,5.00,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1224669,CC1CCN(C(=S)N/N=C/c2ccco2)CC1,8020.0,nM,IC50,5.10,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1224670,CN(C(=S)N/N=C/c1ccco1)C1CCCCC1,9070.0,nM,IC50,5.04,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1223569,S=C(N/N=C/c1ccco1)N1CCCCCC1,12080.0,nM,IC50,4.92,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1223488,O=C(NCCNc1ccnc2cc(Cl)ccc12)NC1CCCCC1,6933.0,nM,IC50,5.16,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1223489,O=C(NCCNc1ccnc2cc(Cl)ccc12)Nc1ccccc1,5370.0,nM,IC50,5.27,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1223557,O=C(NCCNc1ccnc2cc(Cl)ccc12)Nc1ccc(Cl)cc1,6866.0,nM,IC50,5.16,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1223558,O=C(NCCNc1ccnc2cc(Cl)ccc12)Nc1ccc(F)cc1,17664.0,nM,IC50,4.75,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1223559,CCOc1ccc(NC(=O)NCCNc2ccnc3cc(Cl)ccc23)cc1,5934.0,nM,IC50,5.23,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1223560,CCCCOc1ccc(NC(=O)NCCNc2ccnc3cc(Cl)ccc23)cc1,3636.0,nM,IC50,5.44,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1223561,O=C(NCCNc1ccnc2cc(Cl)ccc12)Nc1ccc([N+](=O)[O-])cc1,10563.0,nM,IC50,4.98,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1222473,COc1ccc(NC(=O)NCCNc2ccnc3cc(Cl)ccc23)cc1,10678.0,nM,IC50,4.97,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL99254,NCCNc1ccnc2cc(Cl)ccc12,14597.0,nM,IC50,4.84,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL76,CCN(CC)CCCC(C)Nc1ccnc2cc(Cl)ccc12,9579.0,nM,IC50,5.02,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1253968,COc1ccc(C2N(C(=O)COc3cccc4cccnc34)N=C(c3ccc(Cl)cc3)C2(C)C)cc1,1680.0,nM,IC50,5.78,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1253969,Cc1ccc(C2N(C(=O)COc3cccc4cccnc34)N=C(c3ccc(Cl)cc3)C2(C)C)cc1,50.0,nM,IC50,7.30,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1254060,CC1(C)C(c2ccc(Cl)cc2)=NN(C(=O)COc2cccc3cccnc23)C1c1ccccc1,720.0,nM,IC50,6.14,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1254061,Cc1ccc(C2N(C(=O)COc3cccc4cccnc34)N=C(c3ccccc3)C2(C)C)cc1,7500.0,nM,IC50,5.12,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1254153,CC1(C)C(c2ccccc2)=NN(C(=O)COc2cccc3cccnc23)C1c1ccccc1,310.0,nM,IC50,6.51,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1254154,COc1ccc(C2N(C(=O)COc3cccc4cccnc34)N=C(c3ccccc3)C2(C)C)cc1,60.0,nM,IC50,7.22,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1254247,CC1(C)C(c2ccccc2)=NN(C(=O)COc2cccc3cccnc23)C1c1ccccc1Cl,710.0,nM,IC50,6.15,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1254248,CC1(C)C(c2ccccc2)=NN(C(=O)COc2cccc3cccnc23)C1c1cccc(Cl)c1,290.0,nM,IC50,6.54,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1631413,C/C(=N\NC(=O)COc1cccc2cccnc12)c1ccccc1,30.0,nM,IC50,7.52,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1631414,C/C(=N\NC(=O)COc1cccc2cccnc12)c1ccc(Br)cc1,40.0,nM,IC50,7.40,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1631415,C/C(=N\NC(=O)COc1cccc2cccnc12)c1ccc(Cl)cc1,40.0,nM,IC50,7.40,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1631416,C/C(=N\NC(=O)COc1cccc2cccnc12)c1ccccn1,50.0,nM,IC50,7.30,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1631417,C/C(=N\NC(=O)COc1cccc2cccnc12)c1ccco1,50.0,nM,IC50,7.30,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1631418,C/C(=N\NC(=O)COc1cccc2cccnc12)c1cccs1,80.0,nM,IC50,7.10,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL341811,c1ccc(-c2csnn2)cc1,7460.0,nM,IC50,5.13,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1631419,Brc1ccc(-c2csnn2)cc1,240.0,nM,IC50,6.62,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1631420,Clc1ccc(-c2csnn2)cc1,390.0,nM,IC50,6.41,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1631421,c1ccc(-c2csnn2)nc1,5460.0,nM,IC50,5.26,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1631422,c1coc(-c2csnn2)c1,230.0,nM,IC50,6.64,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1631423,c1csc(-c2csnn2)c1,2250.0,nM,IC50,5.65,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1631424,c1ccc(-c2c[se]nn2)cc1,4560.0,nM,IC50,5.34,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1631425,Brc1ccc(-c2c[se]nn2)cc1,2950.0,nM,IC50,5.53,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1631426,Clc1ccc(-c2c[se]nn2)cc1,580.0,nM,IC50,6.24,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1631427,c1ccc(-c2c[se]nn2)nc1,460.0,nM,IC50,6.34,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1631428,c1coc(-c2c[se]nn2)c1,5720.0,nM,IC50,5.24,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1631429,c1csc(-c2c[se]nn2)c1,5280.0,nM,IC50,5.28,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1782109,O=C(/C=C/c1cc2ccccc2nc1Cl)c1ccccn1,5300.0,nM,IC50,5.28,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1782108,Cc1ccc2cc(/C=C/C(=O)c3ccccn3)c(Cl)nc2c1,50.0,nM,IC50,7.30,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1782107,Cc1ccc2nc(Cl)c(/C=C/C(=O)c3ccccn3)cc2c1,1450.0,nM,IC50,5.84,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1782106,C/C(=C\c1cc2cc(C)ccc2nc1Cl)C(=O)c1cccc(Cl)c1,60.0,nM,IC50,7.22,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1782105,C/C(=C\c1cc2ccc(C)cc2nc1Cl)C(=O)c1cccc(Cl)c1,7030.0,nM,IC50,5.15,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1782104,C/C(=C\c1cc2ccccc2nc1Cl)C(=O)c1cccc(Br)c1,3650.0,nM,IC50,5.44,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1783993,C/C(=C\c1cc2cc(C)ccc2nc1Cl)C(=O)c1cccc(Br)c1,2790.0,nM,IC50,5.55,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1783992,C/C(=C\c1cc2ccc(C)cc2nc1Cl)C(=O)c1cccc(Br)c1,90.0,nM,IC50,7.05,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1783991,O=C(/C=C/c1cc2ccccc2nc1Cl)c1ccc(Cl)cc1,50.0,nM,IC50,7.30,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1783990,Cc1ccc2cc(/C=C/C(=O)c3ccc(Cl)cc3)c(Cl)nc2c1,6910.0,nM,IC50,5.16,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1782670,O=C(/C=C/c1cc2ccccc2nc1Cl)c1ccc(Br)cc1,3380.0,nM,IC50,5.47,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1782669,Cc1ccc2nc(Cl)c(/C=C/C(=O)c3ccc(Br)cc3)cc2c1,4090.0,nM,IC50,5.39,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1782668,O=C(/C=C/c1cc2ccccc2nc1Cl)c1cccc(Br)c1,3450.0,nM,IC50,5.46,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1782667,Cc1ccc2nc(Cl)c(/C=C/C(=O)c3cccc(Br)c3)cc2c1,1030.0,nM,IC50,5.99,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1782666,Cc1ccc2cc(/C=C/C(=O)c3cccc(Br)c3)c(Cl)nc2c1,7530.0,nM,IC50,5.12,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1828936,c1ccc(C2=NOC(c3ccc4c(c3)OCO4)O2)nc1,1060.0,nM,IC50,5.97,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1828931,c1coc(C2ON=C(c3ccc4c(c3)OCO4)O2)c1,1090.0,nM,IC50,5.96,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1828940,c1csc(C2=NOC(c3ccc4c(c3)OCO4)O2)c1,2450.0,nM,IC50,5.61,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1828925,CC(C)=CCC/C(C)=C/C1=NOC(C)(c2cccs2)O1,3010.0,nM,IC50,5.52,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1828935,CC(C)=CCC/C(C)=C/C1ON=C(c2ccccn2)O1,2220.0,nM,IC50,5.65,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1828930,CC1(c2ccco2)ON=C(c2ccc3c(c2)OCO3)O1,1100.0,nM,IC50,5.96,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1828939,CC(C)=CCC/C(C)=C/C1ON=C(c2cccs2)O1,3050.0,nM,IC50,5.52,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1828924,CC(C)=CCC/C(C)=C/C1=NOC(c2ccco2)O1,2420.0,nM,IC50,5.62,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1828938,c1coc(C2=NOC(c3ccc4c(c3)OCO4)O2)c1,1050.0,nM,IC50,5.98,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1828934,CC(C)=CCC/C(C)=C/C1ON=C(c2ccc3c(c2)OCO3)O1,1390.0,nM,IC50,5.86,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1828929,c1ccc(C2ON=C(c3ccc4c(c3)OCO4)O2)nc1,1030.0,nM,IC50,5.99,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1828923,CC(C)=CCC/C(C)=C/C1=NOC(C)(c2ccco2)O1,2020.0,nM,IC50,5.70,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1828933,c1csc(C2ON=C(c3ccc4c(c3)OCO4)O2)c1,3500.0,nM,IC50,5.46,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1828928,CC1(c2ccccn2)ON=C(c2ccc3c(c2)OCO3)O1,1000.0,nM,IC50,6.00,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1828937,CC(C)=CCC/C(C)=C/C1ON=C(c2ccco2)O1,2780.0,nM,IC50,5.56,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1828927,CC(C)=CCC/C(C)=C/C1=NOC(c2ccc3c(c2)OCO3)O1,1480.0,nM,IC50,5.83,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1828922,CC(C)=CCC/C(C)=C/C1=NOC(c2ccccn2)O1,2980.0,nM,IC50,5.53,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1828932,CC1(c2cccs2)ON=C(c2ccc3c(c2)OCO3)O1,2680.0,nM,IC50,5.57,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1828926,CC(C)=CCC/C(C)=C/C1=NOC(c2cccs2)O1,2900.0,nM,IC50,5.54,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1828921,CC(C)=CCC/C(C)=C/C1=NOC(C)(c2ccccn2)O1,2250.0,nM,IC50,5.65,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1934214,O=S(=O)(c1ccccc1)n1nnnc1-c1ccc2c(c1)OCO2,7560.0,nM,IC50,5.12,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1934215,Cc1ccc(S(=O)(=O)n2nnnc2-c2ccc3c(c2)OCO3)cc1,6100.0,nM,IC50,5.21,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1934216,O=S(=O)(c1ccc(Cl)cc1)n1nnnc1-c1ccc2c(c1)OCO2,4850.0,nM,IC50,5.31,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1934217,O=[N+]([O-])c1ccc(S(=O)(=O)n2nnnc2-c2ccc3c(c2)OCO3)cc1,3750.0,nM,IC50,5.43,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1934218,O=S(=O)(c1ccc(Cl)cc1Cl)n1nnnc1-c1ccc2c(c1)OCO2,6900.0,nM,IC50,5.16,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1934219,CC(C)c1ccc(S(=O)(=O)n2nnnc2-c2ccc3c(c2)OCO3)cc1,6280.0,nM,IC50,5.20,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1934226,c1cc2c(cc1-c1nnn[nH]1)OCO2,14240.0,nM,IC50,4.85,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1934227,Nc1nc(N)nc(-c2ccc3c(c2)OCO3)n1,3540.0,nM,IC50,5.45,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL496759,O=C(N/N=C/c1ccc([N+](=O)[O-])cc1)c1ccncc1,370.0,nM,IC50,6.43,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL486016,O=C(N/N=C/c1ccccc1)c1ccncc1,3840.0,nM,IC50,5.42,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL446977,COc1ccc(/C=N/NC(=O)c2ccncc2)cc1,390.0,nM,IC50,6.41,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL447091,O=C(N/N=C/c1cccc(Cl)c1)c1ccncc1,12110.0,nM,IC50,4.92,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1945274,Cc1ccc(/C=N/NC(=O)c2ccncc2)cc1,130.0,nM,IC50,6.89,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL201761,O=C(N/N=C/c1ccccc1O)c1ccncc1,4140.0,nM,IC50,5.38,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1945275,CN(C)c1ccc(/C=N/NC(=O)c2ccncc2)cc1,5550.0,nM,IC50,5.26,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1945276,CC(C)c1ccc(/C=N/NC(=O)c2ccncc2)cc1,3740.0,nM,IC50,5.43,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL571513,S=c1[nH]nc(-c2ccncc2)o1,558.0,nM,IC50,6.25,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL475374,Sc1nnc(-c2ccncc2)n1-c1ccccc1,160.0,nM,IC50,6.80,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL375280,c1ccc(Nc2nnc(-c3ccncc3)s2)cc1,4430.0,nM,IC50,5.35,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2016643,Nn1c(S)nnc1-c1ccccc1,10810.0,nM,IC50,4.97,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2016644,Cc1ccc(/C=N/n2c(S)nnc2-c2ccccc2)cc1,1380.0,nM,IC50,5.86,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2016645,COc1ccc(/C=N/n2c(S)nnc2-c2ccccc2)cc1,322.0,nM,IC50,6.49,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2016646,COc1ccc(OC)c(/C=N/n2c(S)nnc2-c2ccccc2)c1,8790.0,nM,IC50,5.06,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1976815,COc1cc(/C=N/n2c(S)nnc2-c2ccccc2)cc(OC)c1OC,2700.0,nM,IC50,5.57,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2016647,O=[N+]([O-])c1ccc(/C=N/n2c(S)nnc2-c2ccccc2)cc1,280.0,nM,IC50,6.55,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2016648,CN(C)c1ccc(/C=N/n2c(S)nnc2-c2ccccc2)cc1,309.0,nM,IC50,6.51,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL579390,S=c1[nH]nc(-c2ccccc2)n1/N=C/c1ccc(Cl)cc1,9550.0,nM,IC50,5.02,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL565759,Oc1ccc(/C=N/n2c(-c3ccccc3)n[nH]c2=S)cc1,10160.0,nM,IC50,4.99,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2016649,FC(F)(F)c1ccccc1/C=N/n1c(S)nnc1-c1ccccc1,4680.0,nM,IC50,5.33,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL565758,COc1cc(/C=N/n2c(-c3ccccc3)n[nH]c2=S)ccc1O,3050.0,nM,IC50,5.52,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL256250,NNC(N)=S,2290.0,nM,IC50,5.64,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2016650,S=C(N1CCC(Cc2ccccc2)CC1)N1CCC(c2cccc(Cl)c2)=N1,1000.0,nM,IC50,6.00,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2016651,Cc1nnc2n(NC(=S)NC34CC5CC(CC(C5)C3)C4)c(C)nnc1-2,840.0,nM,IC50,6.08,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL207781,CC1CN(c2nc3nc4ccccc4nc3s2)N=C1c1cccc(Cl)c1,720.0,nM,IC50,6.14,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2016652,O=[N+]([O-])c1ccc(/C=N/NC(=S)N2CCCCCCC2)s1,1710.0,nM,IC50,5.77,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2041243,COc1ccc(-c2nnnn2CC(=O)N2N=C(c3ccc(Cl)cc3)CC2c2ccc(C)cc2)cc1,2960.0,nM,IC50,5.53,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2041241,COc1ccc(-c2nnnn2CC(=O)N2N=C(c3ccc(Cl)cc3)CC2c2ccccc2)cc1,3150.0,nM,IC50,5.50,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2041240,COc1ccc(-c2nnnn2CC(=O)N2N=C(c3ccccc3)CC2c2ccc([N+](=O)[O-])cc2)cc1,3680.0,nM,IC50,5.43,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2041239,COc1ccc(-c2nnnn2CC(=O)N2N=C(c3ccccc3)CC2c2ccc(OC)cc2)cc1,1160.0,nM,IC50,5.94,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2041238,COc1ccc(-c2nnnn2CC(=O)N2N=C(c3ccccc3)CC2c2ccc(C)cc2)cc1,1280.0,nM,IC50,5.89,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2041237,COc1ccc(-c2nnnn2CC(=O)N2N=C(c3ccccc3)CC2c2ccc(Cl)cc2)cc1,3020.0,nM,IC50,5.52,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2041236,COc1ccc(-c2nnnn2CC(=O)N2N=C(c3ccccc3)CC2c2ccccc2)cc1,5320.0,nM,IC50,5.27,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2041250,COc1ccc(-c2nnnn2CC(=O)N2N=C(c3ccc(C)cc3)CC2c2ccc([N+](=O)[O-])cc2)cc1,2630.0,nM,IC50,5.58,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2041249,COc1ccc(-c2nnnn2CC(=O)N2N=C(c3ccc(C)cc3)CC2c2ccc(OC)cc2)cc1,1080.0,nM,IC50,5.97,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2041248,COc1ccc(-c2nnnn2CC(=O)N2N=C(c3ccc(C)cc3)CC2c2ccc(C)cc2)cc1,860.0,nM,IC50,6.07,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2041247,COc1ccc(-c2nnnn2CC(=O)N2N=C(c3ccc(C)cc3)CC2c2ccc(Cl)cc2)cc1,2840.0,nM,IC50,5.55,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2041246,COc1ccc(-c2nnnn2CC(=O)N2N=C(c3ccc(C)cc3)CC2c2ccccc2)cc1,1200.0,nM,IC50,5.92,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2041235,Cc1ccc(C(=O)/C=C/c2ccc([N+](=O)[O-])cc2)cc1,5080.0,nM,IC50,5.29,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL240660,COc1ccc(/C=C/C(=O)c2ccc(C)cc2)cc1,4760.0,nM,IC50,5.32,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL252659,Cc1ccc(/C=C/C(=O)c2ccc(C)cc2)cc1,4190.0,nM,IC50,5.38,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2041234,Cc1ccc(C(=O)/C=C/c2ccc(Cl)cc2)cc1,5220.0,nM,IC50,5.28,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL450678,Cc1ccc(C(=O)/C=C/c2ccccc2)cc1,4830.0,nM,IC50,5.32,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL227391,O=C(/C=C/c1ccc([N+](=O)[O-])cc1)c1ccc(Cl)cc1,6180.0,nM,IC50,5.21,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL374741,COc1ccc(/C=C/C(=O)c2ccc(Cl)cc2)cc1,5100.0,nM,IC50,5.29,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL389840,Cc1ccc(/C=C/C(=O)c2ccc(Cl)cc2)cc1,5320.0,nM,IC50,5.27,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL226715,O=C(/C=C/c1ccc(Cl)cc1)c1ccc(Cl)cc1,5860.0,nM,IC50,5.23,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL227561,O=C(/C=C/c1ccccc1)c1ccc(Cl)cc1,6960.0,nM,IC50,5.16,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL106771,O=C(/C=C/c1ccc([N+](=O)[O-])cc1)c1ccccc1,6020.0,nM,IC50,5.22,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL105496,COc1ccc(/C=C/C(=O)c2ccccc2)cc1,5930.0,nM,IC50,5.23,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL375905,Cc1ccc(/C=C/C(=O)c2ccccc2)cc1,4380.0,nM,IC50,5.36,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL227560,O=C(/C=C/c1ccc(Cl)cc1)c1ccccc1,7320.0,nM,IC50,5.13,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL7976,O=C(/C=C/c1ccccc1)c1ccccc1,12860.0,nM,IC50,4.89,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2064620,COC(=O)c1ccccc1SCCn1c([N+](=O)[O-])cnc1C,28.0,nM,IC50,7.55,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2064621,COC(=O)c1ccccc1[S+]([O-])CCn1c([N+](=O)[O-])cnc1C,15.0,nM,IC50,7.82,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2064622,COC(=O)c1ccccc1S(=O)(=O)CCn1c([N+](=O)[O-])cnc1C,21.0,nM,IC50,7.68,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2064845,CC(C)CN1C(=O)/C(=C/c2ccc(Cl)cc2)S/C1=N\c1ccccc1,1920.0,nM,IC50,5.72,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2064846,CC(C)CN1C(=O)/C(=C/c2ccccc2C(F)(F)F)S/C1=N\c1ccccc1,3710.0,nM,IC50,5.43,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2064847,CC(C)CN1C(=O)/C(=C/c2ccc(N(C)C)cc2)S/C1=N\c1ccccc1,172.0,nM,IC50,6.76,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2064848,CC(C)CN1C(=O)/C(=C/c2ccc([N+](=O)[O-])cc2)S/C1=N\c1ccccc1,138.0,nM,IC50,6.86,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2062651,CC(C)CN1C(=O)/C(=C/c2ccc(O)cc2)S/C1=N\c1ccccc1,2450.0,nM,IC50,5.61,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2062652,COc1ccc(/C=C2\S/C(=N\c3ccccc3)N(CC(C)C)C2=O)cc1OC,440.0,nM,IC50,6.36,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2062653,COc1ccc(/C=C2\S/C(=N\c3ccccc3)N(CC(C)C)C2=O)cc1,2720.0,nM,IC50,5.57,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2062654,Cc1ccc(/C=C2\S/C(=N\c3ccccc3)N(CC(C)C)C2=O)cc1,3210.0,nM,IC50,5.49,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2062655,CC(C)CN1C(=O)/C(=C/c2ccccc2O)S/C1=N\c1ccccc1,2040.0,nM,IC50,5.69,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2062656,CC(C)CN1C(=O)/C(=C/c2ccc3c(c2)OCO3)S/C1=N\c1ccccc1,16680.0,nM,IC50,4.78,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2062657,CC(C)CN1C(=O)/C(=C/c2ccccn2)S/C1=N\c1ccccc1,600.0,nM,IC50,6.22,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2062658,Cc1ccsc1/C=C1\S/C(=N\c2ccccc2)N(CC(C)C)C1=O,110.0,nM,IC50,6.96,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2062659,COc1cc(/C=C2\S/C(=N\c3ccccc3)N(CC(C)C)C2=O)ccc1O,640.0,nM,IC50,6.19,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2062660,CC(C)CN1C(=O)/C(=C/c2cccc(Cl)c2)S/C1=N\c1ccccc1,660.0,nM,IC50,6.18,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2062661,COc1ccc(OC)c(/C=C2\S/C(=N\c3ccccc3)N(CC(C)C)C2=O)c1,1950.0,nM,IC50,5.71,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2062662,CCc1ccc(/C=C2\S/C(=N\c3ccccc3)N(CC(C)C)C2=O)cc1,960.0,nM,IC50,6.02,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281679,S=C(N1CCC(Cc2ccccc2)CC1)N1CCC(c2cccc(Br)c2)=N1,1400.0,nM,IC50,5.85,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281680,S=C(N1CCC(Cc2ccccc2)CC1)N1CCC(c2ccccc2)=N1,2300.0,nM,IC50,5.64,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281681,S=C(N1CCN(c2ccccc2)CC1)N1CCC(c2cccc(Cl)c2)=N1,1200.0,nM,IC50,5.92,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281683,S=C(N1CCN(c2ccccc2)CC1)N1CCC(c2cccc(Br)c2)=N1,1600.0,nM,IC50,5.80,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281682,S=C(N1CCN(c2ccccc2)CC1)N1CCC(c2ccccc2)=N1,3100.0,nM,IC50,5.51,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281684,CC1CCN(C(=S)N2CCC(c3cccc(Cl)c3)=N2)CC1,2800.0,nM,IC50,5.55,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281685,CC1CCN(C(=S)N2CCC(c3cccc(Br)c3)=N2)CC1,3600.0,nM,IC50,5.44,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281686,CC1CCN(C(=S)N2CCC(c3ccccc3)=N2)CC1,4800.0,nM,IC50,5.32,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281687,S=C(NCc1ccccc1Cl)N1CCC(c2cccc(Cl)c2)=N1,2200.0,nM,IC50,5.66,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281688,S=C(NCc1ccccc1Cl)N1CCC(c2cccc(Br)c2)=N1,2600.0,nM,IC50,5.58,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281689,S=C(NCc1ccccc1Cl)N1CCC(c2ccccc2)=N1,7600.0,nM,IC50,5.12,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281691,S=C(NC1CCCCCCC1)N1CCC(c2cccc(Cl)c2)=N1,1500.0,nM,IC50,5.82,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281690,S=C(NC1CCCCCCC1)N1CCC(c2cccc(Br)c2)=N1,2000.0,nM,IC50,5.70,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281811,S=C(NC1CCCCCCC1)N1CCC(c2ccccc2)=N1,2500.0,nM,IC50,5.60,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281810,S=C(NC1CCCCC1)N1CCC(c2cccc(Cl)c2)=N1,2400.0,nM,IC50,5.62,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281694,S=C(NC1CCCCC1)N1CCC(c2cccc(Br)c2)=N1,3100.0,nM,IC50,5.51,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281693,S=C(NC1CCCCC1)N1CCC(c2ccccc2)=N1,5200.0,nM,IC50,5.28,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281692,S=C(NC1CCCC1)N1CCC(c2cccc(Cl)c2)=N1,3700.0,nM,IC50,5.43,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281812,S=C(NC1CCCC1)N1CCC(c2cccc(Br)c2)=N1,4200.0,nM,IC50,5.38,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281814,S=C(NC1CCCC1)N1CCC(c2ccccc2)=N1,6500.0,nM,IC50,5.19,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281813,CCCN(CCC)C(=S)N1CCC(c2cccc(Cl)c2)=N1,600.0,nM,IC50,6.22,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281815,CCCN(CCC)C(=S)N1CCC(c2cccc(Br)c2)=N1,800.0,nM,IC50,6.10,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281816,CCCN(CCC)C(=S)N1CCC(c2ccccc2)=N1,2000.0,nM,IC50,5.70,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281817,CCN(CC)C(=S)N1CCC(c2cccc(Cl)c2)=N1,1000.0,nM,IC50,6.00,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281455,CCN(CC)C(=S)N1CCC(c2cccc(Br)c2)=N1,1200.0,nM,IC50,5.92,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281818,CCN(CC)C(=S)N1CCC(c2ccccc2)=N1,4200.0,nM,IC50,5.38,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281819,CCCCN(C)C(=S)N1CCC(c2cccc(Cl)c2)=N1,700.0,nM,IC50,6.16,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281821,CCCCN(C)C(=S)N1CCC(c2cccc(Br)c2)=N1,2400.0,nM,IC50,5.62,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281820,CCCCN(C)C(=S)N1CCC(c2ccccc2)=N1,5700.0,nM,IC50,5.24,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281822,CC(C)CNC(=S)N1CCC(c2cccc(Cl)c2)=N1,5000.0,nM,IC50,5.30,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281823,CC(C)CNC(=S)N1CCC(c2cccc(Br)c2)=N1,6100.0,nM,IC50,5.21,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281825,CC(C)CNC(=S)N1CCC(c2ccccc2)=N1,11200.0,nM,IC50,4.95,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281824,CCCCNC(=S)N1CCC(c2cccc(Cl)c2)=N1,12300.0,nM,IC50,4.91,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281826,CCCCNC(=S)N1CCC(c2cccc(Br)c2)=N1,14200.0,nM,IC50,4.85,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281827,CCCCNC(=S)N1CCC(c2ccccc2)=N1,23300.0,nM,IC50,4.63,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281828,CC(C)NC(=S)N1CCC(c2cccc(Cl)c2)=N1,12200.0,nM,IC50,4.91,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL92903,CC(C)/N=C(\S)N1CCC(c2cccc(Br)c2)=N1,15200.0,nM,IC50,4.82,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281830,CC(C)NC(=S)N1CCC(c2ccccc2)=N1,23000.0,nM,IC50,4.64,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281829,CCCNC(=S)N1CCC(c2cccc(Br)c2)=N1,8500.0,nM,IC50,5.07,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2281831,CCCNC(=S)N1CCC(c2ccccc2)=N1,14000.0,nM,IC50,4.85,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2283560,Nc1ccccc1-c1nnc(Nc2ccccc2)s1,5550.0,nM,IC50,5.26,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL223606,Fc1ccc(-c2nnc(Nc3ccccc3)s2)cc1,5490.0,nM,IC50,5.26,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1529362,Nc1nnc(-c2ccccc2)s1,5460.0,nM,IC50,5.26,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL596215,S=c1[nH]nc(-c2ccccc2)s1,5140.0,nM,IC50,5.29,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2283559,Oc1ccccc1-c1nnc(Nc2ccccc2)s1,4640.0,nM,IC50,5.33,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL225316,Clc1ccc(-c2nnc(Nc3ccccc3)s2)cc1,4430.0,nM,IC50,5.35,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2283558,Sc1ccccc1-c1nnc(Nc2ccccc2)s1,3500.0,nM,IC50,5.46,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL222923,c1ccc(Nc2nnc(-c3ccccc3)s2)cc1,1600.0,nM,IC50,5.80,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL224892,O=[N+]([O-])c1ccc(-c2nnc(Nc3ccccc3)s2)cc1,670.0,nM,IC50,6.17,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2283561,Cc1nnc(Nc2ccccc2)s1,522.0,nM,IC50,6.28,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL565955,CN1CCN(Cn2nc(-c3ccncc3)oc2=S)CC1,5110.0,nM,IC50,5.29,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2283569,S=c1oc(-c2ccncc2)nn1CN1CCN(Cc2ccc3c(c2)OCO3)CC1,3620.0,nM,IC50,5.44,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2283564,S=c1oc(-c2ccncc2)nn1CN1CCN(c2ccccc2)CC1,3470.0,nM,IC50,5.46,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2283567,S=c1oc(-c2ccncc2)nn1CN1CCN(Cc2ccccc2)CC1,3400.0,nM,IC50,5.47,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2283570,FC(F)(F)c1ccccc1N1CCN(Cn2nc(-c3ccncc3)oc2=S)CC1,2870.0,nM,IC50,5.54,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2283568,S=c1oc(-c2ccncc2)nn1CN1CCN(c2ccccn2)CC1,2820.0,nM,IC50,5.55,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2283566,S=c1oc(-c2ccncc2)nn1CN1CCN(c2cccc(Cl)c2)CC1,2570.0,nM,IC50,5.59,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2283563,COc1ccccc1N1CCN(Cn2nc(-c3ccncc3)oc2=S)CC1,1060.0,nM,IC50,5.97,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2283565,CCN1CCN(Cn2nc(-c3ccncc3)oc2=S)CC1,327.0,nM,IC50,6.49,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2283562,Fc1ccc(N2CCN(Cn3nc(-c4ccncc4)oc3=S)CC2)cc1,245.0,nM,IC50,6.61,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2282466,CS(=O)(=O)n1nc(-c2ccccc2)c2c(N)ncnc21,5150.0,nM,IC50,5.29,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2282465,Nc1ncnc2c1c(-c1ccccc1)nn2S(=O)(=O)c1ccccc1,4240.0,nM,IC50,5.37,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2282464,Nc1ncnc2c1c(-c1ccccc1)nn2S(=O)(=O)c1ccc2ccccc2c1,3110.0,nM,IC50,5.51,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2282463,Nc1ncnc2c1c(-c1ccccc1)nn2S(=O)(=O)c1cc(Cl)ccc1Cl,2370.0,nM,IC50,5.62,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2282462,Nc1ncnc2c1c(-c1ccccc1)nn2S(=O)(=O)c1ccc(Cl)cc1,3230.0,nM,IC50,5.49,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2282461,CC(=O)Nc1ccc(S(=O)(=O)n2nc(-c3ccccc3)c3c(N)ncnc32)cc1,680.0,nM,IC50,6.17,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2282460,Nc1ncnc2c1c(-c1ccccc1)nn2S(=O)(=O)c1ccc([N+](=O)[O-])cc1,2520.0,nM,IC50,5.60,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2282459,Cc1ccc(S(=O)(=O)n2nc(-c3ccccc3)c3c(N)ncnc32)cc1,570.0,nM,IC50,6.24,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1241104,Nc1ncnc2[nH]nc(-c3ccccc3)c12,4730.0,nM,IC50,5.33,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1335718,O=S(=O)(c1ccccc1)N1CCN(c2ccnc3cc(Cl)ccc23)CC1,32800.0,nM,IC50,4.48,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2386191,O=S(=O)(c1cc(Cl)ccc1Cl)N1CCN(c2ccnc3cc(Cl)ccc23)CC1,30200.0,nM,IC50,4.52,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1407588,Cc1ccc(S(=O)(=O)N2CCN(c3ccnc4cc(Cl)ccc34)CC2)cc1,4540.0,nM,IC50,5.34,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1905600,O=S(=O)(c1ccc(Cl)cc1)N1CCN(c2ccnc3cc(Cl)ccc23)CC1,25700.0,nM,IC50,4.59,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2386193,CC(C)(C)c1ccc(S(=O)(=O)N2CCN(c3ccnc4cc(Cl)ccc34)CC2)cc1,2860.0,nM,IC50,5.54,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2386197,CC(=O)Nc1ccc(S(=O)(=O)N2CCN(c3ccnc4cc(Cl)ccc34)CC2)cc1,9610.0,nM,IC50,5.02,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2386192,O=S(=O)(c1ccc2ccccc2c1)N1CCN(c2ccnc3cc(Cl)ccc23)CC1,23400.0,nM,IC50,4.63,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2386194,COc1ccc(S(=O)(=O)N2CCN(c3ccnc4cc(Cl)ccc34)CC2)cc1,8230.0,nM,IC50,5.08,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2386239,CC(=O)N1N=C(Cn2c([N+](=O)[O-])cnc2C)OC1c1ccccc1,9820.0,nM,IC50,5.01,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2386240,CC(=O)N1N=C(Cn2c([N+](=O)[O-])cnc2C)OC1c1ccccc1Cl,6840.0,nM,IC50,5.17,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2386241,CC(=O)N1N=C(Cn2c([N+](=O)[O-])cnc2C)OC1c1cccc(Cl)c1,6320.0,nM,IC50,5.20,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2386233,COc1cc(C2OC(Cn3c([N+](=O)[O-])cnc3C)=NN2C(C)=O)cc(OC)c1OC,5820.0,nM,IC50,5.24,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2386242,CC(=O)N1N=C(Cn2c([N+](=O)[O-])cnc2C)OC1c1ccc(Cl)cc1,5400.0,nM,IC50,5.27,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2386246,CC(=O)N1N=C(Cn2c([N+](=O)[O-])cnc2C)OC1c1ccc(C(C)C)cc1,4880.0,nM,IC50,5.31,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2386249,COc1ccc(OC)c(C2OC(Cn3c([N+](=O)[O-])cnc3C)=NN2C(C)=O)c1,4620.0,nM,IC50,5.33,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2386245,CC(=O)N1N=C(Cn2c([N+](=O)[O-])cnc2C)OC1c1cc(C)ccc1C,4380.0,nM,IC50,5.36,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2386250,Cc1ncc([N+](=O)[O-])n1CC(=O)N/N=C/c1ccccc1,4280.0,nM,IC50,5.37,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2386238,COc1cc(/C=N/NC(=O)Cn2c([N+](=O)[O-])cnc2C)cc(OC)c1OC,4120.0,nM,IC50,5.38,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2385796,Cc1ncc([N+](=O)[O-])n1CC(=O)N/N=C/c1ccccc1Cl,3860.0,nM,IC50,5.41,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2385793,Cc1ncc([N+](=O)[O-])n1CC(=O)N/N=C/c1cccc(Cl)c1,3820.0,nM,IC50,5.42,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2385092,Cc1ncc([N+](=O)[O-])n1CC(=O)N/N=C/c1ccc(C(C)C)cc1,3680.0,nM,IC50,5.43,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2385803,Cc1ncc([N+](=O)[O-])n1CC(=O)N/N=C/c1ccc(Cl)cc1,3640.0,nM,IC50,5.44,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2386237,COc1ccc(OC)c(/C=N/NC(=O)Cn2c([N+](=O)[O-])cnc2C)c1,2640.0,nM,IC50,5.58,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2386244,CCc1ccc(C2OC(Cn3c([N+](=O)[O-])cnc3C)=NN2C(C)=O)cc1,2620.0,nM,IC50,5.58,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2386235,Cc1ccc(C)c(/C=N/NC(=O)Cn2c([N+](=O)[O-])cnc2C)c1,2580.0,nM,IC50,5.59,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2386243,CC(=O)N1N=C(Cn2c([N+](=O)[O-])cnc2C)OC1c1ccc(C)cc1,2480.0,nM,IC50,5.61,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2386248,CCOc1ccc(C2OC(Cn3c([N+](=O)[O-])cnc3C)=NN2C(C)=O)cc1,2320.0,nM,IC50,5.63,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2386247,COc1ccc(C2OC(Cn3c([N+](=O)[O-])cnc3C)=NN2C(C)=O)cc1,2180.0,nM,IC50,5.66,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2386236,CCOc1ccc(/C=N/NC(=O)Cn2c([N+](=O)[O-])cnc2C)cc1,1650.0,nM,IC50,5.78,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2386234,CCc1ccc(/C=N/NC(=O)Cn2c([N+](=O)[O-])cnc2C)cc1,1320.0,nM,IC50,5.88,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2385789,Cc1ccc(/C=N/NC(=O)Cn2c([N+](=O)[O-])cnc2C)cc1,960.0,nM,IC50,6.02,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2385786,COc1ccc(/C=N/NC(=O)Cn2c([N+](=O)[O-])cnc2C)cc1,810.0,nM,IC50,6.09,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1483,CCCSc1ccc2[nH]c(NC(=O)OC)nc2c1,56533.4,nM,IC50,4.25,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2403424,CCOc1cc2nc(SCCn3ccnc3)n(C)c2cc1Cl,14.8,nM,IC50,7.83,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2403423,CCOc1ccc2c(c1)nc(SCCn1ccnc1)n2C,29.8,nM,IC50,7.53,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2403422,CCOc1cc2c(cc1Cl)nc(SCCn1ccnc1)n2C,46.0,nM,IC50,7.34,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2403421,CCOc1ccc2nc(SCCn3ccnc3)n(C)c2c1,40.8,nM,IC50,7.39,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2403420,CCOc1cc2nc(SCCn3ccnc3)[nH]c2cc1Cl,62.0,nM,IC50,7.21,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2403419,CCOc1ccc2[nH]c(SCCn3ccnc3)nc2c1,42.8,nM,IC50,7.37,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2403418,COC(=O)c1cc2nc(SCCn3ccnc3)n(C)c2cc1Cl,51.3,nM,IC50,7.29,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2403417,COC(=O)c1ccc2c(c1)nc(SCCn1ccnc1)n2C,42.7,nM,IC50,7.37,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2403416,COC(=O)c1cc2c(cc1Cl)nc(SCCn1ccnc1)n2C,42.8,nM,IC50,7.37,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2403415,COC(=O)c1ccc2nc(SCCn3ccnc3)n(C)c2c1,52.2,nM,IC50,7.28,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2403414,COC(=O)c1cc2nc(SCCn3ccnc3)[nH]c2cc1Cl,57.9,nM,IC50,7.24,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2403413,COC(=O)c1ccc2[nH]c(SCCn3ccnc3)nc2c1,61.2,nM,IC50,7.21,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2403412,Cn1c(SCCn2ccnc2)nc2cc(Cl)c(Cl)cc21,64.2,nM,IC50,7.19,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2403411,Cn1c(SCCn2ccnc2)nc2cc(Cl)ccc21,66.0,nM,IC50,7.18,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2403425,Cn1c(SCCn2ccnc2)nc2ccc(Cl)cc21,67.2,nM,IC50,7.17,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2403429,Cn1c(SCCn2ccnc2)nc2ccccc21,77.4,nM,IC50,7.11,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2403428,Clc1cc2nc(SCCn3ccnc3)[nH]c2cc1Cl,59.1,nM,IC50,7.23,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2403427,Clc1ccc2[nH]c(SCCn3ccnc3)nc2c1,73.5,nM,IC50,7.13,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2403426,c1ccc2[nH]c(SCCn3ccnc3)nc2c1,147.4,nM,IC50,6.83,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL1401,CC(=O)Oc1ccccc1C(=O)Nc1ncc([N+](=O)[O-])s1,3900.0,nM,IC50,5.41,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2413971,[O-][n+]1onc2ccccc21,11980.0,nM,IC50,4.92,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2413970,COC(=O)c1ccc2no[n+]([O-])c2c1,74480.0,nM,IC50,4.13,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2413968,CCOC(=O)c1ccc2c(c1)[n+]([O-])c(C(=O)OCC)c(-c1ccccc1)[n+]2[O-],7130.0,nM,IC50,5.15,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2413967,CCOC(=O)c1ccc2c(c1)[n+]([O-])c(C(=O)c1ccco1)c(C(F)F)[n+]2[O-],3810.0,nM,IC50,5.42,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2413965,CCOC(=O)c1ccc2c(c1)[n+]([O-])c(C(=O)c1cccs1)c(C(F)(F)F)[n+]2[O-],2500.0,nM,IC50,5.60,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2413964,CCOC(=O)c1ccc2c(c1)[n+]([O-])c(C(=O)CC)c(C(F)(F)F)[n+]2[O-],18070.0,nM,IC50,4.74,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2413963,CCOC(=O)c1ccc2c(c1)[n+]([O-])c(C(C)=O)c(C(F)(F)F)[n+]2[O-],1980.0,nM,IC50,5.70,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2413960,CCOC(=O)c1ccc2c(c1)[n+]([O-])c(C(=O)c1ccccc1)c(C)[n+]2[O-],1930.0,nM,IC50,5.71,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2413959,CCOC(=O)c1ccc2c(c1)[n+]([O-])c(C(N)=O)c(C)[n+]2[O-],1470.0,nM,IC50,5.83,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2413958,CCOC(=O)c1ccc2c(c1)[n+]([O-])c(C(=O)OCC)c(C)[n+]2[O-],4180.0,nM,IC50,5.38,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2413957,CCOC(=O)c1ccc2c(c1)[n+]([O-])c(C(=O)OC)c(C)[n+]2[O-],1880.0,nM,IC50,5.73,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2413956,CCOC(=O)Cc1c(C(=O)OCC)[n+]([O-])c2cc(C(=O)OC)ccc2[n+]1[O-],1910.0,nM,IC50,5.72,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2413955,COC(=O)c1ccc2c(c1)[n+]([O-])c(C(=O)c1ccc3ccccc3c1)c(C(F)(F)F)[n+]2[O-],5290.0,nM,IC50,5.28,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2413954,COC(=O)c1ccc2c(c1)[n+]([O-])c(C(=O)c1cccs1)c(C(F)(F)F)[n+]2[O-],350.0,nM,IC50,6.46,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2413981,COC(=O)c1ccc2c(c1)[n+]([O-])c(C(=O)c1ccccc1)c(C(F)(F)F)[n+]2[O-],6070.0,nM,IC50,5.22,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2413980,COC(=O)c1ccc2c(c1)[n+]([O-])c(C(=O)C(C)C)c(C(F)(F)F)[n+]2[O-],1880.0,nM,IC50,5.73,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2413979,COC(=O)c1ccc2c(c1)[n+]([O-])c(C(C)=O)c(C(F)(F)F)[n+]2[O-],1530.0,nM,IC50,5.82,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2413978,CCOC(=O)c1c(-c2ccccc2)[n+]([O-])c2ccc(C(=O)OC)cc2[n+]1[O-],12250.0,nM,IC50,4.91,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2413977,COC(=O)c1ccc2c(c1)[n+]([O-])c(C(=O)Nc1ccccc1)c(C)[n+]2[O-],4140.0,nM,IC50,5.38,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2413976,COC(=O)c1ccc2c(c1)[n+]([O-])c(C(=O)c1ccccc1)c(C)[n+]2[O-],3430.0,nM,IC50,5.46,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2413974,CCOC(=O)c1c(C)[n+]([O-])c2ccc(C(=O)OC)cc2[n+]1[O-],1990.0,nM,IC50,5.70,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2413973,COC(=O)c1ccc2c(c1)[n+]([O-])c(C(=O)OC)c(C)[n+]2[O-],4170.0,nM,IC50,5.38,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL2413972,COC(=O)c1ccc2c(c1)[n+]([O-])c(C(C)=O)c(C)[n+]2[O-],1410.0,nM,IC50,5.85,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL50588,CC[C@H]1CN2CCc3cc(OC)c(OC)cc3[C@@H]2C[C@@H]1C[C@H]1NCCc2cc(OC)c(OC)cc21,2180.0,nM,IC50,5.66,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3115699,COc1cc(NC(c2coc3ccccc3c2=O)c2nnnn2C2CCCCC2)cc(OC)c1OC,87900.0,nM,IC50,4.06,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3127932,O=C(CCN1CCN(c2ccnc3cc(Cl)ccc23)CC1)N/N=C/c1c[nH]c2ccccc12,9600.0,nM,IC50,5.02,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3127927,COc1ccc(OC)c(/C=N/NC(=O)CCN2CCN(c3ccnc4cc(Cl)ccc34)CC2)c1,8200.0,nM,IC50,5.09,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3127922,COc1ccc(/C=N/NC(=O)CCN2CCN(c3ccnc4cc(Cl)ccc34)CC2)cc1OC,11600.0,nM,IC50,4.94,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3127954,COc1cc(/C=N/NC(=O)CCN2CCN(c3ccnc4cc(Cl)ccc34)CC2)ccc1O,21300.0,nM,IC50,4.67,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3127951,O=C(CCN1CCN(c2ccnc3cc(Cl)ccc23)CC1)N/N=C/c1ccccc1C(F)(F)F,8100.0,nM,IC50,5.09,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3127950,CC(C)Oc1ccc(/C=N/NC(=O)CCN2CCN(c3ccnc4cc(Cl)ccc34)CC2)cc1,5300.0,nM,IC50,5.28,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3127949,CCOc1ccc(/C=N/NC(=O)CCN2CCN(c3ccnc4cc(Cl)ccc34)CC2)cc1,12000.0,nM,IC50,4.92,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3127948,COc1ccc(/C=N/NC(=O)CCN2CCN(c3ccnc4cc(Cl)ccc34)CC2)cc1,19700.0,nM,IC50,4.71,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3127945,O=C(CCN1CCN(c2ccnc3cc(Cl)ccc23)CC1)N/N=C/c1ccccc1O,25600.0,nM,IC50,4.59,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3127944,O=C(CCN1CCN(c2ccnc3cc(Cl)ccc23)CC1)N/N=C/c1ccc(Cl)cc1,87200.0,nM,IC50,4.06,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3127943,O=C(CCN1CCN(c2ccnc3cc(Cl)ccc23)CC1)N/N=C/c1cccc(Cl)c1,7700.0,nM,IC50,5.11,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3127942,O=C(CCN1CCN(c2ccnc3cc(Cl)ccc23)CC1)N/N=C/c1ccccc1Cl,12300.0,nM,IC50,4.91,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3127941,O=C(CCN1CCN(c2ccnc3cc(Cl)ccc23)CC1)N/N=C/c1ccc([N+](=O)[O-])cc1,950.0,nM,IC50,6.02,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3127940,O=C(CCN1CCN(c2ccnc3cc(Cl)ccc23)CC1)N/N=C/c1cccc([N+](=O)[O-])c1,12600.0,nM,IC50,4.90,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3127939,O=C(CCN1CCN(c2ccnc3cc(Cl)ccc23)CC1)N/N=C/c1ccccc1[N+](=O)[O-],11300.0,nM,IC50,4.95,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3127938,CN(C)c1ccc(/C=N/NC(=O)CCN2CCN(c3ccnc4cc(Cl)ccc34)CC2)cc1,15200.0,nM,IC50,4.82,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3127937,CC(C)c1ccc(/C=N/NC(=O)CCN2CCN(c3ccnc4cc(Cl)ccc34)CC2)cc1,17100.0,nM,IC50,4.77,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3127936,CCc1ccc(/C=N/NC(=O)CCN2CCN(c3ccnc4cc(Cl)ccc34)CC2)cc1,11100.0,nM,IC50,4.96,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3127935,Cc1ccc(/C=N/NC(=O)CCN2CCN(c3ccnc4cc(Cl)ccc34)CC2)cc1,8100.0,nM,IC50,5.09,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3127934,O=C(CCN1CCN(c2ccnc3cc(Cl)ccc23)CC1)N/N=C/c1ccccc1,6600.0,nM,IC50,5.18,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3585386,C(=N/N(c1ccccc1)c1ccccc1)\c1ccccc1,78000.0,nM,IC50,4.11,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3199194,C(=N/N=C/c1ccccc1)\c1ccccc1,96000.0,nM,IC50,4.02,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3585384,O=[N+]([O-])c1cccc(/C=N/N(c2ccccc2)c2ccccc2)c1,19000.0,nM,IC50,4.72,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3585383,O=[N+]([O-])c1ccc(-c2ccc(/C=N/N(c3ccccc3)c3ccccc3)o2)cc1,16000.0,nM,IC50,4.80,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3585382,O=C(/C(=N/Cc1ccccc1)c1ccccc1)c1ccccc1,47000.0,nM,IC50,4.33,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3585381,C(=N/N(c1ccccc1)c1ccccc1)\c1cccs1,7600.0,nM,IC50,5.12,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3585380,O=[N+]([O-])c1ccc(-c2ccc(/C=N/N=C/c3ccc(-c4ccc([N+](=O)[O-])cc4)o3)o2)cc1,13000.0,nM,IC50,4.89,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3585379,O=C(/C(=N/N=C(/C(=O)c1ccccc1)c1ccccc1)c1ccccc1)c1ccccc1,18000.0,nM,IC50,4.75,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3585378,O=[N+]([O-])c1ccc(-c2ccc(/C=N/Nc3ccccc3)o2)cc1,980.0,nM,IC50,6.01,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3605274,Cc1ncc([N+](=O)[O-])n1CCOc1ccc(/C=N/NC(=O)c2cc(O)cc(O)c2)cc1,370.0,nM,IC50,6.43,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3605273,COc1cc(OC)cc(C(=O)N/N=C/c2ccc(OCCn3c([N+](=O)[O-])cnc3C)cc2)c1,4390.0,nM,IC50,5.36,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3605272,Cc1cc(C)cc(C(=O)N/N=C/c2ccc(OCCn3c([N+](=O)[O-])cnc3C)cc2)c1,5960.0,nM,IC50,5.22,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3605271,Cc1ncc([N+](=O)[O-])n1CCOc1ccc(/C=N/NC(=O)c2ccc(C(C)(C)C)cc2)cc1,1980.0,nM,IC50,5.70,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3605270,Cc1ncc([N+](=O)[O-])n1CCOc1ccc(/C=N/NC(=O)c2ccc(N)cc2)cc1,430.0,nM,IC50,6.37,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3605269,Cc1ccc(C(=O)N/N=C/c2ccc(OCCn3c([N+](=O)[O-])cnc3C)cc2)cc1,490.0,nM,IC50,6.31,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3605268,COc1ccc(C(=O)N/N=C/c2ccc(OCCn3c([N+](=O)[O-])cnc3C)cc2)cc1,7120.0,nM,IC50,5.15,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3605267,Cc1ncc([N+](=O)[O-])n1CCOc1ccc(/C=N/NC(=O)c2ccc([N+](=O)[O-])cc2)cc1,360.0,nM,IC50,6.44,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3605266,Cc1ncc([N+](=O)[O-])n1CCOc1ccc(/C=N/NC(=O)c2ccc(O)cc2)cc1,380.0,nM,IC50,6.42,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3605265,Cc1ncc([N+](=O)[O-])n1CCOc1ccc(/C=N/NC(=O)c2ccc(Cl)cc2)cc1,200.0,nM,IC50,6.70,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3605264,Cc1ncc([N+](=O)[O-])n1CCOc1ccc(/C=N/NC(=O)c2ccccc2)cc1,2020.0,nM,IC50,5.70,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3605263,Cc1ncc([N+](=O)[O-])n1CCOc1ccc(C=O)cc1,11480.0,nM,IC50,4.94,Entamoeba histolytica HM-1:IMSS,organism-based format,True
+CHEMBL3739801,C=C1[C@@H]2CC[C@H]3[C@]4(C)CCC[C@@](C)(C(=O)O)[C@H]4CC[C@]3(C2)[C@@H]1O[C@H]1O[C@@H](C)[C@@H](O)[C@@H](O)[C@@H]1O,73500.0,nM,IC50,4.13,Entamoeba histolytica HM-1:IMSS,organism-based format,True

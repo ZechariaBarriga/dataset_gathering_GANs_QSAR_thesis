@@ -1,0 +1,28 @@
+molecule_chembl_id,canonical_smiles,standard_value,standard_units,standard_type,pchembl_value,target_pref_name,bao_label
+CHEMBL1412,C1CNCCN1,83000.0,nM,IC50,4.08,HL-60,cell-based format
+CHEMBL236150,CC(=O)Oc1c(I)cc(I)cc1C(=O)Nc1ccc(Cl)cc1,813.0,nM,IC50,6.09,"NACHT, LRR and PYD domains-containing protein 3",assay format
+CHEMBL443605,CCCCCCc1ccc(O)cc1O,560.0,nM,IC50,6.25,Tyrosinase,single protein format
+CHEMBL528271,CCCCc1ccc2[nH]c(NC(=O)OC)nc2c1,5.66,nM,IC50,8.25,Unchecked,cell-based format
+CHEMBL1087630,CCCOc1ccc2[nH]c(NC(=O)OC)nc2c1,46.7,nM,IC50,7.33,Unchecked,cell-based format
+CHEMBL1483,CCCSc1ccc2[nH]c(NC(=O)OC)nc2c1,37.0,nM,IC50,7.43,Giardia intestinalis,organism-based format
+CHEMBL2105088,CCOC(=O)Nc1nc2ccccc2[nH]1,37.0,nM,IC50,7.43,Giardia intestinalis,organism-based format
+CHEMBL1599768,CN1CCCN=C1/C=C/c1cccs1.O=C(O)c1cc2ccccc2c(Cc2c(O)c(C(=O)O)cc3ccccc23)c1O,3.7,nM,IC50,8.43,NON-PROTEIN TARGET,assay format
+CHEMBL685,COC(=O)Nc1nc2cc(C(=O)c3ccccc3)ccc2[nH]1,54.2,nM,IC50,7.27,Unchecked,cell-based format
+CHEMBL37161,COC(=O)Nc1nc2cc(Sc3ccccc3)ccc2[nH]1,1.0,nM,IC50,9.0,Unchecked,assay format
+CHEMBL42442,COC(=O)Nc1nc2cc([S+]([O-])c3ccccc3)ccc2[nH]1,1.0,nM,IC50,9.0,Unchecked,assay format
+CHEMBL1788401,COC(=O)Nc1nc2ccc(C(=O)C3CC3)cc2[nH]1,154.7,nM,IC50,6.81,Unchecked,assay format
+CHEMBL167911,COP(=O)(OC)OC=C(Cl)Cl,60.1,nM,IC50,7.22,Acetylcholinesterase,single protein format
+CHEMBL1086440,CSc1nc2cc(Cl)c(Oc3cccc(Cl)c3Cl)cc2[nH]1,3500.0,nM,IC50,5.46,Transthyretin,single protein format
+CHEMBL256563,C[C@](C#N)(COc1cc(C#N)ccc1C(F)(F)F)NC(=O)c1ccc(SC(F)(F)F)cc1,75.0,nM,IC50,7.12,Haemonchus contortus,organism-based format
+CHEMBL1201303,Cc1cc(/C=C/c2ccc3cc(N(C)C)ccc3[n+]2C)c(C)n1-c1ccccc1,10.0,nM,IC50,8.0,Unchecked,cell-based format
+CHEMBL1908377,Cc1cc(/C=C/c2ccc3cc(N(C)C)ccc3[n+]2C)c(C)n1-c1ccccc1.Cc1cc(/C=C/c2ccc3cc(N(C)C)ccc3[n+]2C)c(C)n1-c1ccccc1.O=C([O-])c1cc2ccccc2c(Cc2c(O)c(C(=O)[O-])cc3ccccc23)c1O,500.0,nM,IC50,6.3,Fumarate reductase,single protein format
+CHEMBL12131,Cc1cc(C(C#N)c2ccc(Cl)cc2)c(Cl)cc1NC(=O)c1cc(I)cc(I)c1O,43.8,nM,IC50,7.36,Unchecked,cell-based format
+CHEMBL976,O=C(C1CCCCC1)N1CC(=O)N2CCc3ccccc3C2C1,77.0,nM,IC50,7.11,Schistosoma mansoni,organism-based format
+CHEMBL287542,O=C(Nc1ccc(Oc2ccc(Cl)cc2)c(Cl)c1)c1cc(I)cc(I)c1O,8.4,nM,IC50,8.08,Unchecked,assay format
+CHEMBL1448,O=C(Nc1ccc([N+](=O)[O-])cc1Cl)c1cc(Cl)ccc1O,0.56,nM,IC50,9.25,Plasmodium falciparum,organism-based format
+CHEMBL152632,O=C1NCCN1c1ncc([N+](=O)[O-])s1,15880.0,nM,IC50,4.8,Unchecked,assay format
+CHEMBL304432,O=[N+]([O-])c1ccc(Oc2ccc(N=C=S)cc2)cc1,1065.4,nM,IC50,5.97,Unchecked,assay format
+CHEMBL290106,Oc1c(Cl)cc(Cl)cc1Sc1cc(Cl)cc(Cl)c1O,1.0,nM,IC50,9.0,Unchecked,assay format
+CHEMBL33845,Oc1ccc(Cl)cc1Cc1cc(Cl)ccc1O,546.4,nM,IC50,6.26,Unchecked,cell-based format
+CHEMBL1454,c1ccc([C@H]2CN3CCSC3=N2)cc1,4392.0,nM,IC50,5.36,Unchecked,cell membrane format
+CHEMBL625,c1ccc2[nH]c(-c3cscn3)nc2c1,472.0,nM,IC50,6.33,Methionine aminopeptidase,assay format

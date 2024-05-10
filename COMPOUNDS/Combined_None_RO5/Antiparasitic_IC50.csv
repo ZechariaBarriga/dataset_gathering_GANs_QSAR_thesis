@@ -1,0 +1,63 @@
+molecule_chembl_id,canonical_smiles,standard_value,standard_units,standard_type,pchembl_value,target_pref_name,bao_label
+CHEMBL1412,C1CNCCN1,83000.0,nM,IC50,4.08,HL-60,cell-based format
+CHEMBL170,C=C[C@H]1CN2CC[C@H]1C[C@H]2[C@H](O)c1ccnc2ccc(OC)cc12,0.7,nM,IC50,9.15,Plasmodium falciparum,organism-based format
+CHEMBL1330792,CC(=O)Nc1cc([As](=O)(O)O)ccc1O,100000.0,nM,IC50,4.0,14 kDa phosphohistidine phosphatase,single protein format
+CHEMBL236150,CC(=O)Oc1c(I)cc(I)cc1C(=O)Nc1ccc(Cl)cc1,813.0,nM,IC50,6.09,"NACHT, LRR and PYD domains-containing protein 3",assay format
+CHEMBL1401,CC(=O)Oc1ccccc1C(=O)Nc1ncc([N+](=O)[O-])s1,15.0,nM,IC50,7.82,Giardia intestinalis,organism-based format
+CHEMBL1377,CC(C)NC(=N)NC(=N)Nc1ccc(Cl)cc1,3800.0,nM,IC50,5.42,A549,cell-based format
+CHEMBL747,CC1(C)N=C(N)N=C(N)N1c1ccc(Cl)cc1,0.118,nM,IC50,9.93,Plasmodium falciparum,organism-based format
+CHEMBL290960,CC1CS(=O)(=O)CCN1/N=C/c1ccc([N+](=O)[O-])o1,110.0,nM,IC50,6.96,Leishmania donovani,organism-based format
+CHEMBL125,CCCCCCCCCCCCCCCCOP(=O)([O-])OCC[N+](C)(C)C,0.27,nM,IC50,9.57,Leishmania donovani,organism-based format
+CHEMBL1107,CCCCN(CCCC)CCC(O)c1cc2c(Cl)cc(Cl)cc2c2cc(C(F)(F)F)ccc12,2.8,nM,IC50,8.55,Plasmodium falciparum (isolate K1 / Thailand),organism-based format
+CHEMBL1483,CCCSc1ccc2[nH]c(NC(=O)OC)nc2c1,37.0,nM,IC50,7.43,Giardia intestinalis,organism-based format
+CHEMBL964,CCN(CC)C(=S)SSC(=S)N(CC)CC,31.1,nM,IC50,7.51,Unchecked,assay format
+CHEMBL7568,CCN(CC)CCCC(C)Nc1c2ccc(Cl)cc2nc2ccc(OC)cc12,13.0,nM,IC50,7.89,Plasmodium falciparum 3D7,organism-based format
+CHEMBL76,CCN(CC)CCCC(C)Nc1ccnc2cc(Cl)ccc12,0.03,nM,IC50,10.52,Plasmodium falciparum,organism-based format
+CHEMBL682,CCN(CC)Cc1cc(Nc2ccnc3cc(Cl)ccc23)ccc1O,4.0,nM,IC50,8.4,Plasmodium falciparum NF54,organism-based format
+CHEMBL1535,CCN(CCO)CCCC(C)Nc1ccnc2cc(Cl)ccc12,21.5,nM,IC50,7.67,Plasmodium falciparum,organism-based format
+CHEMBL301267,CCO[C@H]1O[C@@H]2O[C@@]3(C)CC[C@H]4[C@H](C)CC[C@@H]([C@H]1C)[C@@]24OO3,1.08,nM,IC50,8.97,Plasmodium falciparum (isolate K1 / Thailand),organism-based format
+CHEMBL1220,CCS(=O)(=O)CCn1c([N+](=O)[O-])cnc1C,300.0,nM,IC50,6.52,Giardia intestinalis,organism-based format
+CHEMBL1630577,CC[C@H](C)[C@H]1O[C@]2(C=C[C@@H]1C)C[C@@H]1C[C@@H](C/C=C(\C)[C@@H](O[C@H]3C[C@H](OC)[C@@H](O[C@H]4C[C@H](OC)[C@@H](O)[C@H](C)O4)[C@H](C)O3)[C@@H](C)/C=C/C=C3\CO[C@@H]4[C@H](O)C(C)=C[C@@H](C(=O)O1)[C@]34O)O2,8600.0,nM,IC50,5.07,NON-PROTEIN TARGET,cell-based format
+CHEMBL50588,CC[C@H]1CN2CCc3cc(OC)c(OC)cc3[C@@H]2C[C@@H]1C[C@H]1NCCc2cc(OC)c(OC)cc21,0.19,nM,IC50,9.72,CHO,cell-based format
+CHEMBL36,CCc1nc(N)nc(N)c1-c1ccc(Cl)cc1,0.028,nM,IC50,10.55,Plasmodium falciparum,organism-based format
+CHEMBL120563,CN(C)C(=S)SSC(=S)N(C)C,20.0,nM,IC50,7.7,Aldehyde dehydrogenase 1A1,single protein format
+CHEMBL685,COC(=O)Nc1nc2cc(C(=O)c3ccccc3)ccc2[nH]1,54.2,nM,IC50,7.27,Unchecked,cell-based format
+CHEMBL37161,COC(=O)Nc1nc2cc(Sc3ccccc3)ccc2[nH]1,1.0,nM,IC50,9.0,Unchecked,assay format
+CHEMBL1788401,COC(=O)Nc1nc2ccc(C(=O)C3CC3)cc2[nH]1,154.7,nM,IC50,6.81,Unchecked,assay format
+CHEMBL32838,CO[C@@H]1[C@H](OC(=O)/C=C/C=C/C=C/C=C/C(=O)O)CC[C@]2(CO2)[C@H]1[C@@]1(C)O[C@@H]1CC=C(C)C,0.63,nM,IC50,9.2,Methionine aminopeptidase 2,single protein format
+CHEMBL566534,CO[C@H]1O[C@@H]2O[C@@]3(C)CC[C@H]4[C@H](C)CC[C@@H]([C@H]1C)[C@@]24OO3,1.26,nM,IC50,8.9,Plasmodium falciparum,organism-based format
+CHEMBL298470,COc1cc(C)c2c(Oc3cccc(C(F)(F)F)c3)c(OC)cc(NC(C)CCCN)c2n1,140.0,nM,IC50,6.85,Plasmodium cynomolgi,organism-based format
+CHEMBL506,COc1cc(NC(C)CCCN)c2ncccc2c1,6.17,nM,IC50,8.21,Plasmodium falciparum,organism-based format
+CHEMBL119,COc1cc(NCc2ccc3nc(N)nc(N)c3c2C)cc(OC)c1OC,1.35,nM,IC50,8.87,Dihydrofolate reductase,cell-based format
+CHEMBL1631694,CSc1ccc(OCc2ncc([N+](=O)[O-])n2C)cc1,400.0,nM,IC50,6.4,Trypanosoma brucei brucei,organism-based format
+CHEMBL1086440,CSc1nc2cc(Cl)c(Oc3cccc(Cl)c3Cl)cc2[nH]1,3500.0,nM,IC50,5.46,Transthyretin,single protein format
+CHEMBL567597,C[C@@H]1CC[C@H]2[C@@H](C)C(=O)O[C@@H]3O[C@]4(C)CC[C@@H]1[C@]32OO4,0.82,nM,IC50,9.09,Plasmodium falciparum,organism-based format
+CHEMBL252518,C[C@H]1[C@@H](O)O[C@@H]2O[C@]3(C)CC[C@H]4[C@H](C)CC[C@@H]1[C@@]24OO3,0.22,nM,IC50,9.66,Unchecked,cell-based format
+CHEMBL361497,C[C@H]1[C@H](OC(=O)CCC(=O)O)O[C@@H]2O[C@@]3(C)CC[C@H]4[C@H](C)CC[C@@H]1[C@@]24OO3,0.3,nM,IC50,9.52,Plasmodium falciparum,organism-based format
+CHEMBL1201303,Cc1cc(/C=C/c2ccc3cc(N(C)C)ccc3[n+]2C)c(C)n1-c1ccccc1,10.0,nM,IC50,8.0,Unchecked,cell-based format
+CHEMBL2205807,Cc1ccc(-c2ccc(C)cn2)nc1,4500.0,nM,IC50,5.35,No relevant target,small-molecule physicochemical format
+CHEMBL265502,Cc1ccc(C(=O)Nc2ccc(S(=O)(=O)O)c3cc(S(=O)(=O)O)cc(S(=O)(=O)O)c23)cc1NC(=O)c1cccc(NC(=O)Nc2cccc(C(=O)Nc3cc(C(=O)Nc4ccc(S(=O)(=O)O)c5cc(S(=O)(=O)O)cc(S(=O)(=O)O)c45)ccc3C)c2)c1,5.0,nM,IC50,8.3,Trypanosoma brucei brucei,organism-based format
+CHEMBL224325,Cc1ccc2c(Cl)cc(Cl)c(O)c2n1,10100.0,nM,IC50,5.0,Botulinum neurotoxin type A,assay format
+CHEMBL498847,Cc1ncc([N+](=O)[O-])n1CC(C)O,810.0,nM,IC50,6.09,Trichomonas vaginalis,organism-based format
+CHEMBL1449676,Cc1ncc([N+](=O)[O-])n1CC(O)CCl,25930.0,nM,IC50,4.59,Trypanosoma brucei rhodesiense,organism-based format
+CHEMBL137,Cc1ncc([N+](=O)[O-])n1CCO,68.0,nM,IC50,7.17,Trichomonas vaginalis,organism-based format
+CHEMBL15891,Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl,0.9,nM,IC50,9.05,GABA receptor beta-3 subunit,single protein format
+CHEMBL55,N=C(N)c1ccc(OCCCCCOc2ccc(C(=N)N)cc2)cc1,0.8,nM,IC50,9.1,Trypanosoma brucei,organism-based format
+CHEMBL869,NC(=O)N/N=C/c1ccc([N+](=O)[O-])o1,88100.0,nM,IC50,4.05,Snake venom metalloproteinase Bap1,single protein format
+CHEMBL830,NCCCC(N)(C(=O)O)C(F)F,26.0,nM,IC50,7.58,NON-PROTEIN TARGET,assay format
+CHEMBL166,Nc1nc(N)nc(Nc2ccc([As]3SCC(CO)S3)cc2)n1,2.6,nM,IC50,8.59,Trypanosoma brucei brucei,organism-based format
+CHEMBL976,O=C(C1CCCCC1)N1CC(=O)N2CCc3ccccc3C2C1,77.0,nM,IC50,7.11,Schistosoma mansoni,organism-based format
+CHEMBL110,O=C(Cn1ccnc1[N+](=O)[O-])NCc1ccccc1,1.8,nM,IC50,8.74,Trypanosoma cruzi,organism-based format
+CHEMBL287542,O=C(Nc1ccc(Oc2ccc(Cl)cc2)c(Cl)c1)c1cc(I)cc(I)c1O,8.4,nM,IC50,8.08,Unchecked,assay format
+CHEMBL1448,O=C(Nc1ccc([N+](=O)[O-])cc1Cl)c1cc(Cl)ccc1O,0.56,nM,IC50,9.25,Plasmodium falciparum,organism-based format
+CHEMBL1545,O=C(Nc1ncc([N+](=O)[O-])s1)c1ccccc1O,150.0,nM,IC50,6.82,Hepatitis B virus,cell-based format
+CHEMBL1239,O=C(OCc1ccccc1)c1ccccc1,1100.0,nM,IC50,5.96,Hormone-sensitive lipase,assay format
+CHEMBL1450,O=C1C(O)=C([C@H]2CC[C@H](c3ccc(Cl)cc3)CC2)C(=O)c2ccccc21,0.014,nM,IC50,10.85,Plasmodium berghei,organism-based format
+CHEMBL152632,O=C1NCCN1c1ncc([N+](=O)[O-])s1,15880.0,nM,IC50,4.8,Unchecked,assay format
+CHEMBL416956,OC(c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12)C1CCCCN1,0.31,nM,IC50,9.51,Plasmodium falciparum,organism-based format
+CHEMBL223448,Oc1c(Br)cc(Br)c2cccnc12,114.24,nM,IC50,6.94,Unchecked,assay format
+CHEMBL290106,Oc1c(Cl)cc(Cl)cc1Sc1cc(Cl)cc(Cl)c1O,1.0,nM,IC50,9.0,Unchecked,assay format
+CHEMBL497,Oc1c(I)cc(Cl)c2cccnc12,345.3,nM,IC50,6.46,Unchecked,assay format
+CHEMBL33845,Oc1ccc(Cl)cc1Cc1cc(Cl)ccc1O,546.4,nM,IC50,6.26,Unchecked,cell-based format
+CHEMBL1454,c1ccc([C@H]2CN3CCSC3=N2)cc1,4392.0,nM,IC50,5.36,Unchecked,cell membrane format
+CHEMBL625,c1ccc2[nH]c(-c3cscn3)nc2c1,472.0,nM,IC50,6.33,Methionine aminopeptidase,assay format
